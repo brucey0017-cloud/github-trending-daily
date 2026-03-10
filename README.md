@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GitHub Trending Daily
 
-## Getting Started
+GitHub 热门项目日报系统（MVP）。
 
-First, run the development server:
+架构：
+- GitHub Actions：每日抓取 + 生成数据 + Telegram 推送
+- GitHub Repo：存储 `data/*.json`
+- Vercel：前端展示
+
+## 技术栈
+
+- Next.js 14 (App Router)
+- TypeScript (strict)
+- Tailwind CSS
+- axios + cheerio
+- node-telegram-bot-api
+
+## 环境变量
+
+复制 `.env.example` 并填充：
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+cp .env.example .env.local
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+关键变量：
+- `KIMI_API_KEY`
+- `GITHUB_TOKEN`
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+- `APP_BASE_URL`（Telegram 消息中的页面链接）
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 本地命令
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm ci
+npm run lint
+npm run build
+npm run scrape
+```
 
-## Learn More
+`npm run scrape` 会执行完整 pipeline：
+1. 抓取 trending（daily + weekly）
+2. 过滤/分类（hot/gem）
+3. Kimi 生成一句话总结（含重试）
+4. 安全评分
+5. 落盘：
+   - `data/YYYY-MM-DD.json`
+   - `data/latest.json`
+   - `data/history/YYYY-MM.json`
 
-To learn more about Next.js, take a look at the following resources:
+## Vercel 部署（Checkpoint 3.1）
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+本仓库已包含 `vercel.json`：
+- 使用 `npm ci --no-audit --no-fund` 安装依赖
+- 使用 `npm run build` 构建
+- framework 指定为 `nextjs`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+在 Vercel Project Settings → Environment Variables 中添加：
+- `KIMI_API_KEY`
+- `GITHUB_TOKEN`
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+- `APP_BASE_URL`
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> 说明：前端展示本身不强依赖上述变量，但后续自动化任务与 Telegram 推送会使用到。
