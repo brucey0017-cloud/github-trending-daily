@@ -3,7 +3,7 @@
   "days": [
     {
       "date": "2026-03-10",
-      "generated_at": "2026-03-10T10:57:19.089Z",
+      "generated_at": "2026-03-10T11:14:23.692Z",
       "projects": [
         {
           "id": "openclaw/openclaw",
@@ -11,10 +11,10 @@
           "owner": "openclaw",
           "url": "https://github.com/openclaw/openclaw",
           "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-          "ai_summary": "跨平台个人 AI 助手框架，支持全操作系统部署，提供私有化本地智能服务。",
+          "ai_summary": "跨平台个人 AI 助手，支持全操作系统运行，提供随处可用的私有智能辅助。",
           "language": "TypeScript",
-          "stars": 295619,
-          "forks": 55891,
+          "stars": 295727,
+          "forks": 55901,
           "stars_today": 9164,
           "stars_this_week": 0,
           "category": "hot",
@@ -27,11 +27,11 @@
             "repo_age_days": 106,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 12035,
-            "pr_count": 23451,
+            "issue_count": 12048,
+            "pr_count": 23457,
             "star_fork_ratio": 5.29
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -40,10 +40,10 @@
           "owner": "msitarzewski",
           "url": "https://github.com/msitarzewski/agency-agents",
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "ai_summary": "集成前端开发与社区管理等专家角色的 AI 代理集合，构建全功能自动化 AI 团队。",
+          "ai_summary": "提供一组具备特定个性和交付流程的 AI 代理，涵盖前端与社区管理等角色，用于构建全自动化的数字代理机构。",
           "language": "Shell",
-          "stars": 21541,
-          "forks": 3370,
+          "stars": 21605,
+          "forks": 3385,
           "stars_today": 4415,
           "stars_this_week": 16812,
           "category": "hot",
@@ -58,11 +58,11 @@
             "repo_age_days": 147,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 30,
-            "pr_count": 62,
-            "star_fork_ratio": 6.39
+            "issue_count": 31,
+            "pr_count": 63,
+            "star_fork_ratio": 6.38
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -71,10 +71,10 @@
           "owner": "bytedance",
           "url": "https://github.com/bytedance/deer-flow",
           "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-          "ai_summary": "字节跳动开源 SuperAgent 框架，整合沙箱与记忆能力，自主完成代码编写与复杂研究任务。",
+          "ai_summary": "字节开源 SuperAgent 框架，结合沙箱与多级代理能力，自主解决耗时数小时的复杂任务。",
           "language": "Python",
-          "stars": 27905,
-          "forks": 3328,
+          "stars": 27924,
+          "forks": 3335,
           "stars_today": 1443,
           "stars_this_week": 3555,
           "category": "hot",
@@ -90,9 +90,9 @@
             "has_readme": true,
             "issue_count": 243,
             "pr_count": 536,
-            "star_fork_ratio": 8.38
+            "star_fork_ratio": 8.37
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -101,9 +101,9 @@
           "owner": "obra",
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "ai_summary": "智能体技能框架与软件开发方法论，通过规范化流程提升 AI 开发效能。",
+          "ai_summary": "提供行之有效的代理技能框架与开发方法论，通过结构化指令提升软件工程效率。",
           "language": "Shell",
-          "stars": 75859,
+          "stars": 75879,
           "forks": 5874,
           "stars_today": 1387,
           "stars_this_week": 0,
@@ -120,9 +120,9 @@
             "has_readme": true,
             "issue_count": 188,
             "pr_count": 319,
-            "star_fork_ratio": 12.91
+            "star_fork_ratio": 12.92
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -131,9 +131,9 @@
           "owner": "pbakaus",
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design language that makes your AI harness better at design.",
-          "ai_summary": "专为 AI 框架打造的设计语言，通过标准化设计规范提升 AI 生成内容的视觉质量。",
+          "ai_summary": "定义一套设计语言规范，旨在提升 AI 生成界面的视觉质量与布局合理性。",
           "language": "JavaScript",
-          "stars": 3372,
+          "stars": 3384,
           "forks": 124,
           "stars_today": 1288,
           "stars_this_week": 0,
@@ -149,9 +149,9 @@
             "has_readme": true,
             "issue_count": 10,
             "pr_count": 8,
-            "star_fork_ratio": 27.19
+            "star_fork_ratio": 27.29
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -160,9 +160,9 @@
           "owner": "GoogleCloudPlatform",
           "url": "https://github.com/GoogleCloudPlatform/generative-ai",
           "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-          "ai_summary": "Sample code and notebooks for Generative AI on Google Cloud…",
+          "ai_summary": "提供 Google Cloud Vertex AI 上 Gemini 模型的示例代码与笔记本，辅助开发者快速构建生成式…",
           "language": "Jupyter Notebook",
-          "stars": 15517,
+          "stars": 15521,
           "forks": 3981,
           "stars_today": 1282,
           "stars_this_week": 2328,
@@ -180,7 +180,7 @@
             "pr_count": 2310,
             "star_fork_ratio": 3.9
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -189,10 +189,10 @@
           "owner": "promptfoo",
           "url": "https://github.com/promptfoo/promptfoo",
           "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-          "ai_summary": "Test your prompts, agents, and RAGs. AI Red teaming, pentes…",
+          "ai_summary": "LLM 提示词、Agent 及 RAG 测试评估工具，提供红队演练、多模型对比及 CI/CD 集成能力。",
           "language": "TypeScript",
-          "stars": 11536,
-          "forks": 1056,
+          "stars": 11545,
+          "forks": 1057,
           "stars_today": 632,
           "stars_this_week": 0,
           "category": "hot",
@@ -211,7 +211,7 @@
             "pr_count": 6955,
             "star_fork_ratio": 10.92
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -220,10 +220,10 @@
           "owner": "alibaba",
           "url": "https://github.com/alibaba/page-agent",
           "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-          "ai_summary": "JavaScript in-page GUI agent. Control web interfaces with n…",
+          "ai_summary": "运行在页面内的 GUI 代理，支持通过自然语言直接控制 Web 界面交互。",
           "language": "TypeScript",
-          "stars": 3009,
-          "forks": 232,
+          "stars": 3021,
+          "forks": 233,
           "stars_today": 465,
           "stars_this_week": 0,
           "category": "hot",
@@ -241,7 +241,7 @@
             "pr_count": 127,
             "star_fork_ratio": 12.97
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -252,7 +252,7 @@
           "description": "The agent that grows with you",
           "ai_summary": "The agent that grows with you",
           "language": "Python",
-          "stars": 3296,
+          "stars": 3302,
           "forks": 434,
           "stars_today": 377,
           "stars_this_week": 1210,
@@ -267,11 +267,11 @@
             "repo_age_days": 230,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 275,
-            "pr_count": 561,
-            "star_fork_ratio": 7.59
+            "issue_count": 258,
+            "pr_count": 565,
+            "star_fork_ratio": 7.61
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -280,10 +280,10 @@
           "owner": "karpathy",
           "url": "https://github.com/karpathy/nanochat",
           "description": "The best ChatGPT that $100 can buy.",
-          "ai_summary": "The best ChatGPT that $100 can buy.",
+          "ai_summary": "演示在百美元级硬件上部署高性能 LLM 聊天应用的极简方案，强调成本与效率。",
           "language": "Python",
-          "stars": 45870,
-          "forks": 6056,
+          "stars": 45878,
+          "forks": 6058,
           "stars_today": 355,
           "stars_this_week": 0,
           "category": "hot",
@@ -300,7 +300,7 @@
             "pr_count": 375,
             "star_fork_ratio": 7.57
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -309,10 +309,10 @@
           "owner": "virattt",
           "url": "https://github.com/virattt/ai-hedge-fund",
           "description": "An AI Hedge Fund Team",
-          "ai_summary": "An AI Hedge Fund Team",
+          "ai_summary": "构建AI智能体模拟对冲基金团队，通过多角色协作实现自动化金融分析与投资决策。",
           "language": "Python",
-          "stars": 47265,
-          "forks": 8229,
+          "stars": 47266,
+          "forks": 8230,
           "stars_today": 316,
           "stars_this_week": 0,
           "category": "hot",
@@ -329,7 +329,7 @@
             "pr_count": 258,
             "star_fork_ratio": 5.74
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -338,10 +338,10 @@
           "owner": "moeru-ai",
           "url": "https://github.com/moeru-ai/airi",
           "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "ai_summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of …",
+          "ai_summary": "自托管 AI 虚拟伴侣系统，支持实时语音交互及 Minecraft 等游戏操作，构建类 Neuro-sama 智能体。",
           "language": "TypeScript",
-          "stars": 31999,
-          "forks": 3147,
+          "stars": 32004,
+          "forks": 3148,
           "stars_today": 0,
           "stars_this_week": 10661,
           "category": "hot",
@@ -350,15 +350,15 @@
           ],
           "security_score": 100,
           "security_details": {
-            "author_age_days": 709,
+            "author_age_days": 710,
             "repo_age_days": 463,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 98,
-            "pr_count": 865,
+            "issue_count": 100,
+            "pr_count": 866,
             "star_fork_ratio": 10.17
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -367,9 +367,9 @@
           "owner": "shareAI-lab",
           "url": "https://github.com/shareAI-lab/learn-claude-code",
           "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-          "ai_summary": "Bash is all you need - A nano Claude Code–like agent, built…",
+          "ai_summary": "从零构建类 Claude Code 的微型智能体，利用 Bash 实现核心逻辑，揭示 AI 编程智能体的底层架构原理。",
           "language": "TypeScript",
-          "stars": 24740,
+          "stars": 24742,
           "forks": 4501,
           "stars_today": 0,
           "stars_this_week": 4177,
@@ -389,7 +389,7 @@
             "pr_count": 39,
             "star_fork_ratio": 5.5
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -398,9 +398,9 @@
           "owner": "ItzCrazyKns",
           "url": "https://github.com/ItzCrazyKns/Vane",
           "description": "Vane is an AI-powered answering engine.",
-          "ai_summary": "Vane is an AI-powered answering engine.",
+          "ai_summary": "构建基于 AI 的智能回答引擎，结合检索与生成技术提供精准答案，实现高效的搜索式问答服务。",
           "language": "TypeScript",
-          "stars": 32549,
+          "stars": 32550,
           "forks": 3494,
           "stars_today": 0,
           "stars_this_week": 3283,
@@ -418,7 +418,7 @@
             "pr_count": 312,
             "star_fork_ratio": 9.32
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         },
         {
@@ -427,9 +427,9 @@
           "owner": "alibaba",
           "url": "https://github.com/alibaba/OpenSandbox",
           "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-          "ai_summary": "OpenSandbox is a general-purpose sandbox platform for AI ap…",
+          "ai_summary": "阿里开源的通用沙箱平台，提供多语言 SDK 与统一 API，支持 Docker/K8s，为 AI 智能体执行与代码运行…",
           "language": "Python",
-          "stars": 7323,
+          "stars": 7326,
           "forks": 540,
           "stars_today": 0,
           "stars_this_week": 3262,
@@ -445,11 +445,11 @@
             "repo_age_days": 83,
             "has_license": true,
             "has_readme": true,
-            "issue_count": 54,
-            "pr_count": 327,
-            "star_fork_ratio": 13.56
+            "issue_count": 55,
+            "pr_count": 328,
+            "star_fork_ratio": 13.57
           },
-          "trending_days": 2,
+          "trending_days": 3,
           "first_seen": "2026-03-10T00:00:00.000Z"
         }
       ],
