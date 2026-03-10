@@ -25,6 +25,8 @@ cp .env.example .env.local
 
 关键变量：
 - `KIMI_API_KEY`
+- `KIMI_BASE_URL`
+- `KIMI_MODEL`
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
@@ -62,9 +64,12 @@ npm run notify
 
 在 Vercel Project Settings → Environment Variables 中添加：
 - `KIMI_API_KEY`
+- `KIMI_BASE_URL`
+- `KIMI_MODEL`
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
+- `TELEGRAM_THREAD_ID`（可选）
 - `APP_BASE_URL`
 
 > 说明：前端展示本身不强依赖上述变量，但后续自动化任务与 Telegram 推送会使用到。
