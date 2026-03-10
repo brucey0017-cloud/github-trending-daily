@@ -37,6 +37,7 @@ npm ci
 npm run lint
 npm run build
 npm run scrape
+npm run notify
 ```
 
 `npm run scrape` 会执行完整 pipeline：
@@ -48,6 +49,8 @@ npm run scrape
    - `data/YYYY-MM-DD.json`
    - `data/latest.json`
    - `data/history/YYYY-MM.json`
+
+`npm run notify` 会读取 `data/latest.json` 并发送 Telegram 日报（自动分段，避免 4096 字符限制）。
 
 ## Vercel 部署（Checkpoint 3.1）
 
