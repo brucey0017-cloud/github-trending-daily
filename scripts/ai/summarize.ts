@@ -53,8 +53,17 @@ function toShortSummary(text: string, fallback: string): string {
 }
 
 function fallbackSummary(project: ClassifiedProject): string {
-  const base = safeText(project.description) || `${project.name} 提供实用开源能力，建议查看仓库说明与示例。`;
-  return toShortSummary(base, `${project.name} 提供实用开源能力。`);
+  const description = safeText(project.description);
+
+  if (description && /[\u4e00-\u9fff]/.test(description)) {
+    return toShortSummary(description, `${project.name} 提供实用开源能力。`);
+  }
+
+  const tagText = project.tags.length > 0 ? project.tags.join(' / ') : '开源工具';
+  const language = project.language || '多语言';
+  const chineseFallback = `${project.name} 是一个面向 ${tagText} 场景的开源项目，使用 ${language} 开发。`;
+
+  return toShortSummary(chineseFallback, `${project.name} 提供实用开源能力。`);
 }
 
 function toErrorMessage(error: unknown): string {
@@ -291,9 +300,23 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
       logInfo(`AI summary batch ${index + 1}/${batches.length} completed.`);
     } catch (error) {
-      logWarn(
-        `AI summary batch ${index + 1}/${batches.length} failed, fallback to one-by-one retries: ${toErrorMessage(error)}`,
-      );
+      const errMessage = toErrorMessage(error);
+
+      if (errMessage.includes('ECONNABORTED') || errMessage.toLowerCase().includes('timeout')) {
+        logWarn(
+          `AI summary batch ${index + 1}/${batches.length} timeout. Kimi 当前不可用，剩余项目统一使用中文兜底摘要。`,
+        );
+
+        for (let rest = index; rest < batches.length; rest += 1) {
+          for (const project of batches[rest] as ClassifiedProject[]) {
+            summaryMap.set(project.id, fallbackSummary(project));
+          }
+        }
+
+        return summaryMap;
+      }
+
+      logWarn(`AI summary batch ${index + 1}/${batches.length} failed, fallback to one-by-one retries: ${errMessage}`);
       await summarizeBatchOneByOne(batch, config, summaryMap);
     }
   }
