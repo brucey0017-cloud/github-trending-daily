@@ -24,15 +24,17 @@ cp .env.example .env.local
 ```
 
 关键变量：
-- `KIMI_API_KEY`
-- `KIMI_BASE_URL`
-- `KIMI_MODEL`
-- `KIMI_BATCH_SIZE`（可选，默认 3）
+- `SUMMARY_API_KEY`
+- `SUMMARY_BASE_URL`
+- `SUMMARY_MODEL`
+- `SUMMARY_BATCH_SIZE`（可选，默认 3）
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
 - `TELEGRAM_THREAD_ID`（可选，Telegram 话题帖 thread id）
 - `APP_BASE_URL`（Telegram 消息中的页面链接）
+
+> 兼容说明：保留 `KIMI_*` 作为备用回滚配置，优先使用 `SUMMARY_*`。
 
 ## 本地命令
 
@@ -64,10 +66,10 @@ npm run notify
 - framework 指定为 `nextjs`
 
 在 Vercel Project Settings → Environment Variables 中添加：
-- `KIMI_API_KEY`
-- `KIMI_BASE_URL`
-- `KIMI_MODEL`
-- `KIMI_BATCH_SIZE`（可选，默认 3）
+- `SUMMARY_API_KEY`
+- `SUMMARY_BASE_URL`
+- `SUMMARY_MODEL`
+- `SUMMARY_BATCH_SIZE`（可选，默认 3）
 - `GITHUB_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`

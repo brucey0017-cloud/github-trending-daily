@@ -6,19 +6,19 @@ import { fileURLToPath } from 'node:url';
 import type { ClassifiedProject } from '../../lib/types';
 import { logInfo, logWarn, safeText, withRetry } from '../../lib/utils';
 
-interface KimiConfig {
+interface SummaryConfig {
   apiKey?: string;
   baseUrl: string;
   model: string;
 }
 
-interface KimiBatchSummary {
+interface BatchSummary {
   id: string;
   summary: string;
 }
 
-const DEFAULT_BASE_URL = 'https://api.moonshot.cn/v1';
-const DEFAULT_MODEL = 'kimi-k2.5';
+const DEFAULT_BASE_URL = 'https://open.bigmodel.cn/api/coding/paas/v4';
+const DEFAULT_MODEL = 'glm-5';
 const DEFAULT_BATCH_SIZE = 3;
 const MAX_BATCH_SIZE = 5;
 const MAX_SUMMARY_LENGTH = 60;
@@ -87,7 +87,7 @@ function toErrorMessage(error: unknown): string {
 }
 
 function resolveBatchSize(): number {
-  const parsed = Number.parseInt(process.env.KIMI_BATCH_SIZE ?? `${DEFAULT_BATCH_SIZE}`, 10);
+  const parsed = Number.parseInt(process.env.SUMMARY_BATCH_SIZE ?? process.env.KIMI_BATCH_SIZE ?? `${DEFAULT_BATCH_SIZE}`, 10);
   if (!Number.isFinite(parsed)) {
     return DEFAULT_BATCH_SIZE;
   }
@@ -95,7 +95,7 @@ function resolveBatchSize(): number {
   return Math.max(1, Math.min(MAX_BATCH_SIZE, parsed));
 }
 
-function loadOpenClawMoonshotConfig(): Partial<KimiConfig> {
+function loadOpenClawSummaryConfig(): Partial<SummaryConfig> {
   try {
     const configPath = process.env.OPENCLAW_CONFIG_PATH ?? '/root/.openclaw/openclaw.json';
     if (!fs.existsSync(configPath)) {
@@ -104,39 +104,50 @@ function loadOpenClawMoonshotConfig(): Partial<KimiConfig> {
 
     const parsed = JSON.parse(fs.readFileSync(configPath, 'utf8')) as {
       models?: {
-        providers?: {
-          moonshot?: {
-            baseUrl?: string;
-            apiKey?: string;
-            models?: Array<{ id?: string }>;
-          };
-        };
+        providers?: Record<string, {
+          baseUrl?: string;
+          apiKey?: string;
+          models?: Array<{ id?: string }>;
+        }>;
       };
     };
 
-    const moonshot = parsed.models?.providers?.moonshot;
-    if (!moonshot) {
-      return {};
+    const providers = parsed.models?.providers ?? {};
+    const preferredProviders = ['zhipu-coding', 'openai', 'openrouter', 'moonshot'];
+
+    for (const providerName of preferredProviders) {
+      const provider = providers[providerName];
+      if (!provider) {
+        continue;
+      }
+
+      const apiKey = typeof provider.apiKey === 'string' ? provider.apiKey : undefined;
+      const model = provider.models?.[0]?.id;
+      if (!apiKey || !provider.baseUrl || !model) {
+        continue;
+      }
+
+      return {
+        apiKey,
+        baseUrl: provider.baseUrl,
+        model,
+      };
     }
 
-    return {
-      baseUrl: moonshot.baseUrl,
-      apiKey: typeof moonshot.apiKey === 'string' ? moonshot.apiKey : undefined,
-      model: moonshot.models?.[0]?.id,
-    };
+    return {};
   } catch (error) {
-    logWarn(`Failed to load moonshot config from openclaw.json: ${toErrorMessage(error)}`);
+    logWarn(`Failed to load summary config from openclaw.json: ${toErrorMessage(error)}`);
     return {};
   }
 }
 
-function resolveKimiConfig(): KimiConfig {
-  const fileConfig = loadOpenClawMoonshotConfig();
+function resolveSummaryConfig(): SummaryConfig {
+  const fileConfig = loadOpenClawSummaryConfig();
 
   return {
-    apiKey: process.env.KIMI_API_KEY ?? fileConfig.apiKey,
-    baseUrl: process.env.KIMI_BASE_URL ?? fileConfig.baseUrl ?? DEFAULT_BASE_URL,
-    model: process.env.KIMI_MODEL ?? fileConfig.model ?? DEFAULT_MODEL,
+    apiKey: process.env.SUMMARY_API_KEY ?? process.env.KIMI_API_KEY ?? fileConfig.apiKey,
+    baseUrl: process.env.SUMMARY_BASE_URL ?? process.env.KIMI_BASE_URL ?? fileConfig.baseUrl ?? DEFAULT_BASE_URL,
+    model: process.env.SUMMARY_MODEL ?? process.env.KIMI_MODEL ?? fileConfig.model ?? DEFAULT_MODEL,
   };
 }
 
@@ -166,7 +177,7 @@ function buildBatchPrompt(batch: ClassifiedProject[]): string {
   ].join('\n');
 }
 
-async function callKimiForBatch(batch: ClassifiedProject[], config: KimiConfig): Promise<KimiBatchSummary[]> {
+async function callSummaryApiForBatch(batch: ClassifiedProject[], config: SummaryConfig): Promise<BatchSummary[]> {
   const payload = {
     model: config.model,
     temperature: 0.2,
@@ -202,7 +213,7 @@ async function callKimiForBatch(batch: ClassifiedProject[], config: KimiConfig):
 
       const rawContent = response.data.choices?.[0]?.message?.content;
       if (!rawContent) {
-        throw new Error('Kimi response does not contain message.content');
+        throw new Error('Summary API response does not contain message.content');
       }
 
       return rawContent;
@@ -215,10 +226,10 @@ async function callKimiForBatch(batch: ClassifiedProject[], config: KimiConfig):
 
   const parsed = JSON.parse(jsonPayload) as unknown;
   if (!Array.isArray(parsed)) {
-    throw new Error('Kimi summary result is not an array JSON payload.');
+    throw new Error('Summary result is not an array JSON payload.');
   }
 
-  const result: KimiBatchSummary[] = [];
+  const result: BatchSummary[] = [];
   for (const item of parsed) {
     if (!item || typeof item !== 'object') {
       continue;
@@ -250,12 +261,12 @@ function splitIntoBatches<T>(items: T[], batchSize: number): T[][] {
 
 async function summarizeBatchOneByOne(
   batch: ClassifiedProject[],
-  config: KimiConfig,
+  config: SummaryConfig,
   summaryMap: Map<string, string>,
 ): Promise<void> {
   for (const project of batch) {
     try {
-      const oneResult = await callKimiForBatch([project], config);
+      const oneResult = await callSummaryApiForBatch([project], config);
       const oneSummary = oneResult.find((item) => item.id === project.id)?.summary;
       summaryMap.set(project.id, toShortSummary(oneSummary ?? '', fallbackSummary(project)));
     } catch (error) {
@@ -272,10 +283,10 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
     return summaryMap;
   }
 
-  const config = resolveKimiConfig();
+  const config = resolveSummaryConfig();
 
   if (!config.apiKey) {
-    logWarn('KIMI_API_KEY is missing. Fallback to description-based summaries.');
+    logWarn('SUMMARY_API_KEY/KIMI_API_KEY is missing. Fallback to Chinese template summaries.');
     for (const project of projects) {
       summaryMap.set(project.id, fallbackSummary(project));
     }
@@ -284,13 +295,13 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
   const batchSize = resolveBatchSize();
   const batches = splitIntoBatches(projects, batchSize);
-  logInfo(`Start AI summarization in ${batches.length} batch(es), batchSize=${batchSize}.`);
+  logInfo(`Start AI summarization with model=${config.model} in ${batches.length} batch(es), batchSize=${batchSize}.`);
 
   for (let index = 0; index < batches.length; index += 1) {
     const batch = batches[index] as ClassifiedProject[];
 
     try {
-      const batchResult = await callKimiForBatch(batch, config);
+      const batchResult = await callSummaryApiForBatch(batch, config);
       const batchMap = new Map(batchResult.map((item) => [item.id, item.summary]));
 
       for (const project of batch) {
@@ -304,7 +315,7 @@ export async function summarizeProjects(projects: ClassifiedProject[]): Promise<
 
       if (errMessage.includes('ECONNABORTED') || errMessage.toLowerCase().includes('timeout')) {
         logWarn(
-          `AI summary batch ${index + 1}/${batches.length} timeout. Kimi 当前不可用，剩余项目统一使用中文兜底摘要。`,
+          `AI summary batch ${index + 1}/${batches.length} timeout. model=${config.model} endpoint 当前不可用，剩余项目统一使用中文兜底摘要。`,
         );
 
         for (let rest = index; rest < batches.length; rest += 1) {

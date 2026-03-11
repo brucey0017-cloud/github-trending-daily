@@ -34,6 +34,11 @@ jobs:
 
       - name: Run daily pipeline
         env:
+          SUMMARY_API_KEY: ${{ secrets.SUMMARY_API_KEY }}
+          SUMMARY_BASE_URL: ${{ secrets.SUMMARY_BASE_URL }}
+          SUMMARY_MODEL: ${{ secrets.SUMMARY_MODEL }}
+          SUMMARY_BATCH_SIZE: ${{ secrets.SUMMARY_BATCH_SIZE }}
+          # Backward compatibility (kept for emergency rollback)
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           KIMI_BASE_URL: ${{ secrets.KIMI_BASE_URL }}
           KIMI_MODEL: ${{ secrets.KIMI_MODEL }}
