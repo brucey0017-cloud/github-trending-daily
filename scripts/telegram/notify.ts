@@ -3,10 +3,13 @@ import path from 'node:path';
 import TelegramBot from 'node-telegram-bot-api';
 
 import type { DailyData, GitHubProject } from '../../lib/types';
-import { logError, logInfo, logWarn, sleep, withRetry } from '../../lib/utils';
+import { logError, logInfo, sleep, withRetry } from '../../lib/utils';
 
 const TELEGRAM_MAX_MESSAGE_LENGTH = 4096;
 const SAFE_MESSAGE_LIMIT = 3800;
+
+const REQUIRED_CHAT_ID = '-1003826061483';
+const REQUIRED_THREAD_ID = 29;
 
 function formatNumber(value: number): string {
   return new Intl.NumberFormat('en-US').format(value);
@@ -104,12 +107,19 @@ export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<vo
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
   const threadIdRaw = process.env.TELEGRAM_THREAD_ID;
-  const threadId = threadIdRaw ? Number.parseInt(threadIdRaw, 10) : undefined;
+  const threadId = threadIdRaw ? Number.parseInt(threadIdRaw, 10) : Number.NaN;
   const appBaseUrl = process.env.APP_BASE_URL ?? 'https://your-vercel-app.vercel.app';
 
-  if (!token || !chatId) {
-    logWarn('TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is missing, skip Telegram notify.');
-    return;
+  if (!token || !chatId || !threadIdRaw) {
+    throw new Error('TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID / TELEGRAM_THREAD_ID 缺失，已阻止发送。');
+  }
+
+  if (chatId !== REQUIRED_CHAT_ID) {
+    throw new Error(`TELEGRAM_CHAT_ID 不符合固定目标，收到 ${chatId}，期望 ${REQUIRED_CHAT_ID}`);
+  }
+
+  if (!Number.isFinite(threadId) || threadId !== REQUIRED_THREAD_ID) {
+    throw new Error(`TELEGRAM_THREAD_ID 不符合固定目标，收到 ${threadIdRaw}，期望 ${REQUIRED_THREAD_ID}`);
   }
 
   const data = dailyData ?? (await readLatestDailyData());
@@ -117,7 +127,9 @@ export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<vo
 
   const bot = new TelegramBot(token, { polling: false });
 
-  logInfo(`Start Telegram notify. messages=${messages.length}, projects=${data.projects.length}`);
+  logInfo(
+    `Start Telegram notify. messages=${messages.length}, projects=${data.projects.length}, chatId=${chatId}, threadId=${threadId}`,
+  );
 
   for (let i = 0; i < messages.length; i += 1) {
     const message = messages[i] as string;
@@ -126,7 +138,7 @@ export async function sendTelegramDailyReport(dailyData?: DailyData): Promise<vo
       async () => {
         await bot.sendMessage(chatId, message, {
           disable_web_page_preview: true,
-          ...(threadId && Number.isFinite(threadId) ? { message_thread_id: threadId } : {}),
+          message_thread_id: threadId,
         });
       },
       3,
