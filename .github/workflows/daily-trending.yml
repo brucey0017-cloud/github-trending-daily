@@ -2,7 +2,7 @@ name: Daily GitHub Trending
 
 on:
   schedule:
-    - cron: '0 1 * * *' # UTC 01:00 = Asia/Hong_Kong 09:00
+    - cron: '15 1 * * *' # UTC 01:15 = Asia/Hong_Kong 09:15
   workflow_dispatch:
 
 permissions:
