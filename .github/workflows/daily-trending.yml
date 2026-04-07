@@ -95,6 +95,16 @@ jobs:
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: npm run notify:feishu:weekly
 
+      - name: Sync to Feishu Base
+        if: env.FEISHU_APP_ID != '' && env.FEISHU_BASE_TOKEN != ''
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BASE_TOKEN: ${{ secrets.FEISHU_BASE_TOKEN }}
+          FEISHU_TABLE_ID: ${{ secrets.FEISHU_TABLE_ID }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+        run: npm run sync:feishu
+
       - name: Commit and push data updates
         run: |
           git config user.name "github-actions[bot]"
