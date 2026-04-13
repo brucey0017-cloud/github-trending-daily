@@ -4888,6 +4888,351 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-13",
+      "generated_at": "2026-04-13T04:29:45.176Z",
+      "projects": [
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 69472,
+          "forks": 9274,
+          "stars_today": 7454,
+          "stars_this_week": 38426,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1058,
+            "repo_age_days": 264,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3593,
+            "pr_count": 6744,
+            "star_fork_ratio": 7.49
+          },
+          "trending_days": 21,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 17746,
+          "forks": 1341,
+          "stars_today": 2369,
+          "stars_this_week": 7319,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4323,
+            "repo_age_days": 76,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 23,
+            "star_fork_ratio": 13.23
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "multica 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 9730,
+          "forks": 1234,
+          "stars_today": 1609,
+          "stars_this_week": 6846,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 89,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 144,
+            "pr_count": 657,
+            "star_fork_ratio": 7.88
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-11T00:00:00.000Z"
+        },
+        {
+          "id": "shanraisshan/claude-code-best-practice",
+          "name": "claude-code-best-practice",
+          "owner": "shanraisshan",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "ai_summary": "claude-code-best-practice 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 39478,
+          "forks": 3727,
+          "stars_today": 1548,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4030,
+            "repo_age_days": 163,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 28,
+            "star_fork_ratio": 10.59
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-11T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 50560,
+          "forks": 3990,
+          "stars_today": 753,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5500,
+            "repo_age_days": 224,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 212,
+            "pr_count": 746,
+            "star_fork_ratio": 12.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 52295,
+          "forks": 9066,
+          "stars_today": 663,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5393,
+            "repo_age_days": 499,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 99,
+            "pr_count": 309,
+            "star_fork_ratio": 5.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "coleam00/Archon",
+          "name": "Archon",
+          "owner": "coleam00",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "ai_summary": "Archon 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17186,
+          "forks": 2721,
+          "stars_today": 612,
+          "stars_this_week": 2962,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2626,
+            "repo_age_days": 429,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 120,
+            "pr_count": 473,
+            "star_fork_ratio": 6.32
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "snarktank/ralph",
+          "name": "ralph",
+          "owner": "snarktank",
+          "url": "https://github.com/snarktank/ralph",
+          "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+          "ai_summary": "ralph 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 16070,
+          "forks": 1597,
+          "stars_today": 463,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 868,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 96,
+            "star_fork_ratio": 10.06
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/DeepTutor",
+          "name": "DeepTutor",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "ai_summary": "DeepTutor 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 17347,
+          "forks": 2279,
+          "stars_today": 0,
+          "stars_this_week": 5873,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1245,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 182,
+            "star_fork_ratio": 7.61
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "google-ai-edge/gallery",
+          "name": "gallery",
+          "owner": "google-ai-edge",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "ai_summary": "gallery 是一个面向 AI 场景的开源项目，使用 Kotlin 开发。",
+          "language": "Kotlin",
+          "stars": 20723,
+          "forks": 1957,
+          "stars_today": 0,
+          "stars_this_week": 4148,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 881,
+            "repo_age_days": 377,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 249,
+            "pr_count": 272,
+            "star_fork_ratio": 10.59
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-06T00:00:00.000Z"
+        },
+        {
+          "id": "TheCraigHewitt/seomachine",
+          "name": "seomachine",
+          "owner": "TheCraigHewitt",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+          "ai_summary": "seomachine 是一个面向 AI / 内容创作 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 5828,
+          "forks": 825,
+          "stars_today": 0,
+          "stars_this_week": 2815,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4752,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 33,
+            "star_fork_ratio": 7.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-12T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 11,
+        "hot": 11,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 6,
+          "Agent": 5,
+          "AI": 8,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
