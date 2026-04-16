@@ -6042,6 +6042,443 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-16",
+      "generated_at": "2026-04-16T04:24:35.813Z",
+      "projects": [
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 44252,
+          "forks": 3604,
+          "stars_today": 9646,
+          "stars_this_week": 30919,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4326,
+            "repo_age_days": 79,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 60,
+            "pr_count": 42,
+            "star_fork_ratio": 12.28
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-09T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 58096,
+          "forks": 4716,
+          "stars_today": 2305,
+          "stars_this_week": 10779,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5503,
+            "repo_age_days": 227,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 139,
+            "pr_count": 783,
+            "star_fork_ratio": 12.32
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 154653,
+          "forks": 13426,
+          "stars_today": 2055,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6305,
+            "repo_age_days": 188,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 291,
+            "pr_count": 606,
+            "star_fork_ratio": 11.52
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-15T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 55218,
+          "forks": 9580,
+          "stars_today": 1058,
+          "stars_this_week": 4314,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5396,
+            "repo_age_days": 502,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 314,
+            "star_fork_ratio": 5.76
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 29787,
+          "forks": 3618,
+          "stars_today": 941,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2283,
+            "repo_age_days": 737,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 16,
+            "star_fork_ratio": 8.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "vercel-labs/open-agents",
+          "name": "open-agents",
+          "owner": "vercel-labs",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "ai_summary": "open-agents 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2746,
+          "forks": 300,
+          "stars_today": 915,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1384,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 762,
+            "star_fork_ratio": 9.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "google/magika",
+          "name": "magika",
+          "owner": "google",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "ai_summary": "magika 是一个面向 AI / 内容创作 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13929,
+          "forks": 734,
+          "stars_today": 768,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5202,
+            "repo_age_days": 967,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 129,
+            "pr_count": 731,
+            "star_fork_ratio": 18.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "Donchitos/Claude-Code-Game-Studios",
+          "name": "Claude-Code-Game-Studios",
+          "owner": "Donchitos",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+          "ai_summary": "Claude-Code-Game-Studios 是一个面向 AI / Skills / Agent 场景的开源项目，…",
+          "language": "Shell",
+          "stars": 10702,
+          "forks": 1611,
+          "stars_today": 612,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 890,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 3,
+            "star_fork_ratio": 6.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 2092,
+          "forks": 264,
+          "stars_today": 446,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4828,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 38,
+            "star_fork_ratio": 7.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 90515,
+          "forks": 12409,
+          "stars_today": 0,
+          "stars_this_week": 53110,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1061,
+            "repo_age_days": 267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 4746,
+            "pr_count": 8184,
+            "star_fork_ratio": 7.29
+          },
+          "trending_days": 24,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "multica 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 13786,
+          "forks": 1702,
+          "stars_today": 0,
+          "stars_this_week": 10864,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 92,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 202,
+            "pr_count": 871,
+            "star_fork_ratio": 8.1
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-11T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 15994,
+          "forks": 2040,
+          "stars_today": 0,
+          "stars_this_week": 6693,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6101,
+            "repo_age_days": 59,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35,
+            "pr_count": 52,
+            "star_fork_ratio": 7.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/DeepTutor",
+          "name": "DeepTutor",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "ai_summary": "DeepTutor 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18497,
+          "forks": 2436,
+          "stars_today": 0,
+          "stars_this_week": 5500,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1248,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 197,
+            "star_fork_ratio": 7.59
+          },
+          "trending_days": 7,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        },
+        {
+          "id": "coleam00/Archon",
+          "name": "Archon",
+          "owner": "coleam00",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "ai_summary": "Archon 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 18253,
+          "forks": 2858,
+          "stars_today": 0,
+          "stars_this_week": 4263,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2629,
+            "repo_age_days": 432,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 152,
+            "pr_count": 522,
+            "star_fork_ratio": 6.39
+          },
+          "trending_days": 7,
+          "first_seen": "2026-04-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 14,
+        "hot": 14,
+        "gem": 0,
+        "by_tag": {
+          "AI": 8,
+          "Skills": 10,
+          "Agent": 9,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
