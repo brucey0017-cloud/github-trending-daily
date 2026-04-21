@@ -8349,6 +8349,469 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-04-21",
+      "generated_at": "2026-04-21T04:21:23.377Z",
+      "projects": [
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一个面向 金融 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 9952,
+          "forks": 1352,
+          "stars_today": 3109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 610,
+            "repo_age_days": 599,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 105,
+            "star_fork_ratio": 7.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "openai/openai-agents-python",
+          "name": "openai-agents-python",
+          "owner": "openai",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "ai_summary": "openai-agents-python 是一个面向 AI / Skills / Agent 场景的开源项目，使用 P…",
+          "language": "Python",
+          "stars": 24066,
+          "forks": 3700,
+          "stars_today": 905,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3852,
+            "repo_age_days": 406,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 70,
+            "pr_count": 1736,
+            "star_fork_ratio": 6.5
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        },
+        {
+          "id": "thunderbird/thunderbolt",
+          "name": "thunderbolt",
+          "owner": "thunderbird",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "ai_summary": "thunderbolt 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2901,
+          "forks": 175,
+          "stars_today": 675,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3837,
+            "repo_age_days": 271,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 35,
+            "pr_count": 597,
+            "star_fork_ratio": 16.58
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 50349,
+          "forks": 8161,
+          "stars_today": 316,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5355,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 2758,
+            "star_fork_ratio": 6.17
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        },
+        {
+          "id": "deepseek-ai/DeepGEMM",
+          "name": "DeepGEMM",
+          "owner": "deepseek-ai",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+          "ai_summary": "DeepGEMM 是一个面向 AI 场景的开源项目，使用 Cuda 开发。",
+          "language": "Cuda",
+          "stars": 6863,
+          "forks": 904,
+          "stars_today": 109,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 915,
+            "repo_age_days": 431,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 157,
+            "star_fork_ratio": 7.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-21T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 67930,
+          "forks": 6061,
+          "stars_today": 0,
+          "stars_this_week": 44394,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4331,
+            "repo_age_days": 84,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 54,
+            "star_fork_ratio": 11.21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 105951,
+          "forks": 15155,
+          "stars_today": 0,
+          "stars_this_week": 30630,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1066,
+            "repo_age_days": 272,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5874,
+            "pr_count": 10138,
+            "star_fork_ratio": 6.99
+          },
+          "trending_days": 29,
+          "first_seen": "2026-03-24T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 64500,
+          "forks": 5424,
+          "stars_today": 0,
+          "stars_this_week": 12472,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5508,
+            "repo_age_days": 232,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 123,
+            "pr_count": 814,
+            "star_fork_ratio": 11.89
+          },
+          "trending_days": 9,
+          "first_seen": "2026-04-13T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "multica 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17805,
+          "forks": 2185,
+          "stars_today": 0,
+          "stars_this_week": 7009,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 97,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 279,
+            "pr_count": 1054,
+            "star_fork_ratio": 8.15
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 33034,
+          "forks": 4034,
+          "stars_today": 0,
+          "stars_this_week": 5703,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2288,
+            "repo_age_days": 742,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 18,
+            "star_fork_ratio": 8.19
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "EvoMap/evolver",
+          "name": "evolver",
+          "owner": "EvoMap",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "ai_summary": "evolver 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 6074,
+          "forks": 578,
+          "stars_today": 0,
+          "stars_this_week": 4032,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 58,
+            "repo_age_days": 78,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 60,
+            "star_fork_ratio": 10.51
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        },
+        {
+          "id": "virattt/ai-hedge-fund",
+          "name": "ai-hedge-fund",
+          "owner": "virattt",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "ai_summary": "ai-hedge-fund 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 56609,
+          "forks": 9828,
+          "stars_today": 0,
+          "stars_this_week": 3950,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5401,
+            "repo_age_days": 507,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 111,
+            "pr_count": 320,
+            "star_fork_ratio": 5.76
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 5121,
+          "forks": 548,
+          "stars_today": 0,
+          "stars_this_week": 3914,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4833,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 75,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-16T00:00:00.000Z"
+        },
+        {
+          "id": "BasedHardware/omi",
+          "name": "omi",
+          "owner": "BasedHardware",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "ai_summary": "omi 是一个面向 AI 场景的开源项目，使用 Dart 开发。",
+          "language": "Dart",
+          "stars": 11673,
+          "forks": 1817,
+          "stars_today": 0,
+          "stars_this_week": 3634,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 774,
+            "repo_age_days": 759,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 575,
+            "pr_count": 4645,
+            "star_fork_ratio": 6.42
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        },
+        {
+          "id": "SimoneAvogadro/android-reverse-engineering-skill",
+          "name": "android-reverse-engineering-skill",
+          "owner": "SimoneAvogadro",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description": "Claude Code skill to support Android app's reverse engineering",
+          "ai_summary": "android-reverse-engineering-skill 是一个面向 AI / Skills 场景的开源项目…",
+          "language": "Shell",
+          "stars": 4114,
+          "forks": 453,
+          "stars_today": 0,
+          "stars_this_week": 2299,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 4780,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 6,
+            "star_fork_ratio": 9.08
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-17T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 11,
+          "Skills": 8,
+          "Agent": 6
+        }
+      }
     }
   ]
 }
