@@ -11145,6 +11145,473 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-04-27",
+      "generated_at": "2026-04-27T04:40:21.634Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 24734,
+          "forks": 2006,
+          "stars_today": 2519,
+          "stars_this_week": 5013,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3281,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 32,
+            "star_fork_ratio": 12.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "ai_summary": "free-claude-code 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 14146,
+          "forks": 1999,
+          "stars_today": 1701,
+          "stars_this_week": 10335,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3572,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 107,
+            "star_fork_ratio": 7.08
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "GitNexus 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 30368,
+          "forks": 3509,
+          "stars_today": 700,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1156,
+            "repo_age_days": 267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 307,
+            "pr_count": 636,
+            "star_fork_ratio": 8.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "openclaw/openclaw",
+          "name": "openclaw",
+          "owner": "openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "ai_summary": "openclaw 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 364805,
+          "forks": 74714,
+          "stars_today": 627,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 60,
+          "security_details": {
+            "author_age_days": 113,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7211,
+            "pr_count": 38973,
+            "star_fork_ratio": 4.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-codex-skills",
+          "name": "awesome-codex-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "ai_summary": "awesome-codex-skills 是一个面向 Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 2135,
+          "forks": 163,
+          "stars_today": 517,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1132,
+            "repo_age_days": 104,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 30,
+            "star_fork_ratio": 13.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+          "ai_summary": "posthog 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 33921,
+          "forks": 2638,
+          "stars_today": 337,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2282,
+            "repo_age_days": 2285,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3772,
+            "pr_count": 46776,
+            "star_fork_ratio": 12.86
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+          "ai_summary": "cua 是一个面向 AI / Skills / Agent 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 14489,
+          "forks": 908,
+          "stars_today": 182,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 503,
+            "repo_age_days": 450,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 225,
+            "pr_count": 1063,
+            "star_fork_ratio": 15.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "gastownhall/beads",
+          "name": "beads",
+          "owner": "gastownhall",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "ai_summary": "beads 是一个面向 Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 21773,
+          "forks": 1443,
+          "stars_today": 152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 97,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 151,
+            "pr_count": 2018,
+            "star_fork_ratio": 15.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 91375,
+          "forks": 8751,
+          "stars_today": 0,
+          "stars_this_week": 29944,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4337,
+            "repo_age_days": 90,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 68,
+            "star_fork_ratio": 10.44
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一个面向 金融 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 15703,
+          "forks": 2137,
+          "stars_today": 0,
+          "stars_this_week": 10070,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 616,
+            "repo_age_days": 605,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 127,
+            "star_fork_ratio": 7.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/multica",
+          "name": "multica",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "ai_summary": "multica 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 21580,
+          "forks": 2622,
+          "stars_today": 0,
+          "stars_this_week": 4882,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 103,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 354,
+            "pr_count": 1248,
+            "star_fork_ratio": 8.23
+          },
+          "trending_days": 9,
+          "first_seen": "2026-04-19T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "claude-context 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScr…",
+          "language": "TypeScript",
+          "stars": 9670,
+          "forks": 734,
+          "stars_today": 0,
+          "stars_this_week": 3537,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3666,
+            "repo_age_days": 325,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 112,
+            "pr_count": 225,
+            "star_fork_ratio": 13.17
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-22T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "Open-Generative-AI 是一个面向 AI / 内容创作 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 8959,
+          "forks": 1624,
+          "stars_today": 0,
+          "stars_this_week": 3448,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4742,
+            "repo_age_days": 1083,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 45,
+            "star_fork_ratio": 5.52
+          },
+          "trending_days": 4,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7447,
+          "forks": 847,
+          "stars_today": 0,
+          "stars_this_week": 2936,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4839,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 121,
+            "star_fork_ratio": 8.79
+          },
+          "trending_days": 3,
+          "first_seen": "2026-04-25T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+          "ai_summary": "context-mode 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScrip…",
+          "language": "TypeScript",
+          "stars": 10456,
+          "forks": 723,
+          "stars_today": 0,
+          "stars_this_week": 2504,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4531,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 184,
+            "star_fork_ratio": 14.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 10,
+          "Agent": 8,
+          "金融": 1,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
