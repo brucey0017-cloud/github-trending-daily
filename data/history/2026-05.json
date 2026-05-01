@@ -1,0 +1,470 @@
+{
+  "month": "2026-05",
+  "days": [
+    {
+      "date": "2026-05-01",
+      "generated_at": "2026-05-01T04:57:35.942Z",
+      "projects": [
+        {
+          "id": "warpdotdev/warp",
+          "name": "warp",
+          "owner": "warpdotdev",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "ai_summary": "warp 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 49670,
+          "forks": 3260,
+          "stars_today": 8399,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2044,
+            "repo_age_days": 1757,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 3274,
+            "pr_count": 403,
+            "star_fork_ratio": 15.24
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 49997,
+          "forks": 4110,
+          "stars_today": 6187,
+          "stars_this_week": 30945,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3285,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 41,
+            "star_fork_ratio": 12.16
+          },
+          "trending_days": 6,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 58068,
+          "forks": 11046,
+          "stars_today": 2023,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 490,
+            "repo_age_days": 489,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 293,
+            "pr_count": 354,
+            "star_fork_ratio": 5.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 174749,
+          "forks": 15418,
+          "stars_today": 1632,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6320,
+            "repo_age_days": 203,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 283,
+            "pr_count": 678,
+            "star_fork_ratio": 11.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "maigret 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 20918,
+          "forks": 1456,
+          "stars_today": 730,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3181,
+            "repo_age_days": 2133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 995,
+            "star_fork_ratio": 14.37
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "ai_summary": "jcode 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 1949,
+          "forks": 177,
+          "stars_today": 675,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1629,
+            "repo_age_days": 115,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 20,
+            "star_fork_ratio": 11.01
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "lukilabs/craft-agents-oss",
+          "name": "craft-agents-oss",
+          "owner": "lukilabs",
+          "url": "https://github.com/lukilabs/craft-agents-oss",
+          "description": "",
+          "ai_summary": "craft-agents-oss 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript…",
+          "language": "TypeScript",
+          "stars": 5604,
+          "forks": 742,
+          "stars_today": 319,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2442,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 338,
+            "pr_count": 171,
+            "star_fork_ratio": 7.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "forrestchang/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "forrestchang",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 103306,
+          "forks": 10170,
+          "stars_today": 0,
+          "stars_this_week": 23062,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4341,
+            "repo_age_days": 94,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 77,
+            "pr_count": 76,
+            "star_fork_ratio": 10.16
+          },
+          "trending_days": 12,
+          "first_seen": "2026-04-20T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+          "ai_summary": "free-claude-code 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 19264,
+          "forks": 2743,
+          "stars_today": 0,
+          "stars_this_week": 14666,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3576,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 129,
+            "star_fork_ratio": 7.02
+          },
+          "trending_days": 8,
+          "first_seen": "2026-04-24T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/ml-intern",
+          "name": "ml-intern",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "ai_summary": "ml-intern 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7728,
+          "forks": 748,
+          "stars_today": 0,
+          "stars_this_week": 5665,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3364,
+            "repo_age_days": 182,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 159,
+            "star_fork_ratio": 10.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-04-30T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一个面向 金融 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18386,
+          "forks": 2465,
+          "stars_today": 0,
+          "stars_this_week": 4505,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 620,
+            "repo_age_days": 609,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 130,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 5,
+          "first_seen": "2026-04-27T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "Open-Generative-AI 是一个面向 AI / 内容创作 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 10461,
+          "forks": 1831,
+          "stars_today": 0,
+          "stars_this_week": 3799,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4746,
+            "repo_age_days": 1087,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 49,
+            "star_fork_ratio": 5.71
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "lsdefine/GenericAgent",
+          "name": "GenericAgent",
+          "owner": "lsdefine",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+          "ai_summary": "GenericAgent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8514,
+          "forks": 976,
+          "stars_today": 0,
+          "stars_this_week": 2350,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4843,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 51,
+            "pr_count": 147,
+            "star_fork_ratio": 8.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "zilliztech/claude-context",
+          "name": "claude-context",
+          "owner": "zilliztech",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "ai_summary": "claude-context 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScr…",
+          "language": "TypeScript",
+          "stars": 10457,
+          "forks": 769,
+          "stars_today": 0,
+          "stars_this_week": 2330,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3670,
+            "repo_age_days": 329,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 109,
+            "pr_count": 243,
+            "star_fork_ratio": 13.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 8485,
+          "forks": 1364,
+          "stars_today": 0,
+          "stars_this_week": 2064,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 686,
+            "repo_age_days": 174,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 29,
+            "star_fork_ratio": 6.22
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 6,
+          "AI": 9,
+          "金融": 2,
+          "内容创作": 1
+        }
+      }
+    }
+  ]
+}
