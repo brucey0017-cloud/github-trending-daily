@@ -4896,6 +4896,472 @@
           "金融": 2
         }
       }
+    },
+    {
+      "date": "2026-05-12",
+      "generated_at": "2026-05-12T04:48:28.142Z",
+      "projects": [
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 145280,
+          "forks": 22721,
+          "stars_today": 2065,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1087,
+            "repo_age_days": 293,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10258,
+            "pr_count": 18473,
+            "star_fork_ratio": 6.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/UI-TARS-desktop",
+          "name": "UI-TARS-desktop",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "ai_summary": "UI-TARS-desktop 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeSc…",
+          "language": "TypeScript",
+          "stars": 33165,
+          "forks": 3287,
+          "stars_today": 956,
+          "stars_this_week": 3211,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4774,
+            "repo_age_days": 477,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 388,
+            "pr_count": 1298,
+            "star_fork_ratio": 10.09
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-10T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "9router 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 8535,
+          "forks": 1350,
+          "stars_today": 941,
+          "stars_this_week": 4263,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4306,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 422,
+            "pr_count": 492,
+            "star_fork_ratio": 6.32
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "agentmemory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript…",
+          "language": "TypeScript",
+          "stars": 4933,
+          "forks": 466,
+          "stars_today": 430,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2616,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 161,
+            "star_fork_ratio": 10.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "yikart/AiToEarn",
+          "name": "AiToEarn",
+          "owner": "yikart",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "ai_summary": "AiToEarn 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 11052,
+          "forks": 2027,
+          "stars_today": 427,
+          "stars_this_week": 1226,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 483,
+            "repo_age_days": 441,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 172,
+            "star_fork_ratio": 5.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 37416,
+          "forks": 4584,
+          "stars_today": 422,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2309,
+            "repo_age_days": 763,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 20,
+            "star_fork_ratio": 8.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "openhuman 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 1653,
+          "forks": 192,
+          "stars_today": 366,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 168,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 64,
+            "pr_count": 878,
+            "star_fork_ratio": 8.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "rasbt/LLMs-from-scratch",
+          "name": "LLMs-from-scratch",
+          "owner": "rasbt",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "ai_summary": "LLMs-from-scratch 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 93143,
+          "forks": 14351,
+          "stars_today": 337,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4601,
+            "repo_age_days": 1023,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 570,
+            "star_fork_ratio": 6.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "millionco/react-doctor",
+          "name": "react-doctor",
+          "owner": "millionco",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "ai_summary": "react-doctor 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 8194,
+          "forks": 265,
+          "stars_today": 212,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1806,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 121,
+            "star_fork_ratio": 30.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 25665,
+          "forks": 2137,
+          "stars_today": 0,
+          "stars_this_week": 21752,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1523,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 360,
+            "pr_count": 651,
+            "star_fork_ratio": 12.01
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 73188,
+          "forks": 6334,
+          "stars_today": 0,
+          "stars_this_week": 12993,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3296,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 41,
+            "star_fork_ratio": 11.55
+          },
+          "trending_days": 17,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 39585,
+          "forks": 4366,
+          "stars_today": 0,
+          "stars_this_week": 11725,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6127,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 113,
+            "star_fork_ratio": 9.07
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-07T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+          "ai_summary": "ruflo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 49221,
+          "forks": 5464,
+          "stars_today": 0,
+          "stars_this_week": 8660,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4910,
+            "repo_age_days": 343,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 537,
+            "pr_count": 644,
+            "star_fork_ratio": 9.01
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-03T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 73955,
+          "forks": 14424,
+          "stars_today": 0,
+          "stars_this_week": 7259,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 501,
+            "repo_age_days": 500,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 334,
+            "pr_count": 474,
+            "star_fork_ratio": 5.13
+          },
+          "trending_days": 12,
+          "first_seen": "2026-05-01T00:00:00.000Z"
+        },
+        {
+          "id": "AIDC-AI/Pixelle-Video",
+          "name": "Pixelle-Video",
+          "owner": "AIDC-AI",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "ai_summary": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 15305,
+          "forks": 2222,
+          "stars_today": 0,
+          "stars_this_week": 4480,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 697,
+            "repo_age_days": 185,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 84,
+            "pr_count": 37,
+            "star_fork_ratio": 6.89
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-06T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 9,
+          "Agent": 7,
+          "AI": 12,
+          "金融": 1
+        }
+      }
     }
   ]
 }
