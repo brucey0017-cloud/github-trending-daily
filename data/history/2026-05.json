@@ -7243,6 +7243,414 @@
           "内容创作": 2
         }
       }
+    },
+    {
+      "date": "2026-05-17",
+      "generated_at": "2026-05-17T05:01:13.046Z",
+      "projects": [
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "openhuman 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 11032,
+          "forks": 954,
+          "stars_today": 1549,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 173,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 117,
+            "pr_count": 1153,
+            "star_fork_ratio": 11.56
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 194237,
+          "forks": 17272,
+          "stars_today": 1305,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6336,
+            "repo_age_days": 219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 278,
+            "pr_count": 748,
+            "star_fork_ratio": 11.25
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-14T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+          "ai_summary": "scientific-agent-skills 是一个面向 金融 / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 23297,
+          "forks": 2495,
+          "stars_today": 673,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 212,
+            "repo_age_days": 209,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 112,
+            "star_fork_ratio": 9.34
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-15T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "codegraph 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2677,
+          "forks": 225,
+          "stars_today": 416,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3686,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 106,
+            "star_fork_ratio": 11.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "Anil-matcha/Open-Generative-AI",
+          "name": "Open-Generative-AI",
+          "owner": "Anil-matcha",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+          "ai_summary": "Open-Generative-AI 是一个面向 AI / 内容创作 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 14562,
+          "forks": 2530,
+          "stars_today": 317,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "内容创作"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4762,
+            "repo_age_days": 1103,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 56,
+            "star_fork_ratio": 5.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 87159,
+          "forks": 7594,
+          "stars_today": 0,
+          "stars_this_week": 18795,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3301,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 41,
+            "star_fork_ratio": 11.48
+          },
+          "trending_days": 22,
+          "first_seen": "2026-04-26T00:00:00.000Z"
+        },
+        {
+          "id": "Hmbown/DeepSeek-TUI",
+          "name": "DeepSeek-TUI",
+          "owner": "Hmbown",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "ai_summary": "DeepSeek-TUI 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 30698,
+          "forks": 2588,
+          "stars_today": 0,
+          "stars_this_week": 7543,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1528,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 405,
+            "pr_count": 780,
+            "star_fork_ratio": 11.86
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-11T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/agentmemory",
+          "name": "agentmemory",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "ai_summary": "agentmemory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript…",
+          "language": "TypeScript",
+          "stars": 10464,
+          "forks": 879,
+          "stars_today": 0,
+          "stars_this_week": 6907,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2621,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 256,
+            "star_fork_ratio": 11.9
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "decolua/9router",
+          "name": "9router",
+          "owner": "decolua",
+          "url": "https://github.com/decolua/9router",
+          "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+          "ai_summary": "9router 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 11178,
+          "forks": 1716,
+          "stars_today": 0,
+          "stars_this_week": 4798,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4311,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 554,
+            "pr_count": 563,
+            "star_fork_ratio": 6.51
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-08T00:00:00.000Z"
+        },
+        {
+          "id": "yikart/AiToEarn",
+          "name": "AiToEarn",
+          "owner": "yikart",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "ai_summary": "AiToEarn 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 14342,
+          "forks": 2412,
+          "stars_today": 0,
+          "stars_this_week": 4765,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 488,
+            "repo_age_days": 446,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 183,
+            "star_fork_ratio": 5.95
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-12T00:00:00.000Z"
+        },
+        {
+          "id": "bytedance/UI-TARS-desktop",
+          "name": "UI-TARS-desktop",
+          "owner": "bytedance",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "ai_summary": "UI-TARS-desktop 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeSc…",
+          "language": "TypeScript",
+          "stars": 34265,
+          "forks": 3418,
+          "stars_today": 0,
+          "stars_this_week": 3105,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4779,
+            "repo_age_days": 482,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 392,
+            "pr_count": 1304,
+            "star_fork_ratio": 10.02
+          },
+          "trending_days": 8,
+          "first_seen": "2026-05-10T00:00:00.000Z"
+        },
+        {
+          "id": "millionco/react-doctor",
+          "name": "react-doctor",
+          "owner": "millionco",
+          "url": "https://github.com/millionco/react-doctor",
+          "description": "Your agent writes bad React. This catches it",
+          "ai_summary": "react-doctor 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 9805,
+          "forks": 307,
+          "stars_today": 0,
+          "stars_this_week": 2643,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1811,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 190,
+            "star_fork_ratio": 31.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/AI-Trader",
+          "name": "AI-Trader",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "ai_summary": "AI-Trader 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 17605,
+          "forks": 2702,
+          "stars_today": 0,
+          "stars_this_week": 2475,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1279,
+            "repo_age_days": 205,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 114,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 13,
+        "hot": 13,
+        "gem": 0,
+        "by_tag": {
+          "AI": 9,
+          "Skills": 8,
+          "Agent": 6,
+          "金融": 2,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
