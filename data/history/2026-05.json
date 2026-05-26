@@ -11382,6 +11382,470 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-05-26",
+      "generated_at": "2026-05-26T05:13:18.689Z",
+      "projects": [
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "Understand-Anything 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 32103,
+          "forks": 2632,
+          "stars_today": 5604,
+          "stars_this_week": 14750,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1769,
+            "repo_age_days": 72,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 131,
+            "star_fork_ratio": 12.2
+          },
+          "trending_days": 5,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "codegraph 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 25833,
+          "forks": 1435,
+          "stars_today": 3161,
+          "stars_this_week": 20208,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3695,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 172,
+            "pr_count": 244,
+            "star_fork_ratio": 18
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 19120,
+          "forks": 3216,
+          "stars_today": 3154,
+          "stars_this_week": 10035,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2630,
+            "repo_age_days": 68,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 168,
+            "star_fork_ratio": 5.95
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 155451,
+          "forks": 15943,
+          "stars_today": 2749,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 132,
+            "repo_age_days": 119,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 109,
+            "pr_count": 116,
+            "star_fork_ratio": 9.75
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 192816,
+          "forks": 29819,
+          "stars_today": 2025,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1206,
+            "repo_age_days": 128,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 1414,
+            "star_fork_ratio": 6.47
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "knowledge-work-plugins 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 15805,
+          "forks": 1893,
+          "stars_today": 1441,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1983,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 124,
+            "pr_count": 206,
+            "star_fork_ratio": 8.35
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 9425,
+          "forks": 1146,
+          "stars_today": 1004,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2824,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 31,
+            "star_fork_ratio": 8.22
+          },
+          "trending_days": 3,
+          "first_seen": "2026-05-24T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "gstack 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 102686,
+          "forks": 15316,
+          "stars_today": 640,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6500,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 485,
+            "pr_count": 1237,
+            "star_fork_ratio": 6.7
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "manaflow-ai/cmux",
+          "name": "cmux",
+          "owner": "manaflow-ai",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "ai_summary": "cmux 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 19591,
+          "forks": 1477,
+          "stars_today": 603,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 724,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2129,
+            "pr_count": 2900,
+            "star_fork_ratio": 13.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-05-25T00:00:00.000Z"
+        },
+        {
+          "id": "hardikpandya/stop-slop",
+          "name": "stop-slop",
+          "owner": "hardikpandya",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "ai_summary": "stop-slop 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 4534,
+          "forks": 387,
+          "stars_today": 345,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5594,
+            "repo_age_days": 134,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 9,
+            "star_fork_ratio": 11.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "Fincept-Corporation/FinceptTerminal",
+          "name": "FinceptTerminal",
+          "owner": "Fincept-Corporation",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+          "ai_summary": "FinceptTerminal 是一个面向 金融 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23972,
+          "forks": 3293,
+          "stars_today": 317,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 645,
+            "repo_age_days": 634,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 161,
+            "star_fork_ratio": 7.28
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "taste-skill 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 20022,
+          "forks": 1662,
+          "stars_today": 264,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 326,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 14,
+            "star_fork_ratio": 12.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "claude-cookbooks 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 44119,
+          "forks": 5054,
+          "stars_today": 141,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1983,
+            "repo_age_days": 1014,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 463,
+            "star_fork_ratio": 8.73
+          },
+          "trending_days": 1,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "tinyhumansai/openhuman",
+          "name": "openhuman",
+          "owner": "tinyhumansai",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "ai_summary": "openhuman 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 27891,
+          "forks": 2580,
+          "stars_today": 0,
+          "stars_this_week": 11906,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 182,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 1630,
+            "star_fork_ratio": 10.81
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-23T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "academic-research-skills 是一个面向 AI / Skills 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 21623,
+          "forks": 1837,
+          "stars_today": 0,
+          "stars_this_week": 10678,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1118,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 135,
+            "star_fork_ratio": 11.77
+          },
+          "trending_days": 8,
+          "first_seen": "2026-05-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 14,
+          "Skills": 8,
+          "Agent": 4,
+          "金融": 1
+        }
+      }
     }
   ]
 }
