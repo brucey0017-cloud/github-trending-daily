@@ -931,6 +931,471 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-03",
+      "generated_at": "2026-06-03T06:16:41.935Z",
+      "projects": [
+        {
+          "id": "nesquena/hermes-webui",
+          "name": "hermes-webui",
+          "owner": "nesquena",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "ai_summary": "hermes-webui 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 12715,
+          "forks": 1551,
+          "stars_today": 1722,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6626,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 225,
+            "pr_count": 2429,
+            "star_fork_ratio": 8.2
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 204417,
+          "forks": 31358,
+          "stars_today": 1533,
+          "stars_this_week": 9910,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1214,
+            "repo_age_days": 136,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 61,
+            "pr_count": 1456,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 9,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7272,
+          "forks": 497,
+          "stars_today": 1265,
+          "stars_this_week": 3002,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4855,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 355,
+            "star_fork_ratio": 14.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "supermemoryai/supermemory",
+          "name": "supermemory",
+          "owner": "supermemoryai",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "ai_summary": "supermemory 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 24784,
+          "forks": 2186,
+          "stars_today": 680,
+          "stars_this_week": 1733,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 726,
+            "repo_age_days": 826,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 768,
+            "star_fork_ratio": 11.34
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-01T00:00:00.000Z"
+        },
+        {
+          "id": "stefan-jansen/machine-learning-for-trading",
+          "name": "machine-learning-for-trading",
+          "owner": "stefan-jansen",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+          "ai_summary": "machine-learning-for-trading 是一个面向 金融 / AI 场景的开源项目，使用 Jupyt…",
+          "language": "Jupyter Notebook",
+          "stars": 18640,
+          "forks": 5235,
+          "stars_today": 574,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4784,
+            "repo_age_days": 2946,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 34,
+            "star_fork_ratio": 3.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click usin…",
+          "language": "Python",
+          "stars": 78260,
+          "forks": 11105,
+          "stars_today": 0,
+          "stars_this_week": 18982,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4717,
+            "repo_age_days": 814,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 246,
+            "star_fork_ratio": 7.05
+          },
+          "trending_days": 7,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "Understand-Anything 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 50428,
+          "forks": 4107,
+          "stars_today": 0,
+          "stars_this_week": 15774,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1777,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 153,
+            "pr_count": 202,
+            "star_fork_ratio": 12.28
+          },
+          "trending_days": 13,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "taste-skill 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 31998,
+          "forks": 2353,
+          "stars_today": 0,
+          "stars_this_week": 10931,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 334,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 18,
+            "star_fork_ratio": 13.6
+          },
+          "trending_days": 9,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "codegraph 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 38393,
+          "forks": 2378,
+          "stars_today": 0,
+          "stars_this_week": 10793,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3703,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 186,
+            "pr_count": 373,
+            "star_fork_ratio": 16.15
+          },
+          "trending_days": 18,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 27522,
+          "forks": 4463,
+          "stars_today": 0,
+          "stars_this_week": 7183,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2638,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 51,
+            "pr_count": 218,
+            "star_fork_ratio": 6.17
+          },
+          "trending_days": 14,
+          "first_seen": "2026-05-21T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 13694,
+          "forks": 1603,
+          "stars_today": 0,
+          "stars_this_week": 3755,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2832,
+            "repo_age_days": 97,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 35,
+            "star_fork_ratio": 8.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "hardikpandya/stop-slop",
+          "name": "stop-slop",
+          "owner": "hardikpandya",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "ai_summary": "stop-slop 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 8338,
+          "forks": 582,
+          "stars_today": 0,
+          "stars_this_week": 3470,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5602,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 14,
+            "star_fork_ratio": 14.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "knowledge-work-plugins 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18915,
+          "forks": 2214,
+          "stars_today": 0,
+          "stars_this_week": 2458,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1991,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 139,
+            "pr_count": 221,
+            "star_fork_ratio": 8.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "EveryInc/compound-engineering-plugin",
+          "name": "compound-engineering-plugin",
+          "owner": "EveryInc",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "ai_summary": "compound-engineering-plugin 是一个面向 AI 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 19449,
+          "forks": 1446,
+          "stars_today": 0,
+          "stars_this_week": 2143,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1995,
+            "repo_age_days": 236,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 650,
+            "star_fork_ratio": 13.45
+          },
+          "trending_days": 6,
+          "first_seen": "2026-05-29T00:00:00.000Z"
+        },
+        {
+          "id": "revfactory/harness",
+          "name": "harness",
+          "owner": "revfactory",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "ai_summary": "harness 是一个面向 AI / Web3 / Skills 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 5568,
+          "forks": 741,
+          "stars_today": 0,
+          "stars_this_week": 1870,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4936,
+            "repo_age_days": 68,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 18,
+            "star_fork_ratio": 7.51
+          },
+          "trending_days": 4,
+          "first_seen": "2026-05-31T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 4,
+          "AI": 14,
+          "金融": 1,
+          "Web3": 1
+        }
+      }
     }
   ]
 }
