@@ -2323,6 +2323,470 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-06-06",
+      "generated_at": "2026-06-06T05:04:49.454Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 14684,
+          "forks": 933,
+          "stars_today": 2473,
+          "stars_this_week": 11993,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4858,
+            "repo_age_days": 149,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 192,
+            "pr_count": 427,
+            "star_fork_ratio": 15.74
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 183478,
+          "forks": 31471,
+          "stars_today": 1845,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1112,
+            "repo_age_days": 318,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18342,
+            "pr_count": 30353,
+            "star_fork_ratio": 5.83
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-04T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 208488,
+          "forks": 31981,
+          "stars_today": 1361,
+          "stars_this_week": 10326,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1217,
+            "repo_age_days": 139,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 1494,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 12,
+          "first_seen": "2026-05-26T00:00:00.000Z"
+        },
+        {
+          "id": "PaddlePaddle/PaddleOCR",
+          "name": "PaddleOCR",
+          "owner": "PaddlePaddle",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "ai_summary": "PaddleOCR 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 80612,
+          "forks": 10635,
+          "stars_today": 747,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3487,
+            "repo_age_days": 2219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 3993,
+            "star_fork_ratio": 7.58
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 28288,
+          "forks": 2393,
+          "stars_today": 731,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5701,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 350,
+            "star_fork_ratio": 11.82
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/cosmos",
+          "name": "cosmos",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+          "ai_summary": "cosmos 是一个面向 AI / Agent 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 9464,
+          "forks": 604,
+          "stars_today": 479,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5139,
+            "repo_age_days": 522,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 45,
+            "star_fork_ratio": 15.67
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "CopilotKit/CopilotKit",
+          "name": "CopilotKit",
+          "owner": "CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+          "ai_summary": "CopilotKit 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 32782,
+          "forks": 4201,
+          "stars_today": 366,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1143,
+            "repo_age_days": 1083,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 526,
+            "pr_count": 4022,
+            "star_fork_ratio": 7.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "github/copilot-sdk",
+          "name": "copilot-sdk",
+          "owner": "github",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "ai_summary": "copilot-sdk 是一个面向 Skills / Agent 场景的开源项目，使用 Java 开发。",
+          "language": "Java",
+          "stars": 9289,
+          "forks": 1227,
+          "stars_today": 309,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6600,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 167,
+            "pr_count": 891,
+            "star_fork_ratio": 7.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "MemPalace/mempalace",
+          "name": "mempalace",
+          "owner": "MemPalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "ai_summary": "mempalace 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 53952,
+          "forks": 7084,
+          "stars_today": 227,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 56,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 569,
+            "pr_count": 1016,
+            "star_fork_ratio": 7.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "aquasecurity/trivy",
+          "name": "trivy",
+          "owner": "aquasecurity",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+          "ai_summary": "trivy 是一个面向 AI 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 35881,
+          "forks": 443,
+          "stars_today": 207,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4016,
+            "repo_age_days": 2613,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 245,
+            "pr_count": 4690,
+            "star_fork_ratio": 81
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 21698,
+          "forks": 1876,
+          "stars_today": 148,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2040,
+            "repo_age_days": 102,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 202,
+            "star_fork_ratio": 11.57
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "withastro/flue",
+          "name": "flue",
+          "owner": "withastro",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "ai_summary": "flue 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4568,
+          "forks": 242,
+          "stars_today": 126,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2765,
+            "repo_age_days": 118,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 107,
+            "star_fork_ratio": 18.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-06T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "ai_summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click usin…",
+          "language": "Python",
+          "stars": 80021,
+          "forks": 11394,
+          "stars_today": 0,
+          "stars_this_week": 11388,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4720,
+            "repo_age_days": 817,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 254,
+            "star_fork_ratio": 7.02
+          },
+          "trending_days": 10,
+          "first_seen": "2026-05-28T00:00:00.000Z"
+        },
+        {
+          "id": "colbymchenry/codegraph",
+          "name": "codegraph",
+          "owner": "colbymchenry",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "ai_summary": "codegraph 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 42462,
+          "forks": 2608,
+          "stars_today": 0,
+          "stars_this_week": 9318,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3706,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 217,
+            "pr_count": 391,
+            "star_fork_ratio": 16.28
+          },
+          "trending_days": 21,
+          "first_seen": "2026-05-17T00:00:00.000Z"
+        },
+        {
+          "id": "Lum1104/Understand-Anything",
+          "name": "Understand-Anything",
+          "owner": "Lum1104",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+          "ai_summary": "Understand-Anything 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 53021,
+          "forks": 4338,
+          "stars_today": 0,
+          "stars_this_week": 8807,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1780,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 179,
+            "pr_count": 226,
+            "star_fork_ratio": 12.22
+          },
+          "trending_days": 16,
+          "first_seen": "2026-05-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 11,
+          "Skills": 8,
+          "Agent": 9
+        }
+      }
     }
   ]
 }
