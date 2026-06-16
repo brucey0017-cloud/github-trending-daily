@@ -6986,6 +6986,472 @@
           "量化": 1
         }
       }
+    },
+    {
+      "date": "2026-06-16",
+      "generated_at": "2026-06-16T06:42:43.493Z",
+      "projects": [
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "iptv 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 123224,
+          "forks": 6620,
+          "stars_today": 2657,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2452,
+            "repo_age_days": 2770,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 7692,
+            "star_fork_ratio": 18.61
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 30851,
+          "forks": 2491,
+          "stars_today": 1100,
+          "stars_this_week": 5873,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2050,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 59,
+            "pr_count": 250,
+            "star_fork_ratio": 12.38
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/SkillSpector",
+          "name": "SkillSpector",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "ai_summary": "SkillSpector 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 6583,
+          "forks": 484,
+          "stars_today": 1079,
+          "stars_this_week": 4633,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5149,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 42,
+            "star_fork_ratio": 13.6
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 33321,
+          "forks": 5435,
+          "stars_today": 562,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2651,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 76,
+            "pr_count": 254,
+            "star_fork_ratio": 6.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        },
+        {
+          "id": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "name": "Introduction-to-Autonomous-Robots",
+          "owner": "Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "description": "Introduction to Autonomous Robots",
+          "ai_summary": "Introduction-to-Autonomous-Robots 是一个面向 Agent 场景的开源项目，使用 Te…",
+          "language": "TeX",
+          "stars": 3123,
+          "forks": 665,
+          "stars_today": 489,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1923,
+            "repo_age_days": 4595,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 34,
+            "star_fork_ratio": 4.7
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "chatwoot/chatwoot",
+          "name": "chatwoot",
+          "owner": "chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "ai_summary": "chatwoot 是一个面向 AI 场景的开源项目，使用 Ruby 开发。",
+          "language": "Ruby",
+          "stars": 31801,
+          "forks": 7639,
+          "stars_today": 431,
+          "stars_this_week": 1472,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3502,
+            "repo_age_days": 2497,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1177,
+            "pr_count": 7666,
+            "star_fork_ratio": 4.16
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-15T00:00:00.000Z"
+        },
+        {
+          "id": "mikeroyal/Self-Hosting-Guide",
+          "name": "Self-Hosting-Guide",
+          "owner": "mikeroyal",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+          "ai_summary": "Self-Hosting-Guide 是一个面向 AI / Skills 场景的开源项目，使用 Dockerfile …",
+          "language": "Dockerfile",
+          "stars": 21216,
+          "forks": 1070,
+          "stars_today": 188,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2766,
+            "repo_age_days": 1590,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 57,
+            "pr_count": 327,
+            "star_fork_ratio": 19.83
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 60526,
+          "forks": 6564,
+          "stars_today": 0,
+          "stars_this_week": 11088,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6162,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 136,
+            "pr_count": 196,
+            "star_fork_ratio": 9.22
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 29114,
+          "forks": 1964,
+          "stars_today": 0,
+          "stars_this_week": 10660,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4868,
+            "repo_age_days": 159,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 265,
+            "pr_count": 649,
+            "star_fork_ratio": 14.82
+          },
+          "trending_days": 14,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "container 是一个面向 AI 场景的开源项目，使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 37573,
+          "forks": 1082,
+          "stars_today": 0,
+          "stars_this_week": 10541,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4163,
+            "repo_age_days": 381,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 334,
+            "pr_count": 850,
+            "star_fork_ratio": 34.73
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-11T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 43047,
+          "forks": 3515,
+          "stars_today": 0,
+          "stars_this_week": 9676,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5711,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 178,
+            "pr_count": 418,
+            "star_fork_ratio": 12.25
+          },
+          "trending_days": 12,
+          "first_seen": "2026-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "ai_summary": "taste-skill 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 44739,
+          "forks": 3119,
+          "stars_today": 0,
+          "stars_this_week": 6297,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 347,
+            "repo_age_days": 116,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 26,
+            "star_fork_ratio": 14.34
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "phuryn/pm-skills",
+          "name": "pm-skills",
+          "owner": "phuryn",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "ai_summary": "pm-skills 是一个面向 量化 / Skills / Agent 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 18752,
+          "forks": 1926,
+          "stars_today": 0,
+          "stars_this_week": 6117,
+          "category": "hot",
+          "tags": [
+            "量化",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4389,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 22,
+            "star_fork_ratio": 9.74
+          },
+          "trending_days": 8,
+          "first_seen": "2026-06-09T00:00:00.000Z"
+        },
+        {
+          "id": "RyanCodrai/turbovec",
+          "name": "turbovec",
+          "owner": "RyanCodrai",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "ai_summary": "turbovec 是一个面向 量化 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 11689,
+          "forks": 1016,
+          "stars_today": 0,
+          "stars_this_week": 3651,
+          "category": "hot",
+          "tags": [
+            "量化"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 4149,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 65,
+            "star_fork_ratio": 11.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        },
+        {
+          "id": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "name": "system-prompts-and-models-of-ai-tools",
+          "owner": "x1xhlol",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "ai_summary": "system-prompts-and-models-of-ai-tools 是一个面向 AI / Skills / A…",
+          "language": "",
+          "stars": 140606,
+          "forks": 34698,
+          "stars_today": 0,
+          "stars_this_week": 1668,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 603,
+            "repo_age_days": 467,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 154,
+            "pr_count": 204,
+            "star_fork_ratio": 4.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-16T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 8,
+          "Agent": 7,
+          "量化": 2
+        }
+      }
     }
   ]
 }
