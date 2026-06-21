@@ -9255,6 +9255,471 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-06-21",
+      "generated_at": "2026-06-21T06:17:45.633Z",
+      "projects": [
+        {
+          "id": "chopratejas/headroom",
+          "name": "headroom",
+          "owner": "chopratejas",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+          "ai_summary": "headroom 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 42293,
+          "forks": 2917,
+          "stars_today": 3795,
+          "stars_this_week": 14982,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4873,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 360,
+            "pr_count": 766,
+            "star_fork_ratio": 14.5
+          },
+          "trending_days": 19,
+          "first_seen": "2026-06-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 138497,
+          "forks": 12016,
+          "stars_today": 1395,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3336,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 86,
+            "pr_count": 45,
+            "star_fork_ratio": 11.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "palmier-io/palmier-pro",
+          "name": "palmier-pro",
+          "owner": "palmier-io",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "ai_summary": "palmier-pro 是一个面向 AI 场景的开源项目，使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 3717,
+          "forks": 297,
+          "stars_today": 902,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 724,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 45,
+            "star_fork_ratio": 12.52
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7251,
+          "forks": 1170,
+          "stars_today": 677,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 392,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 59,
+            "star_fork_ratio": 6.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "Kilo-Org/kilocode",
+          "name": "kilocode",
+          "owner": "Kilo-Org",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+          "ai_summary": "kilocode 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 23434,
+          "forks": 2747,
+          "stars_today": 513,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 473,
+            "repo_age_days": 467,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 811,
+            "pr_count": 6006,
+            "star_fork_ratio": 8.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "timesfm 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 24630,
+          "forks": 2337,
+          "stars_today": 433,
+          "stars_this_week": 3655,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2817,
+            "repo_age_days": 782,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 225,
+            "pr_count": 207,
+            "star_fork_ratio": 10.54
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-18T00:00:00.000Z"
+        },
+        {
+          "id": "withastro/flue",
+          "name": "flue",
+          "owner": "withastro",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "ai_summary": "flue 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6151,
+          "forks": 346,
+          "stars_today": 316,
+          "stars_this_week": 1012,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2780,
+            "repo_age_days": 133,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 156,
+            "star_fork_ratio": 17.78
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-19T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 31102,
+          "forks": 3845,
+          "stars_today": 145,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3164,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 460,
+            "pr_count": 209,
+            "star_fork_ratio": 8.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "twentyhq/twenty",
+          "name": "twenty",
+          "owner": "twentyhq",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "ai_summary": "twenty 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 50924,
+          "forks": 7416,
+          "stars_today": 140,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1297,
+            "repo_age_days": 1297,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 119,
+            "pr_count": 14299,
+            "star_fork_ratio": 6.87
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 36142,
+          "forks": 2875,
+          "stars_today": 0,
+          "stars_this_week": 8483,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2055,
+            "repo_age_days": 117,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 266,
+            "star_fork_ratio": 12.57
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "iptv 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 126691,
+          "forks": 6939,
+          "stars_today": 0,
+          "stars_this_week": 7856,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2457,
+            "repo_age_days": 2775,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 79,
+            "pr_count": 7708,
+            "star_fork_ratio": 18.26
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 64330,
+          "forks": 6948,
+          "stars_today": 0,
+          "stars_this_week": 6332,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6167,
+            "repo_age_days": 125,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 206,
+            "star_fork_ratio": 9.26
+          },
+          "trending_days": 12,
+          "first_seen": "2026-06-10T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/SkillSpector",
+          "name": "SkillSpector",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "ai_summary": "SkillSpector 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8765,
+          "forks": 679,
+          "stars_today": 0,
+          "stars_this_week": 4631,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5154,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 97,
+            "pr_count": 71,
+            "star_fork_ratio": 12.91
+          },
+          "trending_days": 8,
+          "first_seen": "2026-06-14T00:00:00.000Z"
+        },
+        {
+          "id": "phuryn/pm-skills",
+          "name": "pm-skills",
+          "owner": "phuryn",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+          "ai_summary": "pm-skills 是一个面向 量化 / Skills / Agent 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 20150,
+          "forks": 2047,
+          "stars_today": 0,
+          "stars_this_week": 2605,
+          "category": "hot",
+          "tags": [
+            "量化",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4394,
+            "repo_age_days": 111,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 22,
+            "star_fork_ratio": 9.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        },
+        {
+          "id": "chatwoot/chatwoot",
+          "name": "chatwoot",
+          "owner": "chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+          "ai_summary": "chatwoot 是一个面向 AI 场景的开源项目，使用 Ruby 开发。",
+          "language": "Ruby",
+          "stars": 32994,
+          "forks": 7802,
+          "stars_today": 0,
+          "stars_this_week": 2233,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3507,
+            "repo_age_days": 2502,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1199,
+            "pr_count": 7710,
+            "star_fork_ratio": 4.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-21T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 8,
+          "Agent": 7,
+          "量化": 1
+        }
+      }
     }
   ]
 }
