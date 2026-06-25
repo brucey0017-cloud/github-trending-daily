@@ -11124,6 +11124,478 @@
           "Web3": 1
         }
       }
+    },
+    {
+      "date": "2026-06-25",
+      "generated_at": "2026-06-25T05:15:25.185Z",
+      "projects": [
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 20116,
+          "forks": 2272,
+          "stars_today": 3719,
+          "stars_this_week": 12948,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 396,
+            "repo_age_days": 87,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 109,
+            "pr_count": 89,
+            "star_fork_ratio": 8.85
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "apple/container",
+          "name": "container",
+          "owner": "apple",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+          "ai_summary": "container 是一个面向 AI 场景的开源项目，使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 42493,
+          "forks": 1249,
+          "stars_today": 1838,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4172,
+            "repo_age_days": 390,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 384,
+            "pr_count": 900,
+            "star_fork_ratio": 34.02
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-power…",
+          "language": "Python",
+          "stars": 48836,
+          "forks": 43103,
+          "stars_today": 1468,
+          "stars_this_week": 5185,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2855,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 1038,
+            "star_fork_ratio": 1.13
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 202261,
+          "forks": 36149,
+          "stars_today": 1178,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1131,
+            "repo_age_days": 337,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23489,
+            "pr_count": 39365,
+            "star_fork_ratio": 5.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "ai-website-cloner-template 是一个面向 AI / Skills / Agent 场景的开源项…",
+          "language": "TypeScript",
+          "stars": 19546,
+          "forks": 2903,
+          "stars_today": 692,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 639,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 45,
+            "star_fork_ratio": 6.73
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "design.md 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17572,
+          "forks": 1578,
+          "stars_today": 619,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 849,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 68,
+            "star_fork_ratio": 11.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+          "ai_summary": "orca 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6951,
+          "forks": 500,
+          "stars_today": 331,
+          "stars_this_week": 1397,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1205,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 655,
+            "pr_count": 5273,
+            "star_fork_ratio": 13.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "revfactory/harness",
+          "name": "harness",
+          "owner": "revfactory",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+          "ai_summary": "harness 是一个面向 AI / Web3 / Skills 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 7821,
+          "forks": 1063,
+          "stars_today": 277,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4958,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 36,
+            "star_fork_ratio": 7.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "interviewstreet/hiring-agent",
+          "name": "hiring-agent",
+          "owner": "interviewstreet",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "description": "AI agent to evaluate and score resumes.",
+          "ai_summary": "hiring-agent 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 2376,
+          "forks": 615,
+          "stars_today": 203,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 5405,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 222,
+            "pr_count": 160,
+            "star_fork_ratio": 3.86
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 40078,
+          "forks": 3175,
+          "stars_today": 0,
+          "stars_this_week": 6752,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2059,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 282,
+            "star_fork_ratio": 12.62
+          },
+          "trending_days": 13,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 20664,
+          "forks": 2400,
+          "stars_today": 0,
+          "stars_this_week": 4304,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2854,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 55,
+            "star_fork_ratio": 8.61
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "timesfm 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 25484,
+          "forks": 2424,
+          "stars_today": 0,
+          "stars_this_week": 3915,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2821,
+            "repo_age_days": 786,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 228,
+            "pr_count": 211,
+            "star_fork_ratio": 10.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 33936,
+          "forks": 4086,
+          "stars_today": 0,
+          "stars_this_week": 3583,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3168,
+            "repo_age_days": 150,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 480,
+            "pr_count": 222,
+            "star_fork_ratio": 8.31
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-23T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "iptv 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 128354,
+          "forks": 7069,
+          "stars_today": 0,
+          "stars_this_week": 3543,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2461,
+            "repo_age_days": 2779,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 7712,
+            "star_fork_ratio": 18.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA/SkillSpector",
+          "name": "SkillSpector",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+          "ai_summary": "SkillSpector 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 10435,
+          "forks": 831,
+          "stars_today": 0,
+          "stars_this_week": 2980,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5158,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 81,
+            "pr_count": 114,
+            "star_fork_ratio": 12.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 10,
+          "Agent": 9,
+          "金融": 1,
+          "Web3": 1
+        }
+      }
     }
   ]
 }
