@@ -12067,6 +12067,475 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-06-27",
+      "generated_at": "2026-06-27T05:03:33.671Z",
+      "projects": [
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "design.md 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 21509,
+          "forks": 1737,
+          "stars_today": 2407,
+          "stars_this_week": 4618,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 851,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 83,
+            "star_fork_ratio": 12.38
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23872,
+          "forks": 2657,
+          "stars_today": 1754,
+          "stars_this_week": 17249,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 398,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 111,
+            "pr_count": 105,
+            "star_fork_ratio": 8.98
+          },
+          "trending_days": 8,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多…",
+          "language": "Python",
+          "stars": 3235,
+          "forks": 482,
+          "stars_today": 1274,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4483,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 6,
+            "star_fork_ratio": 6.71
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 42564,
+          "forks": 3383,
+          "stars_today": 1194,
+          "stars_this_week": 7199,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2061,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 291,
+            "star_fork_ratio": 12.58
+          },
+          "trending_days": 15,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "ai-website-cloner-template 是一个面向 AI / Skills / Agent 场景的开源项…",
+          "language": "TypeScript",
+          "stars": 21465,
+          "forks": 3108,
+          "stars_today": 1088,
+          "stars_this_week": 3906,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 641,
+            "repo_age_days": 105,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 46,
+            "star_fork_ratio": 6.91
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "opendatalab/MinerU",
+          "name": "MinerU",
+          "owner": "opendatalab",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "ai_summary": "MinerU 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 70546,
+          "forks": 5941,
+          "stars_today": 960,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1627,
+            "repo_age_days": 848,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 1655,
+            "star_fork_ratio": 11.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "garrytan/gstack",
+          "name": "gstack",
+          "owner": "garrytan",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "ai_summary": "gstack 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 116713,
+          "forks": 17320,
+          "stars_today": 950,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6532,
+            "repo_age_days": 107,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 740,
+            "pr_count": 1517,
+            "star_fork_ratio": 6.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "aws/agent-toolkit-for-aws",
+          "name": "agent-toolkit-for-aws",
+          "owner": "aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "ai_summary": "agent-toolkit-for-aws 是一个面向 AI / Skills / Agent 场景的开源项目，使用 …",
+          "language": "Python",
+          "stars": 1389,
+          "forks": 123,
+          "stars_today": 243,
+          "stars_this_week": 349,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5050,
+            "repo_age_days": 64,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 107,
+            "star_fork_ratio": 11.29
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "alchaincyf/zhangxuefeng-skill",
+          "name": "zhangxuefeng-skill",
+          "owner": "alchaincyf",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "ai_summary": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "language": "",
+          "stars": 9311,
+          "forks": 2569,
+          "stars_today": 160,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 65,
+          "security_details": {
+            "author_age_days": 1202,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 1,
+            "star_fork_ratio": 3.62
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 147618,
+          "forks": 12777,
+          "stars_today": 0,
+          "stars_this_week": 11060,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3342,
+            "repo_age_days": 143,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 45,
+            "star_fork_ratio": 11.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-power…",
+          "language": "Python",
+          "stars": 50195,
+          "forks": 43856,
+          "stars_today": 0,
+          "stars_this_week": 6919,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2857,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 58,
+            "pr_count": 1056,
+            "star_fork_ratio": 1.14
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 21857,
+          "forks": 2505,
+          "stars_today": 0,
+          "stars_this_week": 5109,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2856,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 27,
+            "pr_count": 55,
+            "star_fork_ratio": 8.73
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 34560,
+          "forks": 4159,
+          "stars_today": 0,
+          "stars_this_week": 3819,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3170,
+            "repo_age_days": 152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 487,
+            "pr_count": 227,
+            "star_fork_ratio": 8.31
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-23T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 60166,
+          "forks": 9381,
+          "stars_today": 0,
+          "stars_this_week": 3170,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 5422,
+            "repo_age_days": 169,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 174,
+            "pr_count": 3735,
+            "star_fork_ratio": 6.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "system_prompts_leaks 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 46392,
+          "forks": 7607,
+          "stars_today": 0,
+          "stars_this_week": 2864,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3361,
+            "repo_age_days": 420,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 89,
+            "star_fork_ratio": 6.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-27T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 10,
+          "Agent": 8,
+          "AI": 13,
+          "金融": 1
+        }
+      }
     }
   ]
 }
