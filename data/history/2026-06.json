@@ -13478,6 +13478,479 @@
           "金融": 2
         }
       }
+    },
+    {
+      "date": "2026-06-30",
+      "generated_at": "2026-06-30T05:17:01.635Z",
+      "projects": [
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 119274,
+          "forks": 19529,
+          "stars_today": 1425,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5099,
+            "repo_age_days": 259,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 87,
+            "pr_count": 410,
+            "star_fork_ratio": 6.11
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "xbtlin/ai-berkshire",
+          "name": "ai-berkshire",
+          "owner": "xbtlin",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+          "ai_summary": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大…",
+          "language": "Python",
+          "stars": 6870,
+          "forks": 893,
+          "stars_today": 1386,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4486,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 15,
+            "star_fork_ratio": 7.69
+          },
+          "trending_days": 5,
+          "first_seen": "2026-06-26T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 12071,
+          "forks": 1575,
+          "stars_today": 967,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 559,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 56,
+            "star_fork_ratio": 7.66
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个面向 金融 / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 15249,
+          "forks": 2699,
+          "stars_today": 839,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1323,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 209,
+            "star_fork_ratio": 5.65
+          },
+          "trending_days": 2,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "0xNyk/council-of-high-intelligence",
+          "name": "council-of-high-intelligence",
+          "owner": "0xNyk",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+          "ai_summary": "council-of-high-intelligence 是一个面向 AI 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 2046,
+          "forks": 209,
+          "stars_today": 331,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 1694,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 30,
+            "star_fork_ratio": 9.79
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "soxoj/maigret",
+          "name": "maigret",
+          "owner": "soxoj",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "ai_summary": "maigret 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 34502,
+          "forks": 2606,
+          "stars_today": 224,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3241,
+            "repo_age_days": 2193,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 1136,
+            "star_fork_ratio": 13.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "logto-io/logto",
+          "name": "logto",
+          "owner": "logto-io",
+          "url": "https://github.com/logto-io/logto",
+          "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+          "ai_summary": "logto 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 12792,
+          "forks": 873,
+          "stars_today": 158,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1858,
+            "repo_age_days": 1837,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 176,
+            "pr_count": 8088,
+            "star_fork_ratio": 14.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "Unclecheng-li/VulnClaw",
+          "name": "VulnClaw",
+          "owner": "Unclecheng-li",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "ai_summary": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成…",
+          "language": "Python",
+          "stars": 1244,
+          "forks": 182,
+          "stars_today": 129,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2481,
+            "repo_age_days": 72,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 48,
+            "star_fork_ratio": 6.84
+          },
+          "trending_days": 1,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 28897,
+          "forks": 3233,
+          "stars_today": 0,
+          "stars_this_week": 17483,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 401,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 123,
+            "star_fork_ratio": 8.94
+          },
+          "trending_days": 11,
+          "first_seen": "2026-06-20T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 46076,
+          "forks": 3650,
+          "stars_today": 0,
+          "stars_this_week": 7928,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2064,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 297,
+            "star_fork_ratio": 12.62
+          },
+          "trending_days": 18,
+          "first_seen": "2026-06-13T00:00:00.000Z"
+        },
+        {
+          "id": "google-labs-code/design.md",
+          "name": "design.md",
+          "owner": "google-labs-code",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "ai_summary": "design.md 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 23285,
+          "forks": 1838,
+          "stars_today": 0,
+          "stars_this_week": 7104,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 854,
+            "repo_age_days": 80,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 94,
+            "star_fork_ratio": 12.67
+          },
+          "trending_days": 6,
+          "first_seen": "2026-06-25T00:00:00.000Z"
+        },
+        {
+          "id": "topoteretes/cognee",
+          "name": "cognee",
+          "owner": "topoteretes",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+          "ai_summary": "cognee 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 25741,
+          "forks": 2370,
+          "stars_today": 0,
+          "stars_this_week": 6335,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1230,
+            "repo_age_days": 1048,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 431,
+            "pr_count": 2754,
+            "star_fork_ratio": 10.86
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-28T00:00:00.000Z"
+        },
+        {
+          "id": "ZhuLinsen/daily_stock_analysis",
+          "name": "daily_stock_analysis",
+          "owner": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-power…",
+          "language": "Python",
+          "stars": 51944,
+          "forks": 45094,
+          "stars_today": 0,
+          "stars_this_week": 6297,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2860,
+            "repo_age_days": 170,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 58,
+            "pr_count": 1088,
+            "star_fork_ratio": 1.15
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "JCodesMore/ai-website-cloner-template",
+          "name": "ai-website-cloner-template",
+          "owner": "JCodesMore",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "ai_summary": "ai-website-cloner-template 是一个面向 AI / Skills / Agent 场景的开源项…",
+          "language": "TypeScript",
+          "stars": 23599,
+          "forks": 3361,
+          "stars_today": 0,
+          "stars_this_week": 5937,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 644,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 19,
+            "pr_count": 47,
+            "star_fork_ratio": 7.02
+          },
+          "trending_days": 7,
+          "first_seen": "2026-06-24T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 23161,
+          "forks": 2633,
+          "stars_today": 0,
+          "stars_this_week": 4735,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2859,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 55,
+            "star_fork_ratio": 8.8
+          },
+          "trending_days": 9,
+          "first_seen": "2026-06-22T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 11,
+          "Agent": 11,
+          "金融": 2
+        }
+      }
     }
   ]
 }
