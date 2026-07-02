@@ -467,6 +467,468 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-07-02",
+      "generated_at": "2026-07-02T05:09:35.563Z",
+      "projects": [
+        {
+          "id": "hasaneyldrm/exercises-dataset",
+          "name": "exercises-dataset",
+          "owner": "hasaneyldrm",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+          "ai_summary": "exercises-dataset 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 8595,
+          "forks": 969,
+          "stars_today": 2470,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 3354,
+            "repo_age_days": 106,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 20,
+            "star_fork_ratio": 8.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 123983,
+          "forks": 20151,
+          "stars_today": 2114,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5101,
+            "repo_age_days": 261,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 88,
+            "pr_count": 410,
+            "star_fork_ratio": 6.15
+          },
+          "trending_days": 3,
+          "first_seen": "2026-06-30T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "strix 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 30058,
+          "forks": 3246,
+          "stars_today": 1211,
+          "stars_this_week": 2804,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 601,
+            "repo_age_days": 330,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 122,
+            "pr_count": 392,
+            "star_fork_ratio": 9.26
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "AI-For-Beginners 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 50685,
+          "forks": 10276,
+          "stars_today": 1096,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4586,
+            "repo_age_days": 1946,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 40,
+            "pr_count": 442,
+            "star_fork_ratio": 4.93
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+          "ai_summary": "OmniRoute 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 9716,
+          "forks": 1484,
+          "stars_today": 1010,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4385,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 3734,
+            "star_fork_ratio": 6.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "facebook/astryx",
+          "name": "astryx",
+          "owner": "facebook",
+          "url": "https://github.com/facebook/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "ai_summary": "astryx 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2831,
+          "forks": 152,
+          "stars_today": 708,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6300,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 2571,
+            "star_fork_ratio": 18.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/Vibe-Trading",
+          "name": "Vibe-Trading",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "ai_summary": "Vibe-Trading 是一个面向 金融 / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 16753,
+          "forks": 2823,
+          "stars_today": 694,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1325,
+            "repo_age_days": 91,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 222,
+            "star_fork_ratio": 5.93
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "browser-use/video-use",
+          "name": "video-use",
+          "owner": "browser-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "ai_summary": "video-use 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13331,
+          "forks": 1660,
+          "stars_today": 693,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 561,
+            "repo_age_days": 81,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 58,
+            "star_fork_ratio": 8.03
+          },
+          "trending_days": 4,
+          "first_seen": "2026-06-29T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "herdr 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 9732,
+          "forks": 569,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4481,
+            "repo_age_days": 96,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 167,
+            "star_fork_ratio": 17.1
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "altic-dev/FluidVoice",
+          "name": "FluidVoice",
+          "owner": "altic-dev",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+          "ai_summary": "FluidVoice 是一个面向 AI 场景的开源项目，使用 Swift 开发。",
+          "language": "Swift",
+          "stars": 5591,
+          "forks": 333,
+          "stars_today": 572,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 331,
+            "repo_age_days": 283,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 214,
+            "star_fork_ratio": 16.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "CoreBunch/Instatic",
+          "name": "Instatic",
+          "owner": "CoreBunch",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+          "ai_summary": "Instatic 是一个面向 内容创作 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2072,
+          "forks": 170,
+          "stars_today": 508,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 496,
+            "repo_age_days": 62,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 141,
+            "star_fork_ratio": 12.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "allenai/olmocr",
+          "name": "olmocr",
+          "owner": "allenai",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "ai_summary": "olmocr 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18359,
+          "forks": 1510,
+          "stars_today": 334,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4646,
+            "repo_age_days": 652,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 82,
+            "pr_count": 173,
+            "star_fork_ratio": 12.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "0xNyk/council-of-high-intelligence",
+          "name": "council-of-high-intelligence",
+          "owner": "0xNyk",
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+          "ai_summary": "council-of-high-intelligence 是一个面向 AI 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 2731,
+          "forks": 250,
+          "stars_today": 161,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1696,
+            "repo_age_days": 121,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 30,
+            "star_fork_ratio": 10.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "Unclecheng-li/VulnClaw",
+          "name": "VulnClaw",
+          "owner": "Unclecheng-li",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "ai_summary": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成…",
+          "language": "Python",
+          "stars": 1632,
+          "forks": 222,
+          "stars_today": 132,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2483,
+            "repo_age_days": 74,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 56,
+            "star_fork_ratio": 7.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "id": "yikart/AiToEarn",
+          "name": "AiToEarn",
+          "owner": "yikart",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "ai_summary": "AiToEarn 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 22678,
+          "forks": 3413,
+          "stars_today": 116,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 534,
+            "repo_age_days": 492,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 194,
+            "star_fork_ratio": 6.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-02T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 6,
+          "Agent": 6,
+          "金融": 1,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
