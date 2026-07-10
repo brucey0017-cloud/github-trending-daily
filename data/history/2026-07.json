@@ -4191,6 +4191,466 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-07-10",
+      "generated_at": "2026-07-10T05:07:47.050Z",
+      "projects": [
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+          "ai_summary": "ai-job-search 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 19545,
+          "forks": 5602,
+          "stars_today": 3716,
+          "stars_this_week": 13847,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 2625,
+            "repo_age_days": 113,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 93,
+            "star_fork_ratio": 3.49
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 76095,
+          "forks": 8180,
+          "stars_today": 2554,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6186,
+            "repo_age_days": 144,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 256,
+            "star_fork_ratio": 9.3
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "OfficeCLI 是一个面向 AI / Skills / Agent 场景的开源项目，使用 C# 开发。",
+          "language": "C#",
+          "stars": 13698,
+          "forks": 930,
+          "stars_today": 1929,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1026,
+            "repo_age_days": 116,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 85,
+            "star_fork_ratio": 14.73
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-08T00:00:00.000Z"
+        },
+        {
+          "id": "VoltAgent/awesome-design-md",
+          "name": "awesome-design-md",
+          "owner": "VoltAgent",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+          "ai_summary": "awesome-design-md 是一个面向 Skills / Agent 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 99999,
+          "forks": 11590,
+          "stars_today": 1391,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 496,
+            "repo_age_days": 100,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 301,
+            "pr_count": 61,
+            "star_fork_ratio": 8.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+          "ai_summary": "system_prompts_leaks 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 55293,
+          "forks": 9037,
+          "stars_today": 1125,
+          "stars_this_week": 7149,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3374,
+            "repo_age_days": 433,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 96,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "bradautomates/claude-video",
+          "name": "claude-video",
+          "owner": "bradautomates",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+          "ai_summary": "claude-video 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 6815,
+          "forks": 777,
+          "stars_today": 718,
+          "stars_this_week": 3630,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 619,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 42,
+            "star_fork_ratio": 8.77
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-07T00:00:00.000Z"
+        },
+        {
+          "id": "vxcontrol/pentagi",
+          "name": "pentagi",
+          "owner": "vxcontrol",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "ai_summary": "pentagi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 19547,
+          "forks": 2631,
+          "stars_today": 535,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2981,
+            "repo_age_days": 549,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 237,
+            "star_fork_ratio": 7.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "owner": "unclecode",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "ai_summary": "crawl4ai 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 71947,
+          "forks": 7383,
+          "stars_today": 215,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4070,
+            "repo_age_days": 791,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 614,
+            "star_fork_ratio": 9.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-cookbooks",
+          "name": "claude-cookbooks",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "ai_summary": "claude-cookbooks 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 47253,
+          "forks": 5559,
+          "stars_today": 194,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2028,
+            "repo_age_days": 1059,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 283,
+            "pr_count": 521,
+            "star_fork_ratio": 8.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "wonderwhy-er/DesktopCommanderMCP",
+          "name": "DesktopCommanderMCP",
+          "owner": "wonderwhy-er",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+          "ai_summary": "DesktopCommanderMCP 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6608,
+          "forks": 782,
+          "stars_today": 185,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5371,
+            "repo_age_days": 582,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 150,
+            "pr_count": 295,
+            "star_fork_ratio": 8.45
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        },
+        {
+          "id": "Zackriya-Solutions/meetily",
+          "name": "meetily",
+          "owner": "Zackriya-Solutions",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+          "ai_summary": "meetily 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 22286,
+          "forks": 2240,
+          "stars_today": 0,
+          "stars_this_week": 8885,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1912,
+            "repo_age_days": 560,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 265,
+            "pr_count": 263,
+            "star_fork_ratio": 9.95
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-05T00:00:00.000Z"
+        },
+        {
+          "id": "usestrix/strix",
+          "name": "strix",
+          "owner": "usestrix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "ai_summary": "strix 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 39686,
+          "forks": 4066,
+          "stars_today": 0,
+          "stars_this_week": 8370,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 609,
+            "repo_age_days": 338,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 180,
+            "pr_count": 460,
+            "star_fork_ratio": 9.76
+          },
+          "trending_days": 10,
+          "first_seen": "2026-07-01T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex-plugin-cc",
+          "name": "codex-plugin-cc",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "ai_summary": "codex-plugin-cc 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 27200,
+          "forks": 1666,
+          "stars_today": 0,
+          "stars_this_week": 4792,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3932,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 298,
+            "pr_count": 223,
+            "star_fork_ratio": 16.33
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        },
+        {
+          "id": "ogulcancelik/herdr",
+          "name": "herdr",
+          "owner": "ogulcancelik",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "ai_summary": "herdr 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 14873,
+          "forks": 872,
+          "stars_today": 0,
+          "stars_this_week": 4756,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4489,
+            "repo_age_days": 104,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 55,
+            "pr_count": 217,
+            "star_fork_ratio": 17.06
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-09T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/page-agent",
+          "name": "page-agent",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "ai_summary": "page-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 25566,
+          "forks": 2241,
+          "stars_today": 0,
+          "stars_this_week": 4459,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5110,
+            "repo_age_days": 289,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 361,
+            "star_fork_ratio": 11.41
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }
