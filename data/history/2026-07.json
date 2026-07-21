@@ -9305,6 +9305,472 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-21",
+      "generated_at": "2026-07-21T04:32:12.602Z",
+      "projects": [
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "code-review-graph 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23562,
+          "forks": 2289,
+          "stars_today": 1833,
+          "stars_this_week": 3073,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2190,
+            "repo_age_days": 144,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 407,
+            "star_fork_ratio": 10.29
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+          "ai_summary": "OmniRoute 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 22142,
+          "forks": 2992,
+          "stars_today": 1107,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4404,
+            "repo_age_days": 157,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 181,
+            "pr_count": 5023,
+            "star_fork_ratio": 7.4
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "msitarzewski/agency-agents",
+          "name": "agency-agents",
+          "owner": "msitarzewski",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "ai_summary": "agency-agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 134874,
+          "forks": 21983,
+          "stars_today": 862,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5120,
+            "repo_age_days": 280,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 101,
+            "pr_count": 486,
+            "star_fork_ratio": 6.14
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 40721,
+          "forks": 6752,
+          "stars_today": 823,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2686,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 274,
+            "star_fork_ratio": 6.03
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 44347,
+          "forks": 5397,
+          "stars_today": 821,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3194,
+            "repo_age_days": 176,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 568,
+            "pr_count": 286,
+            "star_fork_ratio": 8.22
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "KnockOutEZ/wigolo",
+          "name": "wigolo",
+          "owner": "KnockOutEZ",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+          "ai_summary": "wigolo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2660,
+          "forks": 160,
+          "stars_today": 689,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2152,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 177,
+            "star_fork_ratio": 16.63
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "ai_summary": "jcode 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 9777,
+          "forks": 1090,
+          "stars_today": 568,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1710,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 105,
+            "star_fork_ratio": 8.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "kvcache-ai/ktransformers",
+          "name": "ktransformers",
+          "owner": "kvcache-ai",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "ai_summary": "ktransformers 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18770,
+          "forks": 1463,
+          "stars_today": 458,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 784,
+            "repo_age_days": 724,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 464,
+            "pr_count": 681,
+            "star_fork_ratio": 12.83
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "MoonshotAI/kimi-cli",
+          "name": "kimi-cli",
+          "owner": "MoonshotAI",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "ai_summary": "kimi-cli 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 10301,
+          "forks": 1223,
+          "stars_today": 410,
+          "stars_this_week": 974,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1210,
+            "repo_age_days": 278,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 783,
+            "pr_count": 1287,
+            "star_fork_ratio": 8.42
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "AstrBotDevs/AstrBot",
+          "name": "AstrBot",
+          "owner": "AstrBotDevs",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+          "ai_summary": "AstrBot 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 37178,
+          "forks": 2588,
+          "stars_today": 317,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 530,
+            "repo_age_days": 1320,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1332,
+            "pr_count": 2553,
+            "star_fork_ratio": 14.37
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "moonshine-ai/moonshine",
+          "name": "moonshine",
+          "owner": "moonshine-ai",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+          "ai_summary": "moonshine 是一个面向 Skills / Agent 场景的开源项目，使用 C++ 开发。",
+          "language": "C++",
+          "stars": 9965,
+          "forks": 521,
+          "stars_today": 282,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1633,
+            "repo_age_days": 654,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 89,
+            "star_fork_ratio": 19.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "iptv-org/iptv",
+          "name": "iptv",
+          "owner": "iptv-org",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "ai_summary": "iptv 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 133827,
+          "forks": 7565,
+          "stars_today": 240,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2487,
+            "repo_age_days": 2805,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 7645,
+            "star_fork_ratio": 17.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "topoteretes/cognee",
+          "name": "cognee",
+          "owner": "topoteretes",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+          "ai_summary": "cognee 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 28856,
+          "forks": 2746,
+          "stars_today": 234,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1251,
+            "repo_age_days": 1069,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 633,
+            "pr_count": 3126,
+            "star_fork_ratio": 10.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 179207,
+          "forks": 15317,
+          "stars_today": 0,
+          "stars_this_week": 10872,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3366,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 206,
+            "pr_count": 101,
+            "star_fork_ratio": 11.7
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark 是一个面向 AI / Skills 场景的开源项目，使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 14354,
+          "forks": 712,
+          "stars_today": 0,
+          "stars_this_week": 9173,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2287,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 21,
+            "star_fork_ratio": 20.16
+          },
+          "trending_days": 9,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 10,
+          "Agent": 8
+        }
+      }
     }
   ]
 }
