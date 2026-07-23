@@ -10241,6 +10241,471 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-07-23",
+      "generated_at": "2026-07-23T04:34:01.052Z",
+      "projects": [
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 69470,
+          "forks": 10597,
+          "stars_today": 4139,
+          "stars_this_week": 5812,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5448,
+            "repo_age_days": 195,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 252,
+            "pr_count": 4342,
+            "star_fork_ratio": 6.56
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8498,
+          "forks": 390,
+          "stars_today": 1699,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3225,
+            "repo_age_days": 70,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5,
+            "pr_count": 39,
+            "star_fork_ratio": 21.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 25609,
+          "forks": 3381,
+          "stars_today": 1651,
+          "stars_this_week": 6989,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4406,
+            "repo_age_days": 159,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 227,
+            "pr_count": 5217,
+            "star_fork_ratio": 7.57
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "code-review-graph 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 25446,
+          "forks": 2401,
+          "stars_today": 882,
+          "stars_this_week": 5639,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2192,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 423,
+            "star_fork_ratio": 10.6
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 42396,
+          "forks": 7061,
+          "stars_today": 652,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2688,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 276,
+            "star_fork_ratio": 6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "jamiepine/voicebox",
+          "name": "voicebox",
+          "owner": "jamiepine",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "ai_summary": "voicebox 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 45910,
+          "forks": 5597,
+          "stars_today": 557,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3196,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 580,
+            "pr_count": 302,
+            "star_fork_ratio": 8.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "agegr/pi-web",
+          "name": "pi-web",
+          "owner": "agegr",
+          "url": "https://github.com/agegr/pi-web",
+          "description": "Web UI for the pi coding agent",
+          "ai_summary": "pi-web 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 2119,
+          "forks": 312,
+          "stars_today": 314,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4062,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 98,
+            "star_fork_ratio": 6.79
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "awesome-claude-skills 是一个面向 AI / Skills 场景的开源项目，使用 Python 开…",
+          "language": "Python",
+          "stars": 68895,
+          "forks": 7813,
+          "stars_today": 163,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1219,
+            "repo_age_days": 278,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1072,
+            "pr_count": 1216,
+            "star_fork_ratio": 8.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 182831,
+          "forks": 15634,
+          "stars_today": 0,
+          "stars_this_week": 10282,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3368,
+            "repo_age_days": 169,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 213,
+            "pr_count": 101,
+            "star_fork_ratio": 11.69
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark 是一个面向 AI / Skills 场景的开源项目，使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 15739,
+          "forks": 795,
+          "stars_today": 0,
+          "stars_this_week": 8471,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2289,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 30,
+            "pr_count": 27,
+            "star_fork_ratio": 19.8
+          },
+          "trending_days": 11,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "owner": "Shubhamsaboo",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "ai_summary": "awesome-llm-apps 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 126471,
+          "forks": 18659,
+          "stars_today": 0,
+          "stars_this_week": 4690,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3251,
+            "repo_age_days": 814,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 703,
+            "star_fork_ratio": 6.78
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "pi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 75718,
+          "forks": 9312,
+          "stars_today": 0,
+          "stars_this_week": 4060,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 462,
+            "repo_age_days": 347,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 2374,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "iOfficeAI/OfficeCLI",
+          "name": "OfficeCLI",
+          "owner": "iOfficeAI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+          "ai_summary": "OfficeCLI 是一个面向 AI / Skills / Agent 场景的开源项目，使用 C# 开发。",
+          "language": "C#",
+          "stars": 21184,
+          "forks": 1417,
+          "stars_today": 0,
+          "stars_this_week": 3579,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1039,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 106,
+            "star_fork_ratio": 14.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "ai_summary": "jcode 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 10799,
+          "forks": 1179,
+          "stars_today": 0,
+          "stars_this_week": 2293,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1712,
+            "repo_age_days": 198,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 132,
+            "pr_count": 117,
+            "star_fork_ratio": 9.16
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "ibelick/ui-skills",
+          "name": "ui-skills",
+          "owner": "ibelick",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description": "Skills for Design Engineers",
+          "ai_summary": "ui-skills 是一个面向 Skills 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6032,
+          "forks": 260,
+          "stars_today": 0,
+          "stars_this_week": 2206,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3963,
+            "repo_age_days": 196,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 31,
+            "star_fork_ratio": 23.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 11,
+          "Skills": 11,
+          "Agent": 7
+        }
+      }
     }
   ]
 }
