@@ -11173,6 +11173,473 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-07-25",
+      "generated_at": "2026-07-25T04:27:53.617Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 187020,
+          "forks": 16059,
+          "stars_today": 2251,
+          "stars_this_week": 10969,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3370,
+            "repo_age_days": 171,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 227,
+            "pr_count": 103,
+            "star_fork_ratio": 11.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 73461,
+          "forks": 11021,
+          "stars_today": 2184,
+          "stars_this_week": 10936,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5450,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 258,
+            "pr_count": 4415,
+            "star_fork_ratio": 6.67
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 29034,
+          "forks": 3799,
+          "stars_today": 1841,
+          "stars_this_week": 9965,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4408,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 285,
+            "pr_count": 5383,
+            "star_fork_ratio": 7.64
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "ego-lite 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 2744,
+          "forks": 131,
+          "stars_today": 880,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 303,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 28,
+            "pr_count": 110,
+            "star_fork_ratio": 20.95
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "awesome-claude-skills 是一个面向 AI / Skills 场景的开源项目，使用 Python 开…",
+          "language": "Python",
+          "stars": 70155,
+          "forks": 7908,
+          "stars_today": 663,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1221,
+            "repo_age_days": 280,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1094,
+            "pr_count": 1240,
+            "star_fork_ratio": 8.87
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "Lordog/dive-into-llms",
+          "name": "dive-into-llms",
+          "owner": "Lordog",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "ai_summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 45066,
+          "forks": 5392,
+          "stars_today": 328,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2383,
+            "repo_age_days": 837,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 21,
+            "star_fork_ratio": 8.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "CoreBunch/Instatic",
+          "name": "Instatic",
+          "owner": "CoreBunch",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+          "ai_summary": "Instatic 是一个面向 Skills / Agent / 内容创作 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 4349,
+          "forks": 413,
+          "stars_today": 201,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent",
+            "内容创作"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 519,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 41,
+            "pr_count": 214,
+            "star_fork_ratio": 10.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "bojieli/ai-agent-book",
+          "name": "ai-agent-book",
+          "owner": "bojieli",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "ai_summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 19278,
+          "forks": 1920,
+          "stars_today": 0,
+          "stars_this_week": 17401,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5280,
+            "repo_age_days": 319,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 302,
+            "star_fork_ratio": 10.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "tirth8205/code-review-graph",
+          "name": "code-review-graph",
+          "owner": "tirth8205",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+          "ai_summary": "code-review-graph 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 26255,
+          "forks": 2454,
+          "stars_today": 0,
+          "stars_this_week": 6565,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2194,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 436,
+            "star_fork_ratio": 10.7
+          },
+          "trending_days": 7,
+          "first_seen": "2026-07-19T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark 是一个面向 AI / Skills 场景的开源项目，使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 17154,
+          "forks": 862,
+          "stars_today": 0,
+          "stars_this_week": 4978,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2291,
+            "repo_age_days": 88,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 30,
+            "star_fork_ratio": 19.9
+          },
+          "trending_days": 13,
+          "first_seen": "2026-07-13T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "pi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 77138,
+          "forks": 9483,
+          "stars_today": 0,
+          "stars_this_week": 4880,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 464,
+            "repo_age_days": 349,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 2401,
+            "star_fork_ratio": 8.13
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 43215,
+          "forks": 7230,
+          "stars_today": 0,
+          "stars_this_week": 4399,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2690,
+            "repo_age_days": 128,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 106,
+            "pr_count": 276,
+            "star_fork_ratio": 5.98
+          },
+          "trending_days": 1,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "owner": "1jehuang",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "ai_summary": "jcode 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 11255,
+          "forks": 1230,
+          "stars_today": 0,
+          "stars_this_week": 2773,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1714,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 128,
+            "pr_count": 121,
+            "star_fork_ratio": 9.15
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-20T00:00:00.000Z"
+        },
+        {
+          "id": "ibelick/ui-skills",
+          "name": "ui-skills",
+          "owner": "ibelick",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description": "Skills for Design Engineers",
+          "ai_summary": "ui-skills 是一个面向 Skills 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6331,
+          "forks": 279,
+          "stars_today": 0,
+          "stars_this_week": 1691,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3965,
+            "repo_age_days": 198,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 32,
+            "star_fork_ratio": 22.69
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-23T00:00:00.000Z"
+        },
+        {
+          "id": "MoonshotAI/kimi-code",
+          "name": "kimi-code",
+          "owner": "MoonshotAI",
+          "url": "https://github.com/MoonshotAI/kimi-code",
+          "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+          "ai_summary": "kimi-code 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 4962,
+          "forks": 722,
+          "stars_today": 0,
+          "stars_this_week": 1589,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1214,
+            "repo_age_days": 63,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 776,
+            "pr_count": 1511,
+            "star_fork_ratio": 6.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 11,
+          "Skills": 11,
+          "Agent": 7,
+          "内容创作": 1
+        }
+      }
     }
   ]
 }
