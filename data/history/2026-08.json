@@ -1,0 +1,472 @@
+{
+  "month": "2026-08",
+  "days": [
+    {
+      "date": "2026-08-01",
+      "generated_at": "2026-08-01T04:35:06.458Z",
+      "projects": [
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "AI-For-Beginners 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 55454,
+          "forks": 11166,
+          "stars_today": 1592,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 4616,
+            "repo_age_days": 1976,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 465,
+            "star_fork_ratio": 4.97
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "different-ai/openwork",
+          "name": "openwork",
+          "owner": "different-ai",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "ai_summary": "openwork 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 19596,
+          "forks": 2011,
+          "stars_today": 806,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1351,
+            "repo_age_days": 199,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 434,
+            "pr_count": 2923,
+            "star_fork_ratio": 9.74
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "paperswithbacktest/awesome-systematic-trading",
+          "name": "awesome-systematic-trading",
+          "owner": "paperswithbacktest",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+          "ai_summary": "awesome-systematic-trading 是一个面向 金融 / 内容创作 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 11837,
+          "forks": 1480,
+          "stars_today": 763,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "内容创作"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 947,
+            "repo_age_days": 1637,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 53,
+            "star_fork_ratio": 8
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 56311,
+          "forks": 4899,
+          "stars_today": 658,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5757,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 80,
+            "pr_count": 692,
+            "star_fork_ratio": 11.49
+          },
+          "trending_days": 2,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "Reverse Engineering / Authorized Penetration Testing / Secu…",
+          "language": "PowerShell",
+          "stars": 10916,
+          "forks": 1674,
+          "stars_today": 335,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 1029,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 19,
+            "star_fork_ratio": 6.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "usekaneo/kaneo",
+          "name": "kaneo",
+          "owner": "usekaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+          "ai_summary": "kaneo 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5184,
+          "forks": 455,
+          "stars_today": 194,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 585,
+            "repo_age_days": 577,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 1150,
+            "star_fork_ratio": 11.39
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 198007,
+          "forks": 17047,
+          "stars_today": 0,
+          "stars_this_week": 11622,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3377,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 259,
+            "pr_count": 107,
+            "star_fork_ratio": 11.62
+          },
+          "trending_days": 8,
+          "first_seen": "2026-07-25T00:00:00.000Z"
+        },
+        {
+          "id": "diegosouzapw/OmniRoute",
+          "name": "OmniRoute",
+          "owner": "diegosouzapw",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+          "ai_summary": "OmniRoute 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 36258,
+          "forks": 4660,
+          "stars_today": 0,
+          "stars_this_week": 7701,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4415,
+            "repo_age_days": 168,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 474,
+            "pr_count": 5730,
+            "star_fork_ratio": 7.78
+          },
+          "trending_days": 12,
+          "first_seen": "2026-07-21T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 14828,
+          "forks": 806,
+          "stars_today": 0,
+          "stars_this_week": 5133,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3234,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 59,
+            "star_fork_ratio": 18.4
+          },
+          "trending_days": 5,
+          "first_seen": "2026-07-28T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 17072,
+          "forks": 1164,
+          "stars_today": 0,
+          "stars_this_week": 4746,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5132,
+            "repo_age_days": 75,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 72,
+            "pr_count": 391,
+            "star_fork_ratio": 14.67
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "owner": "citrolabs",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "ai_summary": "ego-lite 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 7084,
+          "forks": 337,
+          "stars_today": 0,
+          "stars_this_week": 4741,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 310,
+            "repo_age_days": 106,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 134,
+            "star_fork_ratio": 21.02
+          },
+          "trending_days": 3,
+          "first_seen": "2026-07-30T00:00:00.000Z"
+        },
+        {
+          "id": "koala73/worldmonitor",
+          "name": "worldmonitor",
+          "owner": "koala73",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "ai_summary": "worldmonitor 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 77499,
+          "forks": 11575,
+          "stars_today": 0,
+          "stars_this_week": 4657,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5457,
+            "repo_age_days": 204,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 288,
+            "pr_count": 4623,
+            "star_fork_ratio": 6.7
+          },
+          "trending_days": 11,
+          "first_seen": "2026-07-22T00:00:00.000Z"
+        },
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "owner": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "ai_summary": "book-to-skill 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 14353,
+          "forks": 1557,
+          "stars_today": 0,
+          "stars_this_week": 4603,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3539,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 76,
+            "star_fork_ratio": 9.22
+          },
+          "trending_days": 4,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "pi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 81580,
+          "forks": 10070,
+          "stars_today": 0,
+          "stars_this_week": 4571,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 471,
+            "repo_age_days": 356,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 2528,
+            "star_fork_ratio": 8.1
+          },
+          "trending_days": 6,
+          "first_seen": "2026-07-27T00:00:00.000Z"
+        },
+        {
+          "id": "moeru-ai/airi",
+          "name": "airi",
+          "owner": "moeru-ai",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "ai_summary": "airi 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 46249,
+          "forks": 4558,
+          "stars_today": 0,
+          "stars_this_week": 3125,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 853,
+            "repo_age_days": 607,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 204,
+            "pr_count": 1567,
+            "star_fork_ratio": 10.15
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "金融": 1,
+          "内容创作": 1,
+          "Skills": 8,
+          "Agent": 6
+        }
+      }
+    }
+  ]
+}
