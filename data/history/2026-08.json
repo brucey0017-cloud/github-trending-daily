@@ -3263,6 +3263,471 @@
           "AI": 11
         }
       }
+    },
+    {
+      "date": "2026-08-08",
+      "generated_at": "2026-08-08T03:00:37.798Z",
+      "projects": [
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "prime-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6726,
+          "forks": 539,
+          "stars_today": 2293,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1026,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 254,
+            "pr_count": 781,
+            "star_fork_ratio": 12.48
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 208937,
+          "forks": 18038,
+          "stars_today": 2152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3384,
+            "repo_age_days": 185,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 306,
+            "pr_count": 134,
+            "star_fork_ratio": 11.58
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-07T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 83955,
+          "forks": 8972,
+          "stars_today": 1131,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 6215,
+            "repo_age_days": 173,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 327,
+            "star_fork_ratio": 9.36
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/computer",
+          "name": "computer",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/computer",
+          "description": "Give your agent a computer 👾",
+          "ai_summary": "computer 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5821,
+          "forks": 293,
+          "stars_today": 872,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5888,
+            "repo_age_days": 63,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 57,
+            "star_fork_ratio": 19.87
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-06T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 268791,
+          "forks": 24003,
+          "stars_today": 782,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6419,
+            "repo_age_days": 302,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 325,
+            "pr_count": 1097,
+            "star_fork_ratio": 11.2
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-05T00:00:00.000Z"
+        },
+        {
+          "id": "Significant-Gravitas/AutoGPT",
+          "name": "AutoGPT",
+          "owner": "Significant-Gravitas",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "ai_summary": "AutoGPT 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 186346,
+          "forks": 46060,
+          "stars_today": 355,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1211,
+            "repo_age_days": 1240,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 502,
+            "pr_count": 8531,
+            "star_fork_ratio": 4.05
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "google/skills",
+          "name": "skills",
+          "owner": "google",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "ai_summary": "skills 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 16289,
+          "forks": 1293,
+          "stars_today": 327,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5316,
+            "repo_age_days": 129,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 175,
+            "star_fork_ratio": 12.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "pranshuparmar/witr",
+          "name": "witr",
+          "owner": "pranshuparmar",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+          "ai_summary": "witr 是一个面向 AI 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 19803,
+          "forks": 643,
+          "stars_today": 234,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4851,
+            "repo_age_days": 230,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 125,
+            "star_fork_ratio": 30.8
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "semantica 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 2377,
+          "forks": 308,
+          "stars_today": 122,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 435,
+            "repo_age_days": 408,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 642,
+            "star_fork_ratio": 7.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-08T00:00:00.000Z"
+        },
+        {
+          "id": "zhaoxuya520/reverse-skill",
+          "name": "reverse-skill",
+          "owner": "zhaoxuya520",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "ai_summary": "Reverse Engineering / Authorized Penetration Testing / Secu…",
+          "language": "PowerShell",
+          "stars": 20593,
+          "forks": 2840,
+          "stars_today": 0,
+          "stars_this_week": 10400,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1036,
+            "repo_age_days": 86,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 32,
+            "star_fork_ratio": 7.25
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-01T00:00:00.000Z"
+        },
+        {
+          "id": "microsoft/AI-For-Beginners",
+          "name": "AI-For-Beginners",
+          "owner": "microsoft",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "ai_summary": "AI-For-Beginners 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 63226,
+          "forks": 12257,
+          "stars_today": 0,
+          "stars_this_week": 8224,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4623,
+            "repo_age_days": 1983,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 474,
+            "star_fork_ratio": 5.16
+          },
+          "trending_days": 9,
+          "first_seen": "2026-07-31T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "TencentDB-Agent-Memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用…",
+          "language": "TypeScript",
+          "stars": 17556,
+          "forks": 1572,
+          "stars_today": 0,
+          "stars_this_week": 7501,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3698,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 549,
+            "pr_count": 630,
+            "star_fork_ratio": 11.17
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-02T00:00:00.000Z"
+        },
+        {
+          "id": "lyogavin/airllm",
+          "name": "airllm",
+          "owner": "lyogavin",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "ai_summary": "airllm 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+          "language": "Jupyter Notebook",
+          "stars": 29925,
+          "forks": 3192,
+          "stars_today": 0,
+          "stars_this_week": 5521,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5416,
+            "repo_age_days": 1152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 133,
+            "pr_count": 55,
+            "star_fork_ratio": 9.38
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "esengine/DeepSeek-Reasonix",
+          "name": "DeepSeek-Reasonix",
+          "owner": "esengine",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+          "ai_summary": "DeepSeek-Reasonix 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开…",
+          "language": "Go",
+          "stars": 32923,
+          "forks": 2121,
+          "stars_today": 0,
+          "stars_this_week": 4739,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3767,
+            "repo_age_days": 108,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 942,
+            "pr_count": 4144,
+            "star_fork_ratio": 15.52
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-03T00:00:00.000Z"
+        },
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "owner": "virgiliojr94",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "ai_summary": "book-to-skill 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18370,
+          "forks": 1976,
+          "stars_today": 0,
+          "stars_this_week": 3957,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3546,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 98,
+            "star_fork_ratio": 9.3
+          },
+          "trending_days": 11,
+          "first_seen": "2026-07-29T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 10,
+          "Agent": 8,
+          "AI": 11
+        }
+      }
     }
   ]
 }
