@@ -7469,6 +7469,380 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-08-17",
+      "generated_at": "2026-08-17T02:34:01.350Z",
+      "projects": [
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "unsloth 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 72669,
+          "forks": 6552,
+          "stars_today": 572,
+          "stars_this_week": 2645,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1005,
+            "repo_age_days": 991,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1270,
+            "pr_count": 4676,
+            "star_fork_ratio": 11.09
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "ToolJet/ToolJet",
+          "name": "ToolJet",
+          "owner": "ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+          "ai_summary": "ToolJet 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 40097,
+          "forks": 5332,
+          "stars_today": 452,
+          "stars_this_week": 1518,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1955,
+            "repo_age_days": 1965,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1131,
+            "pr_count": 11857,
+            "star_fork_ratio": 7.52
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 19648,
+          "forks": 1201,
+          "stars_today": 0,
+          "stars_this_week": 15600,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2656,
+            "repo_age_days": 122,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 55,
+            "star_fork_ratio": 16.36
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "prime-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 16606,
+          "forks": 1789,
+          "stars_today": 0,
+          "stars_this_week": 6435,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1035,
+            "repo_age_days": 101,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 73,
+            "pr_count": 1113,
+            "star_fork_ratio": 9.28
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "semantica 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8224,
+          "forks": 842,
+          "stars_today": 0,
+          "stars_this_week": 5284,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 444,
+            "repo_age_days": 417,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 77,
+            "pr_count": 761,
+            "star_fork_ratio": 9.77
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/TencentDB-Agent-Memory",
+          "name": "TencentDB-Agent-Memory",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "ai_summary": "TencentDB-Agent-Memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用…",
+          "language": "TypeScript",
+          "stars": 22273,
+          "forks": 2038,
+          "stars_today": 0,
+          "stars_this_week": 3637,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3706,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 612,
+            "pr_count": 750,
+            "star_fork_ratio": 10.93
+          },
+          "trending_days": 16,
+          "first_seen": "2026-08-02T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 87785,
+          "forks": 9407,
+          "stars_today": 0,
+          "stars_this_week": 2882,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6224,
+            "repo_age_days": 182,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 346,
+            "star_fork_ratio": 9.33
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-15T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "macro 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3423,
+          "forks": 342,
+          "stars_today": 0,
+          "stars_this_week": 2588,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2279,
+            "repo_age_days": 281,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 5635,
+            "star_fork_ratio": 10.01
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "paperclip 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 78538,
+          "forks": 14386,
+          "stars_today": 0,
+          "stars_this_week": 2499,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 170,
+            "repo_age_days": 167,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5093,
+            "pr_count": 8451,
+            "star_fork_ratio": 5.46
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-16T00:00:00.000Z"
+        },
+        {
+          "id": "vitali87/code-graph-rag",
+          "name": "code-graph-rag",
+          "owner": "vitali87",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "ai_summary": "code-graph-rag 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 4436,
+          "forks": 598,
+          "stars_today": 0,
+          "stars_this_week": 1686,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3614,
+            "repo_age_days": 426,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 50,
+            "pr_count": 784,
+            "star_fork_ratio": 7.42
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "NVIDIA-NeMo/Switchyard",
+          "name": "Switchyard",
+          "owner": "NVIDIA-NeMo",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+          "ai_summary": "Switchyard 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 1700,
+          "forks": 154,
+          "stars_today": 0,
+          "stars_this_week": 1435,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 446,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 105,
+            "pr_count": 374,
+            "star_fork_ratio": 11.04
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-17T00:00:00.000Z"
+        },
+        {
+          "id": "megadose/holehe",
+          "name": "holehe",
+          "owner": "megadose",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "ai_summary": "holehe 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13301,
+          "forks": 1757,
+          "stars_today": 0,
+          "stars_this_week": 1287,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2620,
+            "repo_age_days": 2243,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 104,
+            "pr_count": 106,
+            "star_fork_ratio": 7.57
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 12,
+        "hot": 12,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 6,
+          "Agent": 6
+        }
+      }
     }
   ]
 }
