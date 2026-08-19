@@ -8308,6 +8308,468 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-19",
+      "generated_at": "2026-08-19T02:31:53.372Z",
+      "projects": [
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos…",
+          "language": "Python",
+          "stars": 108711,
+          "forks": 16505,
+          "stars_today": 2304,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4794,
+            "repo_age_days": 890,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 357,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "mukul975/Anthropic-Cybersecurity-Skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "owner": "mukul975",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "ai_summary": "Anthropic-Cybersecurity-Skills 是一个面向 AI / Skills / Agent 场景…",
+          "language": "Python",
+          "stars": 29248,
+          "forks": 3497,
+          "stars_today": 730,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2909,
+            "repo_age_days": 174,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 69,
+            "star_fork_ratio": 8.36
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "ai-memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 2784,
+          "forks": 240,
+          "stars_today": 648,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6734,
+            "repo_age_days": 89,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 289,
+            "star_fork_ratio": 11.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "jundot/omlx",
+          "name": "omlx",
+          "owner": "jundot",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+          "ai_summary": "omlx 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 19441,
+          "forks": 1672,
+          "stars_today": 370,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2307,
+            "repo_age_days": 186,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 937,
+            "pr_count": 994,
+            "star_fork_ratio": 11.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "chaitanyagiri/munder-difflin",
+          "name": "munder-difflin",
+          "owner": "chaitanyagiri",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description": "local multi-agent harness",
+          "ai_summary": "munder-difflin 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 2105,
+          "forks": 246,
+          "stars_today": 306,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3459,
+            "repo_age_days": 79,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 37,
+            "pr_count": 107,
+            "star_fork_ratio": 8.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "ai_summary": "OpenViking 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 29482,
+          "forks": 2310,
+          "stars_today": 213,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2246,
+            "repo_age_days": 225,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 458,
+            "pr_count": 3143,
+            "star_fork_ratio": 12.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 21945,
+          "forks": 1344,
+          "stars_today": 0,
+          "stars_this_week": 15812,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2658,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 80,
+            "star_fork_ratio": 16.33
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "semantica 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 9041,
+          "forks": 933,
+          "stars_today": 0,
+          "stars_this_week": 4304,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 446,
+            "repo_age_days": 419,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 799,
+            "star_fork_ratio": 9.69
+          },
+          "trending_days": 9,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        },
+        {
+          "id": "unslothai/unsloth",
+          "name": "unsloth",
+          "owner": "unslothai",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+          "ai_summary": "unsloth 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 73616,
+          "forks": 6649,
+          "stars_today": 0,
+          "stars_this_week": 3636,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1007,
+            "repo_age_days": 993,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1326,
+            "pr_count": 4812,
+            "star_fork_ratio": 11.07
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "PrimeIntellect-ai/prime-agent",
+          "name": "prime-agent",
+          "owner": "PrimeIntellect-ai",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "ai_summary": "prime-agent 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17215,
+          "forks": 1850,
+          "stars_today": 0,
+          "stars_this_week": 3475,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1037,
+            "repo_age_days": 103,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 66,
+            "pr_count": 1141,
+            "star_fork_ratio": 9.31
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-14T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "macro 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3681,
+          "forks": 361,
+          "stars_today": 0,
+          "stars_this_week": 2627,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2281,
+            "repo_age_days": 283,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 71,
+            "pr_count": 5683,
+            "star_fork_ratio": 10.2
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "lightningpixel/modly",
+          "name": "modly",
+          "owner": "lightningpixel",
+          "url": "https://github.com/lightningpixel/modly",
+          "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+          "ai_summary": "modly 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6709,
+          "forks": 656,
+          "stars_today": 0,
+          "stars_this_week": 1600,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2327,
+            "repo_age_days": 154,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 61,
+            "pr_count": 182,
+            "star_fork_ratio": 10.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "megadose/holehe",
+          "name": "holehe",
+          "owner": "megadose",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+          "ai_summary": "holehe 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13613,
+          "forks": 1788,
+          "stars_today": 0,
+          "stars_this_week": 1568,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2622,
+            "repo_age_days": 2245,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 108,
+            "pr_count": 108,
+            "star_fork_ratio": 7.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "AlexsJones/llmfit",
+          "name": "llmfit",
+          "owner": "AlexsJones",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "ai_summary": "llmfit 是一个面向 AI 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 32749,
+          "forks": 2022,
+          "stars_today": 0,
+          "stars_this_week": 1316,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5373,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 660,
+            "star_fork_ratio": 16.2
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "vitali87/code-graph-rag",
+          "name": "code-graph-rag",
+          "owner": "vitali87",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+          "ai_summary": "code-graph-rag 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 4628,
+          "forks": 615,
+          "stars_today": 0,
+          "stars_this_week": 910,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3616,
+            "repo_age_days": 428,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 45,
+            "pr_count": 804,
+            "star_fork_ratio": 7.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 7,
+          "Agent": 6
+        }
+      }
     }
   ]
 }
