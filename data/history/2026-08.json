@@ -10161,6 +10161,476 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-08-23",
+      "generated_at": "2026-08-23T02:37:08.258Z",
+      "projects": [
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 232198,
+          "forks": 19815,
+          "stars_today": 2683,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3399,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 385,
+            "pr_count": 147,
+            "star_fork_ratio": 11.72
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "codex 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 113565,
+          "forks": 17378,
+          "stars_today": 1544,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3976,
+            "repo_age_days": 496,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13497,
+            "pr_count": 15145,
+            "star_fork_ratio": 6.53
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 276218,
+          "forks": 24705,
+          "stars_today": 592,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6434,
+            "repo_age_days": 317,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 308,
+            "pr_count": 1148,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-20T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 242199,
+          "forks": 36702,
+          "stars_today": 411,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1295,
+            "repo_age_days": 217,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 149,
+            "pr_count": 1989,
+            "star_fork_ratio": 6.6
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 205345,
+          "forks": 21009,
+          "stars_today": 315,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 221,
+            "repo_age_days": 207,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 154,
+            "star_fork_ratio": 9.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "PostHog/posthog",
+          "name": "posthog",
+          "owner": "PostHog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "ai_summary": "posthog 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 38633,
+          "forks": 3244,
+          "stars_today": 286,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2400,
+            "repo_age_days": 2403,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 5196,
+            "pr_count": 76531,
+            "star_fork_ratio": 11.91
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-22T00:00:00.000Z"
+        },
+        {
+          "id": "Wei-Shaw/sub2api",
+          "name": "sub2api",
+          "owner": "Wei-Shaw",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "ai_summary": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享…",
+          "language": "Go",
+          "stars": 38808,
+          "forks": 8040,
+          "stars_today": 278,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3462,
+            "repo_age_days": 248,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2800,
+            "pr_count": 2845,
+            "star_fork_ratio": 4.83
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/AI-Infra-Guard",
+          "name": "AI-Infra-Guard",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+          "ai_summary": "AI-Infra-Guard 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python …",
+          "language": "Python",
+          "stars": 5522,
+          "forks": 521,
+          "stars_today": 150,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3782,
+            "repo_age_days": 605,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 434,
+            "star_fork_ratio": 10.6
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "n8n-io/n8n",
+          "name": "n8n",
+          "owner": "n8n-io",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "ai_summary": "n8n 是一个面向 AI / Skills 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 201847,
+          "forks": 60307,
+          "stars_today": 149,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2822,
+            "repo_age_days": 2618,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1069,
+            "pr_count": 26544,
+            "star_fork_ratio": 3.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 142566,
+          "forks": 22838,
+          "stars_today": 127,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2072,
+            "repo_age_days": 546,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 15084,
+            "pr_count": 1276,
+            "star_fork_ratio": 6.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos…",
+          "language": "Python",
+          "stars": 114684,
+          "forks": 17405,
+          "stars_today": 0,
+          "stars_this_week": 10953,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4798,
+            "repo_age_days": 894,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 401,
+            "star_fork_ratio": 6.59
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 25506,
+          "forks": 1568,
+          "stars_today": 0,
+          "stars_this_week": 7368,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2662,
+            "repo_age_days": 128,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 109,
+            "star_fork_ratio": 16.27
+          },
+          "trending_days": 11,
+          "first_seen": "2026-08-13T00:00:00.000Z"
+        },
+        {
+          "id": "volcengine/OpenViking",
+          "name": "OpenViking",
+          "owner": "volcengine",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "ai_summary": "OpenViking 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 32097,
+          "forks": 2450,
+          "stars_today": 0,
+          "stars_this_week": 3447,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2250,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 491,
+            "pr_count": 3207,
+            "star_fork_ratio": 13.1
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-19T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "ai-memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 4099,
+          "forks": 301,
+          "stars_today": 0,
+          "stars_this_week": 2575,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6738,
+            "repo_age_days": 93,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 322,
+            "star_fork_ratio": 13.62
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-21T00:00:00.000Z"
+        },
+        {
+          "id": "semantica-agi/semantica",
+          "name": "semantica",
+          "owner": "semantica-agi",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "ai_summary": "semantica 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 10280,
+          "forks": 1107,
+          "stars_today": 0,
+          "stars_this_week": 2450,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 450,
+            "repo_age_days": 423,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 126,
+            "pr_count": 851,
+            "star_fork_ratio": 9.29
+          },
+          "trending_days": 13,
+          "first_seen": "2026-08-11T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 12,
+          "Agent": 9
+        }
+      }
     }
   ]
 }
