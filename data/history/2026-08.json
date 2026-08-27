@@ -12002,6 +12002,476 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-08-27",
+      "generated_at": "2026-08-27T11:12:25.342Z",
+      "projects": [
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套…",
+          "language": "JavaScript",
+          "stars": 22427,
+          "forks": 2239,
+          "stars_today": 4050,
+          "stars_this_week": 9477,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2879,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 10,
+            "star_fork_ratio": 10.02
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 113359,
+          "forks": 6198,
+          "stars_today": 1598,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1165,
+            "repo_age_days": 76,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 176,
+            "pr_count": 475,
+            "star_fork_ratio": 18.29
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 51779,
+          "forks": 6502,
+          "stars_today": 1284,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 459,
+            "repo_age_days": 150,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 248,
+            "pr_count": 368,
+            "star_fork_ratio": 7.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 20766,
+          "forks": 1361,
+          "stars_today": 1035,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2593,
+            "repo_age_days": 134,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 34,
+            "pr_count": 80,
+            "star_fork_ratio": 15.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 49875,
+          "forks": 8670,
+          "stars_today": 838,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2723,
+            "repo_age_days": 161,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 342,
+            "star_fork_ratio": 5.75
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "AgriciDaniel/claude-obsidian",
+          "name": "claude-obsidian",
+          "owner": "AgriciDaniel",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+          "ai_summary": "claude-obsidian 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13701,
+          "forks": 1414,
+          "stars_today": 810,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 395,
+            "repo_age_days": 142,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 139,
+            "pr_count": 101,
+            "star_fork_ratio": 9.69
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 100838,
+          "forks": 19439,
+          "stars_today": 707,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 608,
+            "repo_age_days": 607,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 384,
+            "pr_count": 762,
+            "star_fork_ratio": 5.19
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-26T00:00:00.000Z"
+        },
+        {
+          "id": "JetBrains/go-modern-guidelines",
+          "name": "go-modern-guidelines",
+          "owner": "JetBrains",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "description": "Help AI coding agents write modern Go",
+          "ai_summary": "go-modern-guidelines 是一个面向 AI / Skills / Agent 场景的开源项目，使用 G…",
+          "language": "Go",
+          "stars": 1831,
+          "forks": 53,
+          "stars_today": 314,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5540,
+            "repo_age_days": 275,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 8,
+            "star_fork_ratio": 34.55
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "claude-plugins-official 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 34493,
+          "forks": 3897,
+          "stars_today": 308,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2076,
+            "repo_age_days": 279,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1037,
+            "pr_count": 4549,
+            "star_fork_ratio": 8.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 34986,
+          "forks": 3376,
+          "stars_today": 138,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 314,
+            "repo_age_days": 311,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 10,
+            "pr_count": 145,
+            "star_fork_ratio": 10.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript …",
+          "language": "JavaScript",
+          "stars": 91995,
+          "forks": 8096,
+          "stars_today": 133,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5636,
+            "repo_age_days": 360,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 301,
+            "pr_count": 1520,
+            "star_fork_ratio": 11.36
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "owner": "ComposioHQ",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "ai_summary": "awesome-claude-skills 是一个面向 AI / Skills 场景的开源项目，使用 Python 开…",
+          "language": "Python",
+          "stars": 73412,
+          "forks": 8423,
+          "stars_today": 125,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1255,
+            "repo_age_days": 314,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1331,
+            "pr_count": 1506,
+            "star_fork_ratio": 8.72
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "ConardLi/garden-skills",
+          "name": "garden-skills",
+          "owner": "ConardLi",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+          "ai_summary": "garden-skills 是一个面向 Skills 场景的开源项目，使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 11148,
+          "forks": 1401,
+          "stars_today": 113,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3310,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 13,
+            "star_fork_ratio": 7.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "codex 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 119072,
+          "forks": 18167,
+          "stars_today": 0,
+          "stars_this_week": 12120,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3980,
+            "repo_age_days": 501,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14067,
+            "pr_count": 15373,
+            "star_fork_ratio": 6.55
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "owner": "harry0703",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "ai_summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos…",
+          "language": "Python",
+          "stars": 117100,
+          "forks": 17811,
+          "stars_today": 0,
+          "stars_this_week": 7232,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4803,
+            "repo_age_days": 899,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 12,
+            "pr_count": 417,
+            "star_fork_ratio": 6.57
+          },
+          "trending_days": 10,
+          "first_seen": "2026-08-18T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 12,
+          "Agent": 7,
+          "金融": 1
+        }
+      }
     }
   ]
 }
