@@ -13400,6 +13400,472 @@
           "Agent": 7
         }
       }
+    },
+    {
+      "date": "2026-08-30",
+      "generated_at": "2026-08-30T06:40:32.054Z",
+      "projects": [
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 31862,
+          "forks": 1991,
+          "stars_today": 3902,
+          "stars_this_week": 14875,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2596,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 61,
+            "pr_count": 123,
+            "star_fork_ratio": 16
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 38129,
+          "forks": 3591,
+          "stars_today": 1587,
+          "stars_this_week": 3642,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 317,
+            "repo_age_days": 314,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 153,
+            "star_fork_ratio": 10.62
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 22575,
+          "forks": 4355,
+          "stars_today": 907,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 895,
+            "repo_age_days": 171,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 724,
+            "star_fork_ratio": 5.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 54230,
+          "forks": 6723,
+          "stars_today": 806,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 462,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 263,
+            "pr_count": 379,
+            "star_fork_ratio": 8.07
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "tailscale/tailcat",
+          "name": "tailcat",
+          "owner": "tailscale",
+          "url": "https://github.com/tailscale/tailcat",
+          "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+          "ai_summary": "tailcat 是一个面向 AI 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 3714,
+          "forks": 113,
+          "stars_today": 789,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2714,
+            "repo_age_days": 669,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 13,
+            "star_fork_ratio": 32.87
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "abi/screenshot-to-code",
+          "name": "screenshot-to-code",
+          "owner": "abi",
+          "url": "https://github.com/abi/screenshot-to-code",
+          "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+          "ai_summary": "screenshot-to-code 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 76130,
+          "forks": 9271,
+          "stars_today": 550,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6563,
+            "repo_age_days": 1019,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 131,
+            "pr_count": 192,
+            "star_fork_ratio": 8.21
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "claude-plugins-official 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 35503,
+          "forks": 3964,
+          "stars_today": 358,
+          "stars_this_week": 1603,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2079,
+            "repo_age_days": 282,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1057,
+            "pr_count": 4567,
+            "star_fork_ratio": 8.96
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "JetBrains/go-modern-guidelines",
+          "name": "go-modern-guidelines",
+          "owner": "JetBrains",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "description": "Help AI coding agents write modern Go",
+          "ai_summary": "go-modern-guidelines 是一个面向 AI / Skills / Agent 场景的开源项目，使用 G…",
+          "language": "Go",
+          "stars": 2916,
+          "forks": 81,
+          "stars_today": 303,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5542,
+            "repo_age_days": 278,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8,
+            "pr_count": 12,
+            "star_fork_ratio": 36
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "workweave/router",
+          "name": "router",
+          "owner": "workweave",
+          "url": "https://github.com/workweave/router",
+          "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+          "ai_summary": "router 是一个面向 Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 2880,
+          "forks": 82,
+          "stars_today": 284,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 783,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 112,
+            "pr_count": 1070,
+            "star_fork_ratio": 35.12
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 90796,
+          "forks": 9713,
+          "stars_today": 196,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6237,
+            "repo_age_days": 195,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 124,
+            "pr_count": 367,
+            "star_fork_ratio": 9.35
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套…",
+          "language": "JavaScript",
+          "stars": 25239,
+          "forks": 2471,
+          "stars_today": 0,
+          "stars_this_week": 13141,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2882,
+            "repo_age_days": 126,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 17,
+            "pr_count": 13,
+            "star_fork_ratio": 10.21
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "codex 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 119890,
+          "forks": 18311,
+          "stars_today": 0,
+          "stars_this_week": 7775,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3983,
+            "repo_age_days": 504,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14434,
+            "pr_count": 2673,
+            "star_fork_ratio": 6.55
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "ai-job-search 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 38189,
+          "forks": 12955,
+          "stars_today": 0,
+          "stars_this_week": 5145,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2676,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 298,
+            "star_fork_ratio": 2.95
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "ai_summary": "free-claude-code 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 51590,
+          "forks": 8302,
+          "stars_today": 0,
+          "stars_this_week": 4942,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3697,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 362,
+            "pr_count": 702,
+            "star_fork_ratio": 6.21
+          },
+          "trending_days": 3,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 51045,
+          "forks": 8837,
+          "stars_today": 0,
+          "stars_this_week": 3488,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2726,
+            "repo_age_days": 164,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 100,
+            "pr_count": 348,
+            "star_fork_ratio": 5.78
+          },
+          "trending_days": 6,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 9,
+          "Agent": 8
+        }
+      }
     }
   ]
 }
