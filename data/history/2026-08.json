@@ -13866,6 +13866,470 @@
           "Agent": 8
         }
       }
+    },
+    {
+      "date": "2026-08-31",
+      "generated_at": "2026-08-31T07:02:18.304Z",
+      "projects": [
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 35941,
+          "forks": 2307,
+          "stars_today": 3722,
+          "stars_this_week": 18103,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2597,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 78,
+            "pr_count": 139,
+            "star_fork_ratio": 15.58
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 24971,
+          "forks": 4577,
+          "stars_today": 1370,
+          "stars_this_week": 2085,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 896,
+            "repo_age_days": 172,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 221,
+            "pr_count": 732,
+            "star_fork_ratio": 5.46
+          },
+          "trending_days": 2,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 39854,
+          "forks": 3707,
+          "stars_today": 1114,
+          "stars_this_week": 4309,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 318,
+            "repo_age_days": 315,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 158,
+            "star_fork_ratio": 10.75
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "tashfeenahmed/freellmapi",
+          "name": "freellmapi",
+          "owner": "tashfeenahmed",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "ai_summary": "freellmapi 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 23023,
+          "forks": 3170,
+          "stars_today": 504,
+          "stars_this_week": 3037,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4333,
+            "repo_age_days": 131,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 86,
+            "pr_count": 740,
+            "star_fork_ratio": 7.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "owner": "mvanhorn",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 60654,
+          "forks": 5304,
+          "stars_today": 230,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5787,
+            "repo_age_days": 219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 183,
+            "pr_count": 800,
+            "star_fork_ratio": 11.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "owner": "unclecode",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "ai_summary": "crawl4ai 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 80414,
+          "forks": 8321,
+          "stars_today": 221,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4122,
+            "repo_age_days": 843,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 178,
+            "pr_count": 721,
+            "star_fork_ratio": 9.66
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "abhigyanpatwari/GitNexus",
+          "name": "GitNexus",
+          "owner": "abhigyanpatwari",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+          "ai_summary": "GitNexus 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 46658,
+          "forks": 5129,
+          "stars_today": 182,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1283,
+            "repo_age_days": 393,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 326,
+            "pr_count": 1858,
+            "star_fork_ratio": 9.1
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "pollen-robotics/microduck_rl",
+          "name": "microduck_rl",
+          "owner": "pollen-robotics",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "description": "RL training environments for Microduck (mjlab)",
+          "ai_summary": "microduck_rl 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 914,
+          "forks": 157,
+          "stars_today": 168,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 3767,
+            "repo_age_days": 267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 14,
+            "star_fork_ratio": 5.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "livekit/agents",
+          "name": "agents",
+          "owner": "livekit",
+          "url": "https://github.com/livekit/agents",
+          "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "ai_summary": "agents 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 13854,
+          "forks": 3661,
+          "stars_today": 132,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2212,
+            "repo_age_days": 1046,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 780,
+            "pr_count": 4913,
+            "star_fork_ratio": 3.78
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "corsairdev/corsair",
+          "name": "corsair",
+          "owner": "corsairdev",
+          "url": "https://github.com/corsairdev/corsair",
+          "description": "Connect your users to their apps",
+          "ai_summary": "corsair 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 11055,
+          "forks": 529,
+          "stars_today": 126,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 320,
+            "repo_age_days": 320,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 338,
+            "pr_count": 799,
+            "star_fork_ratio": 20.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-08-31T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套…",
+          "language": "JavaScript",
+          "stars": 25935,
+          "forks": 2547,
+          "stars_today": 0,
+          "stars_this_week": 13413,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2883,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 15,
+            "star_fork_ratio": 10.18
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "owner": "openai",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "ai_summary": "codex 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 120228,
+          "forks": 18370,
+          "stars_today": 0,
+          "stars_this_week": 5510,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3984,
+            "repo_age_days": 505,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14565,
+            "pr_count": 2682,
+            "star_fork_ratio": 6.54
+          },
+          "trending_days": 9,
+          "first_seen": "2026-08-23T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "ai-job-search 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 38682,
+          "forks": 13122,
+          "stars_today": 0,
+          "stars_this_week": 5348,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 2677,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 9,
+            "pr_count": 299,
+            "star_fork_ratio": 2.95
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "Alishahryar1/free-claude-code",
+          "name": "free-claude-code",
+          "owner": "Alishahryar1",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "ai_summary": "free-claude-code 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 52032,
+          "forks": 8379,
+          "stars_today": 0,
+          "stars_this_week": 4324,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 3698,
+            "repo_age_days": 214,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 365,
+            "pr_count": 718,
+            "star_fork_ratio": 6.21
+          },
+          "trending_days": 4,
+          "first_seen": "2026-08-28T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 51386,
+          "forks": 8899,
+          "stars_today": 0,
+          "stars_this_week": 3720,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2727,
+            "repo_age_days": 165,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 97,
+            "pr_count": 348,
+            "star_fork_ratio": 5.77
+          },
+          "trending_days": 7,
+          "first_seen": "2026-08-25T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 8,
+          "Agent": 7
+        }
+      }
     }
   ]
 }
