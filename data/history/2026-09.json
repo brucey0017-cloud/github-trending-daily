@@ -926,6 +926,477 @@
           "Agent": 6
         }
       }
+    },
+    {
+      "date": "2026-09-03",
+      "generated_at": "2026-09-03T05:48:29.087Z",
+      "projects": [
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 122103,
+          "forks": 6599,
+          "stars_today": 1354,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1171,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 202,
+            "pr_count": 495,
+            "star_fork_ratio": 18.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 245520,
+          "forks": 20872,
+          "stars_today": 1166,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3410,
+            "repo_age_days": 211,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 450,
+            "pr_count": 146,
+            "star_fork_ratio": 11.76
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "pacifio/atlas",
+          "name": "atlas",
+          "owner": "pacifio",
+          "url": "https://github.com/pacifio/atlas",
+          "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+          "ai_summary": "atlas 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 3011,
+          "forks": 194,
+          "stars_today": 888,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3249,
+            "repo_age_days": 111,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 160,
+            "star_fork_ratio": 15.52
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "academic-research-skills 是一个面向 AI / Skills 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 45681,
+          "forks": 3588,
+          "stars_today": 799,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1218,
+            "repo_age_days": 188,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 455,
+            "star_fork_ratio": 12.73
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "id": "Gitlawb/openclaude",
+          "name": "openclaude",
+          "owner": "Gitlawb",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "description": "runs anywhere. uses anything",
+          "ai_summary": "openclaude 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 32075,
+          "forks": 9007,
+          "stars_today": 775,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 60,
+          "security_details": {
+            "author_age_days": 171,
+            "repo_age_days": 155,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 74,
+            "pr_count": 1447,
+            "star_fork_ratio": 3.56
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 240276,
+          "forks": 49180,
+          "stars_today": 533,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1201,
+            "repo_age_days": 407,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 38676,
+            "pr_count": 75641,
+            "star_fork_ratio": 4.89
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 246492,
+          "forks": 37165,
+          "stars_today": 516,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1306,
+            "repo_age_days": 228,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 2065,
+            "star_fork_ratio": 6.63
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "blader/humanizer",
+          "name": "humanizer",
+          "owner": "blader",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "ai_summary": "humanizer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 40666,
+          "forks": 3510,
+          "stars_today": 374,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6761,
+            "repo_age_days": 228,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 29,
+            "pr_count": 152,
+            "star_fork_ratio": 11.59
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "timesfm 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 30143,
+          "forks": 2888,
+          "stars_today": 343,
+          "stars_this_week": 787,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2891,
+            "repo_age_days": 856,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 236,
+            "pr_count": 229,
+            "star_fork_ratio": 10.44
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "caveman 是一个面向 AI / Skills 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 102750,
+          "forks": 5974,
+          "stars_today": 238,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1595,
+            "repo_age_days": 151,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 505,
+            "star_fork_ratio": 17.2
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "ChromeDevTools/chrome-devtools-mcp",
+          "name": "chrome-devtools-mcp",
+          "owner": "ChromeDevTools",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "ai_summary": "chrome-devtools-mcp 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScr…",
+          "language": "TypeScript",
+          "stars": 50722,
+          "forks": 3557,
+          "stars_today": 148,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4203,
+            "repo_age_days": 356,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 91,
+            "pr_count": 1563,
+            "star_fork_ratio": 14.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 44313,
+          "forks": 2840,
+          "stars_today": 0,
+          "stars_this_week": 26626,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2600,
+            "repo_age_days": 141,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 94,
+            "pr_count": 165,
+            "star_fork_ratio": 15.6
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "THU-MAIC/OpenMAIC",
+          "name": "OpenMAIC",
+          "owner": "THU-MAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "ai_summary": "OpenMAIC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 30683,
+          "forks": 5095,
+          "stars_today": 0,
+          "stars_this_week": 9426,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 899,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 230,
+            "pr_count": 768,
+            "star_fork_ratio": 6.02
+          },
+          "trending_days": 5,
+          "first_seen": "2026-08-30T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 42168,
+          "forks": 3873,
+          "stars_today": 0,
+          "stars_this_week": 7558,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 321,
+            "repo_age_days": 318,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 167,
+            "star_fork_ratio": 10.89
+          },
+          "trending_days": 8,
+          "first_seen": "2026-08-27T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套…",
+          "language": "JavaScript",
+          "stars": 27500,
+          "forks": 2660,
+          "stars_today": 0,
+          "stars_this_week": 7006,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2886,
+            "repo_age_days": 130,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 23,
+            "pr_count": 16,
+            "star_fork_ratio": 10.34
+          },
+          "trending_days": 11,
+          "first_seen": "2026-08-24T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 13,
+          "Agent": 10
+        }
+      }
     }
   ]
 }
