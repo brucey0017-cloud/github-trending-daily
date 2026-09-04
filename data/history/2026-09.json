@@ -1397,6 +1397,474 @@
           "Agent": 10
         }
       }
+    },
+    {
+      "date": "2026-09-04",
+      "generated_at": "2026-09-04T05:54:28.376Z",
+      "projects": [
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 123806,
+          "forks": 6688,
+          "stars_today": 2128,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1172,
+            "repo_age_days": 84,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 205,
+            "pr_count": 497,
+            "star_fork_ratio": 18.51
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "google-research/timesfm",
+          "name": "timesfm",
+          "owner": "google-research",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+          "ai_summary": "timesfm 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 30779,
+          "forks": 2939,
+          "stars_today": 1618,
+          "stars_this_week": 2324,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2892,
+            "repo_age_days": 857,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 237,
+            "pr_count": 231,
+            "star_fork_ratio": 10.47
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 247957,
+          "forks": 21011,
+          "stars_today": 1601,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3411,
+            "repo_age_days": 212,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 461,
+            "pr_count": 147,
+            "star_fork_ratio": 11.8
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "blader/humanizer",
+          "name": "humanizer",
+          "owner": "blader",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "ai_summary": "humanizer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 41757,
+          "forks": 3566,
+          "stars_today": 1208,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6762,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 155,
+            "star_fork_ratio": 11.71
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "owner": "NousResearch",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "ai_summary": "hermes-agent 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 241009,
+          "forks": 49394,
+          "stars_today": 774,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1202,
+            "repo_age_days": 408,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39274,
+            "pr_count": 76228,
+            "star_fork_ratio": 4.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 247421,
+          "forks": 37285,
+          "stars_today": 751,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1307,
+            "repo_age_days": 229,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 132,
+            "pr_count": 2073,
+            "star_fork_ratio": 6.64
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "JuliusBrussee/caveman",
+          "name": "caveman",
+          "owner": "JuliusBrussee",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+          "ai_summary": "caveman 是一个面向 AI / Skills 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 103204,
+          "forks": 5996,
+          "stars_today": 543,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1596,
+            "repo_age_days": 152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 99,
+            "pr_count": 510,
+            "star_fork_ratio": 17.21
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "Imbad0202/academic-research-skills",
+          "name": "academic-research-skills",
+          "owner": "Imbad0202",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "ai_summary": "academic-research-skills 是一个面向 AI / Skills 场景的开源项目，使用 Pytho…",
+          "language": "Python",
+          "stars": 46085,
+          "forks": 3609,
+          "stars_today": 496,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1219,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 18,
+            "pr_count": 455,
+            "star_fork_ratio": 12.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-02T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 281450,
+          "forks": 25212,
+          "stars_today": 462,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6446,
+            "repo_age_days": 329,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 339,
+            "pr_count": 1178,
+            "star_fork_ratio": 11.16
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "Gitlawb/openclaude",
+          "name": "openclaude",
+          "owner": "Gitlawb",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "description": "runs anywhere. uses anything",
+          "ai_summary": "openclaude 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 32412,
+          "forks": 9023,
+          "stars_today": 451,
+          "stars_this_week": 1389,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 60,
+          "security_details": {
+            "author_age_days": 172,
+            "repo_age_days": 156,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 74,
+            "pr_count": 1450,
+            "star_fork_ratio": 3.59
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-03T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/skills",
+          "name": "skills",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "ai_summary": "skills 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 173773,
+          "forks": 20610,
+          "stars_today": 281,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2084,
+            "repo_age_days": 346,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 1211,
+            "pr_count": 1210,
+            "star_fork_ratio": 8.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 92098,
+          "forks": 9815,
+          "stars_today": 264,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6242,
+            "repo_age_days": 200,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 129,
+            "pr_count": 374,
+            "star_fork_ratio": 9.38
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "ByteByteGoHq/system-design-101",
+          "name": "system-design-101",
+          "owner": "ByteByteGoHq",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+          "ai_summary": "system-design-101 是一个面向 AI 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 88475,
+          "forks": 9828,
+          "stars_today": 171,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1358,
+            "repo_age_days": 1081,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 67,
+            "pr_count": 56,
+            "star_fork_ratio": 9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "f/prompts.chat",
+          "name": "prompts.chat",
+          "owner": "f",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "ai_summary": "prompts.chat 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 169122,
+          "forks": 21769,
+          "stars_today": 168,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6055,
+            "repo_age_days": 1368,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 908,
+            "star_fork_ratio": 7.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        },
+        {
+          "id": "magnitudedev/magnitude",
+          "name": "magnitude",
+          "owner": "magnitudedev",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+          "ai_summary": "magnitude 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开…",
+          "language": "TypeScript",
+          "stars": 2043,
+          "forks": 145,
+          "stars_today": 161,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 564,
+            "repo_age_days": 83,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 48,
+            "star_fork_ratio": 14.09
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-04T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 11,
+          "Agent": 9
+        }
+      }
     }
   ]
 }
