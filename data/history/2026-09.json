@@ -4223,6 +4223,476 @@
           "AI": 10
         }
       }
+    },
+    {
+      "date": "2026-09-10",
+      "generated_at": "2026-09-10T05:58:44.566Z",
+      "projects": [
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 35422,
+          "forks": 2066,
+          "stars_today": 4650,
+          "stars_this_week": 6581,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3274,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 39,
+            "pr_count": 107,
+            "star_fork_ratio": 17.15
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 36895,
+          "forks": 2340,
+          "stars_today": 2249,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2680,
+            "repo_age_days": 146,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 33,
+            "pr_count": 143,
+            "star_fork_ratio": 15.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 255339,
+          "forks": 38241,
+          "stars_today": 1133,
+          "stars_this_week": 9146,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1313,
+            "repo_age_days": 235,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 187,
+            "pr_count": 2148,
+            "star_fork_ratio": 6.68
+          },
+          "trending_days": 10,
+          "first_seen": "2026-09-01T00:00:00.000Z"
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "owner": "freestylefly",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "ai_summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套…",
+          "language": "JavaScript",
+          "stars": 30296,
+          "forks": 2933,
+          "stars_today": 705,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2893,
+            "repo_age_days": 137,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 17,
+            "star_fork_ratio": 10.33
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 284165,
+          "forks": 25422,
+          "stars_today": 688,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6452,
+            "repo_age_days": 335,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 346,
+            "pr_count": 1179,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/teamai-cli",
+          "name": "teamai-cli",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "description": "Make Every Team AI Native",
+          "ai_summary": "teamai-cli 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 3242,
+          "forks": 205,
+          "stars_today": 556,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3800,
+            "repo_age_days": 135,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 380,
+            "star_fork_ratio": 15.81
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "openai/plugins",
+          "name": "plugins",
+          "owner": "openai",
+          "url": "https://github.com/openai/plugins",
+          "description": "OpenAI Plugins",
+          "ai_summary": "plugins 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 6280,
+          "forks": 832,
+          "stars_today": 498,
+          "stars_this_week": 753,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3994,
+            "repo_age_days": 189,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 38,
+            "pr_count": 392,
+            "star_fork_ratio": 7.55
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "vastsa/PI-Desktop",
+          "name": "PI-Desktop",
+          "owner": "vastsa",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+          "ai_summary": "PI-Desktop 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 1843,
+          "forks": 164,
+          "stars_today": 417,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2727,
+            "repo_age_days": 1267,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 60,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 104162,
+          "forks": 19989,
+          "stars_today": 367,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 622,
+            "repo_age_days": 621,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 367,
+            "pr_count": 789,
+            "star_fork_ratio": 5.21
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 53849,
+          "forks": 9383,
+          "stars_today": 343,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2737,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 107,
+            "pr_count": 365,
+            "star_fork_ratio": 5.74
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "earthtojake/text-to-cad",
+          "name": "text-to-cad",
+          "owner": "earthtojake",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A library of agent skills for CAD, CAE and CAM",
+          "ai_summary": "text-to-cad 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 15158,
+          "forks": 1567,
+          "stars_today": 124,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 4242,
+            "repo_age_days": 141,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 15,
+            "pr_count": 327,
+            "star_fork_ratio": 9.67
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "pascalorg/editor",
+          "name": "editor",
+          "owner": "pascalorg",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+          "ai_summary": "editor 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 23073,
+          "forks": 2906,
+          "stars_today": 107,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 467,
+            "repo_age_days": 328,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 52,
+            "pr_count": 691,
+            "star_fork_ratio": 7.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 258067,
+          "forks": 21737,
+          "stars_today": 0,
+          "stars_this_week": 13143,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3417,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 483,
+            "pr_count": 147,
+            "star_fork_ratio": 11.87
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 56397,
+          "forks": 3677,
+          "stars_today": 0,
+          "stars_this_week": 12541,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2607,
+            "repo_age_days": 148,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 146,
+            "pr_count": 224,
+            "star_fork_ratio": 15.34
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-05T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 133747,
+          "forks": 7155,
+          "stars_today": 0,
+          "stars_this_week": 12431,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1178,
+            "repo_age_days": 90,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 246,
+            "pr_count": 534,
+            "star_fork_ratio": 18.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 11,
+          "Agent": 9,
+          "AI": 12,
+          "金融": 1
+        }
+      }
     }
   ]
 }
