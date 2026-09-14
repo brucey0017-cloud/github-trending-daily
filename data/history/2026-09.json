@@ -6110,6 +6110,479 @@
           "内容创作": 1
         }
       }
+    },
+    {
+      "date": "2026-09-14",
+      "generated_at": "2026-09-14T06:17:56.190Z",
+      "projects": [
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "ai_summary": "system_prompts_leaks 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 66257,
+          "forks": 10825,
+          "stars_today": 706,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3440,
+            "repo_age_days": 499,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 118,
+            "star_fork_ratio": 6.12
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "vxcontrol/pentagi",
+          "name": "pentagi",
+          "owner": "vxcontrol",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "ai_summary": "pentagi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 24145,
+          "forks": 3109,
+          "stars_today": 590,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3047,
+            "repo_age_days": 615,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 62,
+            "pr_count": 259,
+            "star_fork_ratio": 7.77
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "SnailSploit/Claude-Red",
+          "name": "Claude-Red",
+          "owner": "SnailSploit",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "ai_summary": "Claude-Red 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 4287,
+          "forks": 601,
+          "stars_today": 506,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1737,
+            "repo_age_days": 194,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 13,
+            "pr_count": 13,
+            "star_fork_ratio": 7.13
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 7911,
+          "forks": 876,
+          "stars_today": 487,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1190,
+            "repo_age_days": 598,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 14,
+            "pr_count": 31,
+            "star_fork_ratio": 9.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 23830,
+          "forks": 1760,
+          "stars_today": 443,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5176,
+            "repo_age_days": 119,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 729,
+            "star_fork_ratio": 13.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "melgarafael/DeskcommCRM",
+          "name": "DeskcommCRM",
+          "owner": "melgarafael",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "ai_summary": "DeskcommCRM 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript…",
+          "language": "TypeScript",
+          "stars": 2330,
+          "forks": 607,
+          "stars_today": 432,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 1377,
+            "repo_age_days": 138,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 145,
+            "pr_count": 616,
+            "star_fork_ratio": 3.84
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "calesthio/OpenMontage",
+          "name": "OpenMontage",
+          "owner": "calesthio",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "ai_summary": "OpenMontage 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 58696,
+          "forks": 7376,
+          "stars_today": 380,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 477,
+            "repo_age_days": 168,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 320,
+            "pr_count": 440,
+            "star_fork_ratio": 7.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "alphaXiv/OpenResearch",
+          "name": "OpenResearch",
+          "owner": "alphaXiv",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description": "Turn your coding agents into research agents",
+          "ai_summary": "OpenResearch 是一个面向 Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 2238,
+          "forks": 151,
+          "stars_today": 289,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1005,
+            "repo_age_days": 99,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 11,
+            "pr_count": 303,
+            "star_fork_ratio": 14.82
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "tech-leads-club/agent-skills",
+          "name": "agent-skills",
+          "owner": "tech-leads-club",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScrip…",
+          "language": "TypeScript",
+          "stars": 5790,
+          "forks": 503,
+          "stars_today": 265,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1225,
+            "repo_age_days": 237,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 31,
+            "pr_count": 125,
+            "star_fork_ratio": 11.51
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "jihe520/MathModelAgent",
+          "name": "MathModelAgent",
+          "owner": "jihe520",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+          "ai_summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An…",
+          "language": "Python",
+          "stars": 5444,
+          "forks": 412,
+          "stars_today": 246,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3143,
+            "repo_age_days": 591,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 43,
+            "pr_count": 77,
+            "star_fork_ratio": 13.21
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-12T00:00:00.000Z"
+        },
+        {
+          "id": "yuliskov/SmartTube",
+          "name": "SmartTube",
+          "owner": "yuliskov",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Browse media content with your own rules on Android TV",
+          "ai_summary": "SmartTube 是一个面向 内容创作 场景的开源项目，使用 Java 开发。",
+          "language": "Java",
+          "stars": 33520,
+          "forks": 2037,
+          "stars_today": 233,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "内容创作"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4691,
+            "repo_age_days": 2238,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 712,
+            "pr_count": 1641,
+            "star_fork_ratio": 16.46
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/transformers",
+          "name": "transformers",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "ai_summary": "transformers 是一个面向 AI / Web3 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 165668,
+          "forks": 34562,
+          "stars_today": 152,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3500,
+            "repo_age_days": 2876,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2447,
+            "pr_count": 28538,
+            "star_fork_ratio": 4.79
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 44633,
+          "forks": 2571,
+          "stars_today": 0,
+          "stars_this_week": 16740,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3278,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 65,
+            "pr_count": 143,
+            "star_fork_ratio": 17.36
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 61208,
+          "forks": 4032,
+          "stars_today": 0,
+          "stars_this_week": 10132,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2611,
+            "repo_age_days": 152,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 167,
+            "pr_count": 246,
+            "star_fork_ratio": 15.18
+          },
+          "trending_days": 10,
+          "first_seen": "2026-09-05T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 137592,
+          "forks": 7385,
+          "stars_today": 0,
+          "stars_this_week": 8444,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1182,
+            "repo_age_days": 94,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 263,
+            "pr_count": 548,
+            "star_fork_ratio": 18.63
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 10,
+          "Skills": 12,
+          "Agent": 11,
+          "内容创作": 1,
+          "Web3": 1
+        }
+      }
     }
   ]
 }
