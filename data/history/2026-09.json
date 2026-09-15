@@ -6583,6 +6583,478 @@
           "Web3": 1
         }
       }
+    },
+    {
+      "date": "2026-09-15",
+      "generated_at": "2026-09-15T06:10:19.598Z",
+      "projects": [
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 26371,
+          "forks": 1899,
+          "stars_today": 1571,
+          "stars_this_week": 2709,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5177,
+            "repo_age_days": 120,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 160,
+            "pr_count": 746,
+            "star_fork_ratio": 13.89
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "asgeirtj/system_prompts_leaks",
+          "name": "system_prompts_leaks",
+          "owner": "asgeirtj",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "ai_summary": "system_prompts_leaks 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 66957,
+          "forks": 10881,
+          "stars_today": 764,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3441,
+            "repo_age_days": 500,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 119,
+            "star_fork_ratio": 6.15
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 106332,
+          "forks": 20331,
+          "stars_today": 745,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 627,
+            "repo_age_days": 626,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 342,
+            "pr_count": 811,
+            "star_fork_ratio": 5.23
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 81586,
+          "forks": 7096,
+          "stars_today": 651,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2141,
+            "repo_age_days": 203,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 137,
+            "pr_count": 451,
+            "star_fork_ratio": 11.5
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "SnailSploit/Claude-Red",
+          "name": "Claude-Red",
+          "owner": "SnailSploit",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "ai_summary": "Claude-Red 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 4932,
+          "forks": 642,
+          "stars_today": 579,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 1738,
+            "repo_age_days": 195,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 15,
+            "star_fork_ratio": 7.68
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "multimodal-art-projection/YuE",
+          "name": "YuE",
+          "owner": "multimodal-art-projection",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "ai_summary": "YuE 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8600,
+          "forks": 923,
+          "stars_today": 559,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1191,
+            "repo_age_days": 599,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 21,
+            "pr_count": 34,
+            "star_fork_ratio": 9.32
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-13T00:00:00.000Z"
+        },
+        {
+          "id": "huggingface/transformers",
+          "name": "transformers",
+          "owner": "huggingface",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "ai_summary": "transformers 是一个面向 AI / Web3 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 166089,
+          "forks": 34580,
+          "stars_today": 536,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Web3"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3501,
+            "repo_age_days": 2877,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2433,
+            "pr_count": 28563,
+            "star_fork_ratio": 4.8
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "tech-leads-club/agent-skills",
+          "name": "agent-skills",
+          "owner": "tech-leads-club",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScrip…",
+          "language": "TypeScript",
+          "stars": 6162,
+          "forks": 520,
+          "stars_today": 512,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1226,
+            "repo_age_days": 238,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 32,
+            "pr_count": 125,
+            "star_fork_ratio": 11.85
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "localsend/localsend",
+          "name": "localsend",
+          "owner": "localsend",
+          "url": "https://github.com/localsend/localsend",
+          "description": "An open-source cross-platform alternative to AirDrop",
+          "ai_summary": "localsend 是一个面向 AI 场景的开源项目，使用 Dart 开发。",
+          "language": "Dart",
+          "stars": 91460,
+          "forks": 5103,
+          "stars_today": 251,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1369,
+            "repo_age_days": 1369,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1119,
+            "pr_count": 1014,
+            "star_fork_ratio": 17.92
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "ayghri/i-have-adhd",
+          "name": "i-have-adhd",
+          "owner": "ayghri",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "ai_summary": "i-have-adhd 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 45638,
+          "forks": 2646,
+          "stars_today": 0,
+          "stars_this_week": 17658,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3279,
+            "repo_age_days": 124,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 147,
+            "star_fork_ratio": 17.25
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-09T00:00:00.000Z"
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "owner": "tt-a1i",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "ai_summary": "archify 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 62615,
+          "forks": 4148,
+          "stars_today": 0,
+          "stars_this_week": 9868,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2612,
+            "repo_age_days": 153,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 167,
+            "pr_count": 255,
+            "star_fork_ratio": 15.1
+          },
+          "trending_days": 11,
+          "first_seen": "2026-09-05T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 138677,
+          "forks": 7448,
+          "stars_today": 0,
+          "stars_this_week": 7722,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1183,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 270,
+            "pr_count": 556,
+            "star_fork_ratio": 18.62
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-10T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 39936,
+          "forks": 2533,
+          "stars_today": 0,
+          "stars_this_week": 6604,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2685,
+            "repo_age_days": 151,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 153,
+            "star_fork_ratio": 15.77
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 258532,
+          "forks": 38671,
+          "stars_today": 0,
+          "stars_this_week": 6085,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1318,
+            "repo_age_days": 240,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 209,
+            "pr_count": 2206,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 50136,
+          "forks": 4575,
+          "stars_today": 0,
+          "stars_this_week": 5052,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2313,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 144,
+            "pr_count": 3571,
+            "star_fork_ratio": 10.96
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 12,
+          "Skills": 11,
+          "Agent": 9,
+          "金融": 1,
+          "Web3": 1
+        }
+      }
     }
   ]
 }
