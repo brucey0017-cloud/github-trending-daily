@@ -9884,6 +9884,478 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-09-22",
+      "generated_at": "2026-09-22T06:14:55.266Z",
+      "projects": [
+        {
+          "id": "Open-Dev-Society/OpenStock",
+          "name": "OpenStock",
+          "owner": "Open-Dev-Society",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "ai_summary": "OpenStock 是一个面向 金融 / AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 17993,
+          "forks": 2220,
+          "stars_today": 844,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 781,
+            "repo_age_days": 358,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 36,
+            "pr_count": 55,
+            "star_fork_ratio": 8.1
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-20T00:00:00.000Z"
+        },
+        {
+          "id": "trycua/cua",
+          "name": "cua",
+          "owner": "trycua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "ai_summary": "cua 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 25805,
+          "forks": 1775,
+          "stars_today": 609,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 651,
+            "repo_age_days": 598,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1035,
+            "pr_count": 2893,
+            "star_fork_ratio": 14.54
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-20T00:00:00.000Z"
+        },
+        {
+          "id": "BuilderIO/agent-native",
+          "name": "agent-native",
+          "owner": "BuilderIO",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "ai_summary": "agent-native 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6090,
+          "forks": 556,
+          "stars_today": 607,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3164,
+            "repo_age_days": 193,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 83,
+            "pr_count": 4922,
+            "star_fork_ratio": 10.95
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "coder/coder",
+          "name": "coder",
+          "owner": "coder",
+          "url": "https://github.com/coder/coder",
+          "description": "Secure environments for developers and their agents",
+          "ai_summary": "coder 是一个面向 Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 16505,
+          "forks": 1569,
+          "stars_today": 460,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1746,
+            "repo_age_days": 1735,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1082,
+            "pr_count": 21670,
+            "star_fork_ratio": 10.52
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-18T00:00:00.000Z"
+        },
+        {
+          "id": "Crosstalk-Solutions/project-nomad",
+          "name": "project-nomad",
+          "owner": "Crosstalk-Solutions",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "ai_summary": "project-nomad 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 37975,
+          "forks": 3775,
+          "stars_today": 394,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 1585,
+            "repo_age_days": 454,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 96,
+            "pr_count": 652,
+            "star_fork_ratio": 10.06
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "zhouxiaoka/autoclip",
+          "name": "autoclip",
+          "owner": "zhouxiaoka",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "ai_summary": "AutoClip : AI-powered video clipping and highlight generati…",
+          "language": "Python",
+          "stars": 8446,
+          "forks": 1583,
+          "stars_today": 250,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2064,
+            "repo_age_days": 441,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 25,
+            "pr_count": 49,
+            "star_fork_ratio": 5.34
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "ai-memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 7827,
+          "forks": 527,
+          "stars_today": 167,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6768,
+            "repo_age_days": 123,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 560,
+            "star_fork_ratio": 14.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-09-22T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill 是一个面向 Skills / Agent 场景的开源项目，使用 JavaSc…",
+          "language": "JavaScript",
+          "stars": 19242,
+          "forks": 1081,
+          "stars_today": 0,
+          "stars_this_week": 15675,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5933,
+            "repo_age_days": 95,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 47,
+            "pr_count": 34,
+            "star_fork_ratio": 17.8
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "id": "alibaba/open-code-review",
+          "name": "open-code-review",
+          "owner": "alibaba",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 39359,
+          "forks": 2816,
+          "stars_today": 0,
+          "stars_this_week": 14499,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5184,
+            "repo_age_days": 127,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 219,
+            "pr_count": 932,
+            "star_fork_ratio": 13.98
+          },
+          "trending_days": 9,
+          "first_seen": "2026-09-14T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 264872,
+          "forks": 39579,
+          "stars_today": 0,
+          "stars_this_week": 6865,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1325,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 2265,
+            "star_fork_ratio": 6.69
+          },
+          "trending_days": 8,
+          "first_seen": "2026-09-15T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 74910,
+          "forks": 4896,
+          "stars_today": 0,
+          "stars_this_week": 6125,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1294,
+            "repo_age_days": 189,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6433,
+            "pr_count": 15959,
+            "star_fork_ratio": 15.3
+          },
+          "trending_days": 4,
+          "first_seen": "2026-09-19T00:00:00.000Z"
+        },
+        {
+          "id": "Tencent/WeKnora",
+          "name": "WeKnora",
+          "owner": "Tencent",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "ai_summary": "WeKnora 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+          "language": "Go",
+          "stars": 28640,
+          "forks": 3851,
+          "stars_today": 0,
+          "stars_this_week": 5455,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3812,
+            "repo_age_days": 426,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 609,
+            "pr_count": 2331,
+            "star_fork_ratio": 7.44
+          },
+          "trending_days": 6,
+          "first_seen": "2026-09-17T00:00:00.000Z"
+        },
+        {
+          "id": "addyosmani/agent-skills",
+          "name": "agent-skills",
+          "owner": "addyosmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "ai_summary": "agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScrip…",
+          "language": "JavaScript",
+          "stars": 98210,
+          "forks": 10326,
+          "stars_today": 0,
+          "stars_this_week": 4197,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 6260,
+            "repo_age_days": 218,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 116,
+            "pr_count": 417,
+            "star_fork_ratio": 9.51
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 84494,
+          "forks": 7421,
+          "stars_today": 0,
+          "stars_this_week": 3526,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2148,
+            "repo_age_days": 210,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 155,
+            "pr_count": 466,
+            "star_fork_ratio": 11.39
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        },
+        {
+          "id": "blader/humanizer",
+          "name": "humanizer",
+          "owner": "blader",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "ai_summary": "humanizer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 51162,
+          "forks": 4104,
+          "stars_today": 0,
+          "stars_this_week": 3023,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6780,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 24,
+            "pr_count": 170,
+            "star_fork_ratio": 12.47
+          },
+          "trending_days": 2,
+          "first_seen": "2026-09-21T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "金融": 1,
+          "AI": 12,
+          "Skills": 11,
+          "Agent": 11
+        }
+      }
     }
   ]
 }
