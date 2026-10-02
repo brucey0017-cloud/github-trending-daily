@@ -468,6 +468,477 @@
           "Agent": 9
         }
       }
+    },
+    {
+      "date": "2026-10-02",
+      "generated_at": "2026-10-02T07:00:46.498Z",
+      "projects": [
+        {
+          "id": "NVIDIA/OpenShell",
+          "name": "OpenShell",
+          "owner": "NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "ai_summary": "OpenShell 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 14139,
+          "forks": 1635,
+          "stars_today": 2456,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 5257,
+            "repo_age_days": 219,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 524,
+            "pr_count": 2359,
+            "star_fork_ratio": 8.65
+          },
+          "trending_days": 3,
+          "first_seen": "2026-09-30T00:00:00.000Z"
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "owner": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "ai_summary": "ponytail 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 150866,
+          "forks": 8096,
+          "stars_today": 1194,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1200,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 337,
+            "pr_count": 633,
+            "star_fork_ratio": 18.63
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 274129,
+          "forks": 23022,
+          "stars_today": 883,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3439,
+            "repo_age_days": 240,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 542,
+            "pr_count": 151,
+            "star_fork_ratio": 11.91
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "ai_summary": "openrig 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 3874,
+          "forks": 257,
+          "stars_today": 642,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 848,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 113,
+            "pr_count": 277,
+            "star_fork_ratio": 15.07
+          },
+          "trending_days": 5,
+          "first_seen": "2026-09-28T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 55488,
+          "forks": 5025,
+          "stars_today": 627,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2330,
+            "repo_age_days": 206,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 4448,
+            "star_fork_ratio": 11.04
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-01T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "ai_summary": "impeccable 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 73853,
+          "forks": 4447,
+          "stars_today": 495,
+          "stars_this_week": 2704,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6486,
+            "repo_age_days": 320,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 54,
+            "pr_count": 549,
+            "star_fork_ratio": 16.61
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 294097,
+          "forks": 26303,
+          "stars_today": 455,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6474,
+            "repo_age_days": 357,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 293,
+            "pr_count": 1288,
+            "star_fork_ratio": 11.18
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "mksglu/context-mode",
+          "name": "context-mode",
+          "owner": "mksglu",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "ai_summary": "context-mode 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScrip…",
+          "language": "TypeScript",
+          "stars": 24854,
+          "forks": 1788,
+          "stars_today": 362,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4689,
+            "repo_age_days": 221,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 310,
+            "pr_count": 618,
+            "star_fork_ratio": 13.9
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "owner": "earendil-works",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "ai_summary": "pi 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 111405,
+          "forks": 14144,
+          "stars_today": 298,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 533,
+            "repo_age_days": 418,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 254,
+            "pr_count": 3319,
+            "star_fork_ratio": 7.88
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "tile-ai/tilelang",
+          "name": "tilelang",
+          "owner": "tile-ai",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+          "ai_summary": "tilelang 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 8170,
+          "forks": 822,
+          "stars_today": 163,
+          "stars_this_week": 481,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 729,
+            "repo_age_days": 728,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 386,
+            "pr_count": 2438,
+            "star_fork_ratio": 9.94
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        },
+        {
+          "id": "vectorize-io/hindsight",
+          "name": "hindsight",
+          "owner": "vectorize-io",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "ai_summary": "hindsight 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 44420,
+          "forks": 5861,
+          "stars_today": 0,
+          "stars_this_week": 17403,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2008,
+            "repo_age_days": 336,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 233,
+            "pr_count": 3681,
+            "star_fork_ratio": 7.58
+          },
+          "trending_days": 8,
+          "first_seen": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "owner": "paperclipai",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "ai_summary": "paperclip 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 95952,
+          "forks": 16265,
+          "stars_today": 0,
+          "stars_this_week": 14335,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 75,
+          "security_details": {
+            "author_age_days": 216,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6232,
+            "pr_count": 11058,
+            "star_fork_ratio": 5.9
+          },
+          "trending_days": 7,
+          "first_seen": "2026-09-26T00:00:00.000Z"
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "owner": "rohitg00",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "ai_summary": "ai-engineering-from-scratch 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 62505,
+          "forks": 10687,
+          "stars_today": 0,
+          "stars_this_week": 6469,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2759,
+            "repo_age_days": 197,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 63,
+            "pr_count": 401,
+            "star_fork_ratio": 5.85
+          },
+          "trending_days": 8,
+          "first_seen": "2026-09-25T00:00:00.000Z"
+        },
+        {
+          "id": "dream-num/univer",
+          "name": "univer",
+          "owner": "dream-num",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "ai_summary": "univer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 22271,
+          "forks": 1870,
+          "stars_today": 0,
+          "stars_this_week": 5267,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2411,
+            "repo_age_days": 1463,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 148,
+            "pr_count": 5220,
+            "star_fork_ratio": 11.91
+          },
+          "trending_days": 10,
+          "first_seen": "2026-09-23T00:00:00.000Z"
+        },
+        {
+          "id": "TencentCloud/Octop",
+          "name": "Octop",
+          "owner": "TencentCloud",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "ai_summary": "Octop 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 6287,
+          "forks": 787,
+          "stars_today": 0,
+          "stars_this_week": 1360,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 3753,
+            "repo_age_days": 85,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 723,
+            "pr_count": 966,
+            "star_fork_ratio": 7.99
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-02T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 11,
+          "Skills": 12,
+          "Agent": 12
+        }
+      }
     }
   ]
 }
