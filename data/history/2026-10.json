@@ -3698,6 +3698,323 @@
           "AI": 10
         }
       }
+    },
+    {
+      "date": "2026-10-09",
+      "generated_at": "2026-10-09T07:23:54.666Z",
+      "projects": [
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 31341,
+          "forks": 3779,
+          "stars_today": 7738,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 2117,
+            "repo_age_days": 178,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 69,
+            "pr_count": 781,
+            "star_fork_ratio": 8.29
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 281572,
+          "forks": 23601,
+          "stars_today": 1774,
+          "stars_this_week": 7448,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3446,
+            "repo_age_days": 247,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 165,
+            "pr_count": 185,
+            "star_fork_ratio": 11.93
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 46908,
+          "forks": 2981,
+          "stars_today": 1160,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2709,
+            "repo_age_days": 175,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 56,
+            "pr_count": 241,
+            "star_fork_ratio": 15.74
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "owner": "thedotmack",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+          "language": "TypeScript",
+          "stars": 98725,
+          "forks": 8655,
+          "stars_today": 670,
+          "stars_this_week": 3153,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5679,
+            "repo_age_days": 403,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 119,
+            "pr_count": 2141,
+            "star_fork_ratio": 11.41
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/knowledge-work-plugins",
+          "name": "knowledge-work-plugins",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "ai_summary": "knowledge-work-plugins 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 27853,
+          "forks": 3222,
+          "stars_today": 392,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2119,
+            "repo_age_days": 258,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 135,
+            "pr_count": 1194,
+            "star_fork_ratio": 8.64
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-09T00:00:00.000Z"
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "owner": "Panniantong",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "ai_summary": "Agent-Reach 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 94386,
+          "forks": 8252,
+          "stars_today": 0,
+          "stars_this_week": 6987,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2165,
+            "repo_age_days": 227,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 202,
+            "pr_count": 519,
+            "star_fork_ratio": 11.44
+          },
+          "trending_days": 7,
+          "first_seen": "2026-10-03T00:00:00.000Z"
+        },
+        {
+          "id": "DuarteSantos8/openGym",
+          "name": "openGym",
+          "owner": "DuarteSantos8",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "ai_summary": "openGym 是一个面向 AI 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 8210,
+          "forks": 1039,
+          "stars_today": 0,
+          "stars_this_week": 6086,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 854,
+            "repo_age_days": 82,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 155,
+            "pr_count": 231,
+            "star_fork_ratio": 7.9
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-06T00:00:00.000Z"
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "owner": "heygen-com",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "ai_summary": "hyperframes 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 59374,
+          "forks": 5292,
+          "stars_today": 0,
+          "stars_this_week": 3996,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2337,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 208,
+            "pr_count": 4853,
+            "star_fork_ratio": 11.22
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "mvschwarz/openrig",
+          "name": "openrig",
+          "owner": "mvschwarz",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "ai_summary": "openrig 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 6240,
+          "forks": 455,
+          "stars_today": 0,
+          "stars_this_week": 2693,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 855,
+            "repo_age_days": 191,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 124,
+            "pr_count": 751,
+            "star_fork_ratio": 13.71
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "id": "earthtojake/text-to-cad",
+          "name": "text-to-cad",
+          "owner": "earthtojake",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "ai_summary": "text-to-cad 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 18557,
+          "forks": 1843,
+          "stars_today": 0,
+          "stars_this_week": 1898,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 4271,
+            "repo_age_days": 170,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 22,
+            "pr_count": 523,
+            "star_fork_ratio": 10.07
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-09T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "hot": 10,
+        "gem": 0,
+        "by_tag": {
+          "Skills": 7,
+          "Agent": 7,
+          "AI": 7
+        }
+      }
     }
   ]
 }
