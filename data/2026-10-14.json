@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T06:08:50.032Z",
+  "projects": [
+    {
+      "id": "morluto/rea",
+      "name": "rea",
+      "owner": "morluto",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "ai_summary": "rea 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 216996,
+      "forks": 53592,
+      "stars_today": 54679,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 2121,
+        "repo_age_days": 183,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 577,
+        "pr_count": 2023,
+        "star_fork_ratio": 4.05
+      },
+      "trending_days": 8,
+      "first_seen": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 54558,
+      "forks": 3452,
+      "stars_today": 1815,
+      "stars_this_week": 9867,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2714,
+        "repo_age_days": 180,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 46,
+        "pr_count": 300,
+        "star_fork_ratio": 15.8
+      },
+      "trending_days": 8,
+      "first_seen": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "owner": "lyogavin",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "ai_summary": "airllm 是一个面向 AI 场景的开源项目，使用 Jupyter Notebook 开发。",
+      "language": "Jupyter Notebook",
+      "stars": 38464,
+      "forks": 3932,
+      "stars_today": 1001,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5483,
+        "repo_age_days": 1219,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 166,
+        "pr_count": 82,
+        "star_fork_ratio": 9.78
+      },
+      "trending_days": 3,
+      "first_seen": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "owner": "mksglu",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "ai_summary": "context-mode 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScrip…",
+      "language": "TypeScript",
+      "stars": 28452,
+      "forks": 2006,
+      "stars_today": 969,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4701,
+        "repo_age_days": 233,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 357,
+        "pr_count": 0,
+        "star_fork_ratio": 14.18
+      },
+      "trending_days": 2,
+      "first_seen": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "vercel-labs/skills",
+      "name": "skills",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "ai_summary": "skills 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 34688,
+      "forks": 2959,
+      "stars_today": 190,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1565,
+        "repo_age_days": 272,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1117,
+        "pr_count": 932,
+        "star_fork_ratio": 11.72
+      },
+      "trending_days": 1,
+      "first_seen": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 290042,
+      "forks": 24341,
+      "stars_today": 0,
+      "stars_this_week": 11955,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3451,
+        "repo_age_days": 252,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 171,
+        "pr_count": 191,
+        "star_fork_ratio": 11.92
+      },
+      "trending_days": 8,
+      "first_seen": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "owner": "heygen-com",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "ai_summary": "hyperframes 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 63018,
+      "forks": 5656,
+      "stars_today": 0,
+      "stars_this_week": 4732,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2342,
+        "repo_age_days": 218,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 278,
+        "pr_count": 5053,
+        "star_fork_ratio": 11.14
+      },
+      "trending_days": 10,
+      "first_seen": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "thedotmack/claude-mem",
+      "name": "claude-mem",
+      "owner": "thedotmack",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "ai_summary": "claude-mem 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript …",
+      "language": "TypeScript",
+      "stars": 100517,
+      "forks": 8808,
+      "stars_today": 0,
+      "stars_this_week": 3587,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5684,
+        "repo_age_days": 408,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 91,
+        "pr_count": 2268,
+        "star_fork_ratio": 11.41
+      },
+      "trending_days": 10,
+      "first_seen": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "earthtojake/text-to-cad",
+      "name": "text-to-cad",
+      "owner": "earthtojake",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "ai_summary": "text-to-cad 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 20076,
+      "forks": 1974,
+      "stars_today": 0,
+      "stars_this_week": 2173,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4276,
+        "repo_age_days": 175,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 32,
+        "pr_count": 548,
+        "star_fork_ratio": 10.17
+      },
+      "trending_days": 6,
+      "first_seen": "2026-10-09T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "hot": 9,
+    "gem": 0,
+    "by_tag": {
+      "Skills": 7,
+      "Agent": 7,
+      "AI": 5
+    }
+  }
+}
