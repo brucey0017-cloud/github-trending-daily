@@ -7011,6 +7011,476 @@
           "Agent": 11
         }
       }
+    },
+    {
+      "date": "2026-10-18",
+      "generated_at": "2026-10-18T05:54:42.346Z",
+      "projects": [
+        {
+          "id": "anthropics/claude-plugins-official",
+          "name": "claude-plugins-official",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "ai_summary": "claude-plugins-official 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 41983,
+          "forks": 4476,
+          "stars_today": 1397,
+          "stars_this_week": 3581,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2128,
+            "repo_age_days": 331,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1173,
+            "pr_count": 5469,
+            "star_fork_ratio": 9.38
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "id": "MadsLorentzen/ai-job-search",
+          "name": "ai-job-search",
+          "owner": "MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "ai_summary": "ai-job-search 是一个面向 AI 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 50828,
+          "forks": 16978,
+          "stars_today": 1365,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2725,
+            "repo_age_days": 213,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 20,
+            "pr_count": 454,
+            "star_fork_ratio": 2.99
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-17T00:00:00.000Z"
+        },
+        {
+          "id": "xerj-org/xerj",
+          "name": "xerj",
+          "owner": "xerj-org",
+          "url": "https://github.com/xerj-org/xerj",
+          "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+          "ai_summary": "xerj 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 7974,
+          "forks": 424,
+          "stars_today": 1160,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 112,
+            "repo_age_days": 110,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 103,
+            "pr_count": 1278,
+            "star_fork_ratio": 18.81
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "owner": "affaan-m",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+          "language": "JavaScript",
+          "stars": 282699,
+          "forks": 42001,
+          "stars_today": 1145,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 1351,
+            "repo_age_days": 273,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 239,
+            "pr_count": 2596,
+            "star_fork_ratio": 6.73
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "owner": "K-Dense-AI",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "ai_summary": "scientific-agent-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使…",
+          "language": "Python",
+          "stars": 52388,
+          "forks": 4638,
+          "stars_today": 878,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 366,
+            "repo_age_days": 363,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 49,
+            "pr_count": 224,
+            "star_fork_ratio": 11.3
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-15T00:00:00.000Z"
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "owner": "stablyai",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "ai_summary": "orca 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 95641,
+          "forks": 6121,
+          "stars_today": 830,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1320,
+            "repo_age_days": 215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 8562,
+            "pr_count": 21688,
+            "star_fork_ratio": 15.63
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-18T00:00:00.000Z"
+        },
+        {
+          "id": "HKUDS/CLI-Anything",
+          "name": "CLI-Anything",
+          "owner": "HKUDS",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "ai_summary": "CLI-Anything 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 54178,
+          "forks": 4910,
+          "stars_today": 574,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 1433,
+            "repo_age_days": 223,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 189,
+            "pr_count": 405,
+            "star_fork_ratio": 11.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-17T00:00:00.000Z"
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "owner": "anomalyco",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "ai_summary": "opencode 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 215626,
+          "forks": 28894,
+          "stars_today": 438,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2323,
+            "repo_age_days": 535,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 4616,
+            "pr_count": 25389,
+            "star_fork_ratio": 7.46
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-18T00:00:00.000Z"
+        },
+        {
+          "id": "ruvnet/ruflo",
+          "name": "ruflo",
+          "owner": "ruvnet",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "ai_summary": "ruflo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 76174,
+          "forks": 9008,
+          "stars_today": 420,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5069,
+            "repo_age_days": 502,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1044,
+            "pr_count": 2114,
+            "star_fork_ratio": 8.46
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-16T00:00:00.000Z"
+        },
+        {
+          "id": "android/skills",
+          "name": "skills",
+          "owner": "android",
+          "url": "https://github.com/android/skills",
+          "description": "",
+          "ai_summary": "skills 是一个面向 Skills 场景的开源项目，使用 Kotlin 开发。",
+          "language": "Kotlin",
+          "stars": 8502,
+          "forks": 557,
+          "stars_today": 355,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3294,
+            "repo_age_days": 215,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 42,
+            "pr_count": 54,
+            "star_fork_ratio": 15.26
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-18T00:00:00.000Z"
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "owner": "anthropics",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "ai_summary": "claude-code 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript…",
+          "language": "TypeScript",
+          "stars": 151939,
+          "forks": 26915,
+          "stars_today": 179,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 95,
+          "security_details": {
+            "author_age_days": 2128,
+            "repo_age_days": 602,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 15193,
+            "pr_count": 1330,
+            "star_fork_ratio": 5.65
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-18T00:00:00.000Z"
+        },
+        {
+          "id": "akitaonrails/ai-memory",
+          "name": "ai-memory",
+          "owner": "akitaonrails",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "ai_summary": "ai-memory 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 10052,
+          "forks": 726,
+          "stars_today": 178,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6794,
+            "repo_age_days": 149,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 26,
+            "pr_count": 957,
+            "star_fork_ratio": 13.85
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-18T00:00:00.000Z"
+        },
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "owner": "morluto",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "ai_summary": "rea 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 310825,
+          "forks": 78720,
+          "stars_today": 0,
+          "stars_this_week": 239923,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 2125,
+            "repo_age_days": 187,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1190,
+            "pr_count": 2853,
+            "star_fork_ratio": 3.95
+          },
+          "trending_days": 12,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "mattpocock/skills",
+          "name": "skills",
+          "owner": "mattpocock",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "ai_summary": "skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 295311,
+          "forks": 24771,
+          "stars_today": 0,
+          "stars_this_week": 11272,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 3455,
+            "repo_age_days": 256,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 189,
+            "pr_count": 191,
+            "star_fork_ratio": 11.92
+          },
+          "trending_days": 12,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "owner": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+          "language": "HTML",
+          "stars": 57158,
+          "forks": 3637,
+          "stars_today": 0,
+          "stars_this_week": 8382,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2718,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 44,
+            "pr_count": 315,
+            "star_fork_ratio": 15.72
+          },
+          "trending_days": 12,
+          "first_seen": "2026-10-07T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 11,
+          "Skills": 12,
+          "Agent": 11
+        }
+      }
     }
   ]
 }
