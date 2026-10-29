@@ -12051,6 +12051,478 @@
           "金融": 1
         }
       }
+    },
+    {
+      "date": "2026-10-29",
+      "generated_at": "2026-10-29T07:05:57.509Z",
+      "projects": [
+        {
+          "id": "elayadesign/ai-design-skills",
+          "name": "ai-design-skills",
+          "owner": "elayadesign",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description": "",
+          "ai_summary": "ai-design-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 11450,
+          "forks": 825,
+          "stars_today": 2139,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 487,
+            "repo_age_days": 92,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 7,
+            "pr_count": 5,
+            "star_fork_ratio": 13.88
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "id": "Nutlope/hallmark",
+          "name": "hallmark",
+          "owner": "Nutlope",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "ai_summary": "hallmark 是一个面向 AI / Skills 场景的开源项目，使用 CSS 开发。",
+          "language": "CSS",
+          "stars": 41091,
+          "forks": 2133,
+          "stars_today": 2110,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2387,
+            "repo_age_days": 184,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 68,
+            "pr_count": 72,
+            "star_fork_ratio": 19.26
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-25T00:00:00.000Z"
+        },
+        {
+          "id": "togg53192-cmd/jailbreaks",
+          "name": "jailbreaks",
+          "owner": "togg53192-cmd",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description": "LIST OF ALL MY JAILBREAKS",
+          "ai_summary": "jailbreaks 是一个面向 AI 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 7548,
+          "forks": 1074,
+          "stars_today": 1477,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 460,
+            "repo_age_days": 132,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 16,
+            "pr_count": 7,
+            "star_fork_ratio": 7.03
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "id": "pbakaus/impeccable",
+          "name": "impeccable",
+          "owner": "pbakaus",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "ai_summary": "impeccable 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 93505,
+          "forks": 5519,
+          "stars_today": 1472,
+          "stars_this_week": 7283,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6513,
+            "repo_age_days": 347,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 48,
+            "pr_count": 766,
+            "star_fork_ratio": 16.94
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-25T00:00:00.000Z"
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "owner": "obra",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+          "language": "Shell",
+          "stars": 307680,
+          "forks": 27367,
+          "stars_today": 1095,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 6501,
+            "repo_age_days": 384,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 369,
+            "pr_count": 1364,
+            "star_fork_ratio": 11.24
+          },
+          "trending_days": 2,
+          "first_seen": "2026-10-28T00:00:00.000Z"
+        },
+        {
+          "id": "JetBrains/thinkrail",
+          "name": "thinkrail",
+          "owner": "JetBrains",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "ai_summary": "thinkrail 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 5398,
+          "forks": 273,
+          "stars_today": 1068,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5602,
+            "repo_age_days": 112,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 246,
+            "pr_count": 672,
+            "star_fork_ratio": 19.77
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-27T00:00:00.000Z"
+        },
+        {
+          "id": "nightly-labs/openbot",
+          "name": "openbot",
+          "owner": "nightly-labs",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "ai_summary": "openbot 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+          "language": "TypeScript",
+          "stars": 3453,
+          "forks": 331,
+          "stars_today": 1054,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 1710,
+            "repo_age_days": 77,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 323,
+            "pr_count": 2426,
+            "star_fork_ratio": 10.43
+          },
+          "trending_days": 3,
+          "first_seen": "2026-10-27T00:00:00.000Z"
+        },
+        {
+          "id": "makecindy/cindy",
+          "name": "cindy",
+          "owner": "makecindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "ai_summary": "Consider it done. The open-source AI agent that works out o…",
+          "language": "TypeScript",
+          "stars": 8309,
+          "forks": 975,
+          "stars_today": 728,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 70,
+          "security_details": {
+            "author_age_days": 101,
+            "repo_age_days": 98,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 2187,
+            "pr_count": 4329,
+            "star_fork_ratio": 8.52
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-25T00:00:00.000Z"
+        },
+        {
+          "id": "macro-inc/macro",
+          "name": "macro",
+          "owner": "macro-inc",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "ai_summary": "macro 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Rust 开发。",
+          "language": "Rust",
+          "stars": 5557,
+          "forks": 527,
+          "stars_today": 117,
+          "stars_this_week": 0,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 2352,
+            "repo_age_days": 354,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 343,
+            "pr_count": 8959,
+            "star_fork_ratio": 10.54
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-29T00:00:00.000Z"
+        },
+        {
+          "id": "cloudflare/security-audit-skill",
+          "name": "security-audit-skill",
+          "owner": "cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "ai_summary": "security-audit-skill 是一个面向 Skills / Agent 场景的开源项目，使用 JavaSc…",
+          "language": "JavaScript",
+          "stars": 51981,
+          "forks": 3322,
+          "stars_today": 0,
+          "stars_this_week": 16002,
+          "category": "hot",
+          "tags": [
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 100,
+          "security_details": {
+            "author_age_days": 5970,
+            "repo_age_days": 132,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 102,
+            "pr_count": 76,
+            "star_fork_ratio": 15.65
+          },
+          "trending_days": 9,
+          "first_seen": "2026-10-21T00:00:00.000Z"
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "owner": "Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "ai_summary": "graphify 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 138081,
+          "forks": 13165,
+          "stars_today": 0,
+          "stars_this_week": 6662,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 122,
+            "repo_age_days": 208,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 1645,
+            "pr_count": 2592,
+            "star_fork_ratio": 10.49
+          },
+          "trending_days": 5,
+          "first_seen": "2026-10-25T00:00:00.000Z"
+        },
+        {
+          "id": "TauricResearch/TradingAgents",
+          "name": "TradingAgents",
+          "owner": "TauricResearch",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "ai_summary": "TradingAgents 是一个面向 金融 / AI / Skills 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 118013,
+          "forks": 22572,
+          "stars_today": 0,
+          "stars_this_week": 5322,
+          "category": "hot",
+          "tags": [
+            "金融",
+            "AI",
+            "Skills"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 671,
+            "repo_age_days": 670,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 89,
+            "pr_count": 1019,
+            "star_fork_ratio": 5.23
+          },
+          "trending_days": 4,
+          "first_seen": "2026-10-26T00:00:00.000Z"
+        },
+        {
+          "id": "multica-ai/andrej-karpathy-skills",
+          "name": "andrej-karpathy-skills",
+          "owner": "multica-ai",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "ai_summary": "andrej-karpathy-skills 是一个面向 AI / Skills 场景的开源项目，使用 多语言 开发。",
+          "language": "",
+          "stars": 226088,
+          "forks": 22583,
+          "stars_today": 0,
+          "stars_this_week": 4293,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills"
+          ],
+          "security_score": 80,
+          "security_details": {
+            "author_age_days": 288,
+            "repo_age_days": 275,
+            "has_license": false,
+            "has_readme": true,
+            "issue_count": 138,
+            "pr_count": 169,
+            "star_fork_ratio": 10.01
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-29T00:00:00.000Z"
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "owner": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "ai_summary": "taste-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript…",
+          "language": "JavaScript",
+          "stars": 104815,
+          "forks": 7088,
+          "stars_today": 0,
+          "stars_this_week": 3940,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 90,
+          "security_details": {
+            "author_age_days": 482,
+            "repo_age_days": 251,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 6,
+            "pr_count": 99,
+            "star_fork_ratio": 14.79
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-29T00:00:00.000Z"
+        },
+        {
+          "id": "AgriciDaniel/claude-seo",
+          "name": "claude-seo",
+          "owner": "AgriciDaniel",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "ai_summary": "claude-seo 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+          "language": "Python",
+          "stars": 23545,
+          "forks": 3171,
+          "stars_today": 0,
+          "stars_this_week": 3516,
+          "category": "hot",
+          "tags": [
+            "AI",
+            "Skills",
+            "Agent"
+          ],
+          "security_score": 85,
+          "security_details": {
+            "author_age_days": 458,
+            "repo_age_days": 263,
+            "has_license": true,
+            "has_readme": true,
+            "issue_count": 75,
+            "pr_count": 236,
+            "star_fork_ratio": 7.43
+          },
+          "trending_days": 1,
+          "first_seen": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "total": 15,
+        "hot": 15,
+        "gem": 0,
+        "by_tag": {
+          "AI": 13,
+          "Skills": 13,
+          "Agent": 8,
+          "金融": 1
+        }
+      }
     }
   ]
 }
