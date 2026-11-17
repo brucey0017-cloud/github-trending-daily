@@ -1,37 +1,7 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T07:59:11.268Z",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T09:13:17.590Z",
   "projects": [
-    {
-      "id": "GoogleChrome/modern-web-guidance-src",
-      "name": "modern-web-guidance-src",
-      "owner": "GoogleChrome",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "ai_summary": "modern-web-guidance-src 是一个面向 Skills / Agent 场景的开源项目，使用 Typ…",
-      "language": "TypeScript",
-      "stars": 7535,
-      "forks": 658,
-      "stars_today": 1219,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 5287,
-        "repo_age_days": 292,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 406,
-        "pr_count": 1564,
-        "star_fork_ratio": 11.45
-      },
-      "trending_days": 4,
-      "first_seen": "2026-11-13T00:00:00.000Z"
-    },
     {
       "id": "dream-num/univer",
       "name": "univer",
@@ -40,9 +10,9 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "ai_summary": "univer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 26655,
-      "forks": 2428,
-      "stars_today": 988,
+      "stars": 28568,
+      "forks": 2584,
+      "stars_today": 1828,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -52,46 +22,108 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2456,
-        "repo_age_days": 1508,
+        "author_age_days": 2457,
+        "repo_age_days": 1509,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 176,
-        "pr_count": 5505,
-        "star_fork_ratio": 10.98
+        "issue_count": 213,
+        "pr_count": 5568,
+        "star_fork_ratio": 11.06
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-15T00:00:00.000Z"
     },
     {
-      "id": "backnotprop/plannotator",
-      "name": "plannotator",
-      "owner": "backnotprop",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "ai_summary": "plannotator 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 12084,
-      "forks": 1135,
-      "stars_today": 866,
-      "stars_this_week": 1719,
+      "id": "elementalsouls/Claude-BugHunter",
+      "name": "Claude-BugHunter",
+      "owner": "elementalsouls",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "ai_summary": "Claude-BugHunter 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 7863,
+      "forks": 1218,
+      "stars_today": 1094,
+      "stars_this_week": 0,
       "category": "hot",
       "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 2784,
+        "repo_age_days": 195,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 6,
+        "pr_count": 139,
+        "star_fork_ratio": 6.46
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+      "language": "Go",
+      "stars": 53259,
+      "forks": 4362,
+      "stars_today": 951,
+      "stars_this_week": 3056,
+      "category": "hot",
+      "tags": [
+        "AI",
         "Skills",
         "Agent"
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 4603,
-        "repo_age_days": 323,
+        "author_age_days": 5241,
+        "repo_age_days": 183,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 168,
-        "pr_count": 2753,
-        "star_fork_ratio": 10.65
+        "issue_count": 353,
+        "pr_count": 1216,
+        "star_fork_ratio": 12.21
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "NVIDIA/SkillEvaluator",
+      "name": "SkillEvaluator",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "ai_summary": "SkillEvaluator 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python …",
+      "language": "Python",
+      "stars": 3075,
+      "forks": 435,
+      "stars_today": 873,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 5303,
+        "repo_age_days": 146,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 61,
+        "pr_count": 651,
+        "star_fork_ratio": 7.07
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "ChromeDevTools/chrome-devtools-mcp",
@@ -101,9 +133,9 @@
       "description": "Chrome DevTools for coding agents",
       "ai_summary": "chrome-devtools-mcp 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScr…",
       "language": "TypeScript",
-      "stars": 57258,
-      "forks": 4828,
-      "stars_today": 717,
+      "stars": 57876,
+      "forks": 4860,
+      "stars_today": 841,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -112,15 +144,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 4277,
-        "repo_age_days": 430,
+        "author_age_days": 4278,
+        "repo_age_days": 431,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 136,
-        "pr_count": 2166,
-        "star_fork_ratio": 11.86
+        "issue_count": 125,
+        "pr_count": 2169,
+        "star_fork_ratio": 11.91
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-15T00:00:00.000Z"
     },
     {
@@ -131,9 +163,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "ai_summary": "claude-trading-skills 是一个面向 金融 / 量化 / AI 场景的开源项目，使用 Python …",
       "language": "Python",
-      "stars": 5830,
-      "forks": 1232,
-      "stars_today": 706,
+      "stars": 6637,
+      "forks": 1379,
+      "stars_today": 837,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -143,78 +175,16 @@
       ],
       "security_score": 80,
       "security_details": {
-        "author_age_days": 596,
-        "repo_age_days": 392,
+        "author_age_days": 597,
+        "repo_age_days": 393,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 57,
-        "pr_count": 526,
-        "star_fork_ratio": 4.73
-      },
-      "trending_days": 2,
-      "first_seen": "2026-11-15T00:00:00.000Z"
-    },
-    {
-      "id": "alibaba/open-code-review",
-      "name": "open-code-review",
-      "owner": "alibaba",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
-      "language": "Go",
-      "stars": 52456,
-      "forks": 4205,
-      "stars_today": 691,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 5239,
-        "repo_age_days": 182,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 349,
-        "pr_count": 1195,
-        "star_fork_ratio": 12.47
+        "issue_count": 54,
+        "pr_count": 545,
+        "star_fork_ratio": 4.81
       },
       "trending_days": 3,
-      "first_seen": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "Tencent/LoopForge",
-      "name": "LoopForge",
-      "owner": "Tencent",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "ai_summary": "LoopForge 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
-      "language": "Go",
-      "stars": 1932,
-      "forks": 312,
-      "stars_today": 423,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 90,
-      "security_details": {
-        "author_age_days": 3867,
-        "repo_age_days": 111,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 133,
-        "pr_count": 257,
-        "star_fork_ratio": 6.19
-      },
-      "trending_days": 1,
-      "first_seen": "2026-11-16T00:00:00.000Z"
+      "first_seen": "2026-11-15T00:00:00.000Z"
     },
     {
       "id": "ag-ui-protocol/ag-ui",
@@ -224,9 +194,9 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "ai_summary": "ag-ui 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 18185,
-      "forks": 1878,
-      "stars_today": 355,
+      "stars": 19618,
+      "forks": 2026,
+      "stars_today": 791,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -235,16 +205,46 @@
       ],
       "security_score": 90,
       "security_details": {
-        "author_age_days": 564,
-        "repo_age_days": 557,
+        "author_age_days": 565,
+        "repo_age_days": 558,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 594,
-        "pr_count": 2324,
+        "issue_count": 591,
+        "pr_count": 2327,
         "star_fork_ratio": 9.68
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "backnotprop/plannotator",
+      "name": "plannotator",
+      "owner": "backnotprop",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "ai_summary": "plannotator 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 12833,
+      "forks": 1273,
+      "stars_today": 696,
+      "stars_this_week": 2325,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 4604,
+        "repo_age_days": 324,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 186,
+        "pr_count": 2798,
+        "star_fork_ratio": 10.08
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-14T00:00:00.000Z"
     },
     {
       "id": "google-labs-code/stitch-skills",
@@ -254,9 +254,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
       "language": "TypeScript",
-      "stars": 9484,
-      "forks": 1180,
-      "stars_today": 247,
+      "stars": 9875,
+      "forks": 1282,
+      "stars_today": 529,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -266,28 +266,28 @@
       ],
       "security_score": 85,
       "security_details": {
-        "author_age_days": 993,
-        "repo_age_days": 303,
+        "author_age_days": 994,
+        "repo_age_days": 304,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 19,
-        "pr_count": 65,
-        "star_fork_ratio": 8.04
+        "issue_count": 20,
+        "pr_count": 67,
+        "star_fork_ratio": 7.7
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-16T00:00:00.000Z"
     },
     {
-      "id": "NVIDIA/SkillEvaluator",
-      "name": "SkillEvaluator",
-      "owner": "NVIDIA",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "ai_summary": "SkillEvaluator 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python …",
+      "id": "kajisho5/ffmpeg-skill",
+      "name": "ffmpeg-skill",
+      "owner": "kajisho5",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "ai_summary": "ffmpeg-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 2020,
-      "forks": 282,
-      "stars_today": 122,
+      "stars": 7346,
+      "forks": 665,
+      "stars_today": 367,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -295,18 +295,80 @@
         "Skills",
         "Agent"
       ],
-      "security_score": 90,
+      "security_score": 100,
       "security_details": {
-        "author_age_days": 5302,
-        "repo_age_days": 145,
+        "author_age_days": 3766,
+        "repo_age_days": 74,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 34,
-        "pr_count": 524,
-        "star_fork_ratio": 7.16
+        "issue_count": 35,
+        "pr_count": 407,
+        "star_fork_ratio": 11.05
       },
       "trending_days": 1,
-      "first_seen": "2026-11-16T00:00:00.000Z"
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "google-research/paper-orchestra",
+      "name": "paper-orchestra",
+      "owner": "google-research",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "ai_summary": "paper-orchestra 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python…",
+      "language": "Python",
+      "stars": 1963,
+      "forks": 303,
+      "stars_today": 313,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2966,
+        "repo_age_days": 199,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 35,
+        "pr_count": 38,
+        "star_fork_ratio": 6.48
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+      "language": "Python",
+      "stars": 68437,
+      "forks": 6088,
+      "stars_today": 135,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5865,
+        "repo_age_days": 297,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 37,
+        "pr_count": 1166,
+        "star_fork_ratio": 11.24
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-17T00:00:00.000Z"
     },
     {
       "id": "meta/astryx",
@@ -316,10 +378,10 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "ai_summary": "astryx 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 29145,
-      "forks": 2277,
+      "stars": 29850,
+      "forks": 2325,
       "stars_today": 0,
-      "stars_this_week": 13501,
+      "stars_this_week": 10939,
       "category": "hot",
       "tags": [
         "Skills",
@@ -327,16 +389,46 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 6437,
-        "repo_age_days": 310,
+        "author_age_days": 6438,
+        "repo_age_days": 311,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 734,
-        "pr_count": 10189,
-        "star_fork_ratio": 12.8
+        "issue_count": 837,
+        "pr_count": 10421,
+        "star_fork_ratio": 12.84
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "GoogleChrome/modern-web-guidance-src",
+      "name": "modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "ai_summary": "modern-web-guidance-src 是一个面向 Skills / Agent 场景的开源项目，使用 Typ…",
+      "language": "TypeScript",
+      "stars": 8199,
+      "forks": 710,
+      "stars_today": 0,
+      "stars_this_week": 6542,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5288,
+        "repo_age_days": 293,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 406,
+        "pr_count": 1576,
+        "star_fork_ratio": 11.55
+      },
+      "trending_days": 5,
+      "first_seen": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "anthropics/skills",
@@ -346,10 +438,10 @@
       "description": "Public repository for Agent Skills",
       "ai_summary": "skills 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 195541,
-      "forks": 22979,
+      "stars": 196311,
+      "forks": 23038,
       "stars_today": 0,
-      "stars_this_week": 6077,
+      "stars_this_week": 5666,
       "category": "hot",
       "tags": [
         "Skills",
@@ -357,105 +449,16 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 2157,
-        "repo_age_days": 419,
+        "author_age_days": 2158,
+        "repo_age_days": 420,
         "has_license": false,
         "has_readme": true,
-        "issue_count": 1547,
-        "pr_count": 1531,
-        "star_fork_ratio": 8.51
+        "issue_count": 1549,
+        "pr_count": 1533,
+        "star_fork_ratio": 8.52
       },
-      "trending_days": 9,
+      "trending_days": 10,
       "first_seen": "2026-11-07T00:00:00.000Z"
-    },
-    {
-      "id": "google/elephant-goldfish-model",
-      "name": "elephant-goldfish-model",
-      "owner": "google",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
-      "ai_summary": "elephant-goldfish-model 是一个面向 Skills / Agent 场景的开源项目，使用 Pyt…",
-      "language": "Python",
-      "stars": 19979,
-      "forks": 1484,
-      "stars_today": 0,
-      "stars_this_week": 5060,
-      "category": "hot",
-      "tags": [
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 5416,
-        "repo_age_days": 63,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 114,
-        "pr_count": 295,
-        "star_fork_ratio": 13.46
-      },
-      "trending_days": 3,
-      "first_seen": "2026-11-14T00:00:00.000Z"
-    },
-    {
-      "id": "we-promise/sure",
-      "name": "sure",
-      "owner": "we-promise",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "ai_summary": "sure 是一个面向 金融 场景的开源项目，使用 Ruby 开发。",
-      "language": "Ruby",
-      "stars": 15808,
-      "forks": 1385,
-      "stars_today": 0,
-      "stars_this_week": 4556,
-      "category": "hot",
-      "tags": [
-        "金融"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 481,
-        "repo_age_days": 481,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 958,
-        "pr_count": 3485,
-        "star_fork_ratio": 11.41
-      },
-      "trending_days": 6,
-      "first_seen": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "ZhuLinsen/daily_stock_analysis",
-      "name": "daily_stock_analysis",
-      "owner": "ZhuLinsen",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "ai_summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-power…",
-      "language": "Python",
-      "stars": 72623,
-      "forks": 57616,
-      "stars_today": 0,
-      "stars_this_week": 4548,
-      "category": "hot",
-      "tags": [
-        "金融",
-        "AI"
-      ],
-      "security_score": 85,
-      "security_details": {
-        "author_age_days": 3000,
-        "repo_age_days": 310,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 36,
-        "pr_count": 1595,
-        "star_fork_ratio": 1.26
-      },
-      "trending_days": 3,
-      "first_seen": "2026-11-14T00:00:00.000Z"
     }
   ],
   "stats": {
@@ -463,10 +466,10 @@
     "hot": 15,
     "gem": 0,
     "by_tag": {
-      "Skills": 12,
-      "Agent": 12,
-      "AI": 7,
-      "金融": 3,
+      "AI": 9,
+      "Skills": 14,
+      "Agent": 13,
+      "金融": 1,
       "量化": 1
     }
   }
