@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:48:30.402Z",
+  "projects": [
+    {
+      "id": "google-research/paper-orchestra",
+      "name": "paper-orchestra",
+      "owner": "google-research",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "ai_summary": "paper-orchestra 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python…",
+      "language": "Python",
+      "stars": 4661,
+      "forks": 573,
+      "stars_today": 1524,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2968,
+        "repo_age_days": 201,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 43,
+        "pr_count": 42,
+        "star_fork_ratio": 8.13
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "owner": "affaan-m",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "ai_summary": "ECC 是一个面向 AI / Skills / Agent 场景的开源项目，使用 JavaScript 开发。",
+      "language": "JavaScript",
+      "stars": 306816,
+      "forks": 45164,
+      "stars_today": 1108,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 1383,
+        "repo_age_days": 305,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 179,
+        "pr_count": 2877,
+        "star_fork_ratio": 6.79
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+      "language": "Python",
+      "stars": 70369,
+      "forks": 6267,
+      "stars_today": 1059,
+      "stars_this_week": 2423,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5867,
+        "repo_age_days": 299,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 23,
+        "pr_count": 1197,
+        "star_fork_ratio": 11.23
+      },
+      "trending_days": 3,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "owner": "obra",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
+      "language": "Shell",
+      "stars": 321547,
+      "forks": 28582,
+      "stars_today": 822,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6522,
+        "repo_age_days": 405,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 360,
+        "pr_count": 1384,
+        "star_fork_ratio": 11.25
+      },
+      "trending_days": 2,
+      "first_seen": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "ai_summary": "CLI-Anything 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 60085,
+      "forks": 5456,
+      "stars_today": 389,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1466,
+        "repo_age_days": 255,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 253,
+        "pr_count": 451,
+        "star_fork_ratio": 11.01
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
+      "language": "TypeScript",
+      "stars": 10530,
+      "forks": 1372,
+      "stars_today": 365,
+      "stars_this_week": 1567,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 996,
+        "repo_age_days": 306,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 21,
+        "pr_count": 68,
+        "star_fork_ratio": 7.67
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "id": "n8n-io/n8n",
+      "name": "n8n",
+      "owner": "n8n-io",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "ai_summary": "n8n 是一个面向 AI / Skills 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 211302,
+      "forks": 61579,
+      "stars_today": 325,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 2910,
+        "repo_age_days": 2706,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1248,
+        "pr_count": 33028,
+        "star_fork_ratio": 3.43
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "NVIDIA/SkillEvaluator",
+      "name": "SkillEvaluator",
+      "owner": "NVIDIA",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "ai_summary": "SkillEvaluator 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python …",
+      "language": "Python",
+      "stars": 3938,
+      "forks": 532,
+      "stars_today": 312,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 90,
+      "security_details": {
+        "author_age_days": 5305,
+        "repo_age_days": 148,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 60,
+        "pr_count": 683,
+        "star_fork_ratio": 7.4
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "appwrite/appwrite",
+      "name": "appwrite",
+      "owner": "appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "ai_summary": "appwrite 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 58346,
+      "forks": 5893,
+      "stars_today": 232,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 3600,
+        "repo_age_days": 2781,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 737,
+        "pr_count": 9675,
+        "star_fork_ratio": 9.9
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "id": "GoogleChrome/modern-web-guidance-src",
+      "name": "modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "ai_summary": "modern-web-guidance-src 是一个面向 Skills / Agent 场景的开源项目，使用 Typ…",
+      "language": "TypeScript",
+      "stars": 8949,
+      "forks": 748,
+      "stars_today": 0,
+      "stars_this_week": 7257,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5290,
+        "repo_age_days": 295,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 399,
+        "pr_count": 1592,
+        "star_fork_ratio": 11.96
+      },
+      "trending_days": 7,
+      "first_seen": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "owner": "dream-num",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "ai_summary": "univer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 30196,
+      "forks": 2722,
+      "stars_today": 0,
+      "stars_this_week": 6840,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2459,
+        "repo_age_days": 1511,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 200,
+        "pr_count": 5593,
+        "star_fork_ratio": 11.09
+      },
+      "trending_days": 5,
+      "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "meta/astryx",
+      "name": "astryx",
+      "owner": "meta",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "ai_summary": "astryx 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
+      "language": "TypeScript",
+      "stars": 30714,
+      "forks": 2406,
+      "stars_today": 0,
+      "stars_this_week": 6250,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 6440,
+        "repo_age_days": 313,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1058,
+        "pr_count": 11010,
+        "star_fork_ratio": 12.77
+      },
+      "trending_days": 5,
+      "first_seen": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "ai_summary": "open-code-review 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Go 开发。",
+      "language": "Go",
+      "stars": 54256,
+      "forks": 4488,
+      "stars_today": 0,
+      "stars_this_week": 4383,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 5243,
+        "repo_age_days": 185,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 333,
+        "pr_count": 1229,
+        "star_fork_ratio": 12.09
+      },
+      "trending_days": 6,
+      "first_seen": "2026-11-14T00:00:00.000Z"
+    },
+    {
+      "id": "anthropics/skills",
+      "name": "skills",
+      "owner": "anthropics",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "ai_summary": "skills 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 197411,
+      "forks": 23114,
+      "stars_today": 0,
+      "stars_this_week": 4381,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 2160,
+        "repo_age_days": 422,
+        "has_license": false,
+        "has_readme": true,
+        "issue_count": 1560,
+        "pr_count": 1540,
+        "star_fork_ratio": 8.54
+      },
+      "trending_days": 12,
+      "first_seen": "2026-11-07T00:00:00.000Z"
+    },
+    {
+      "id": "we-promise/sure",
+      "name": "sure",
+      "owner": "we-promise",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "ai_summary": "sure 是一个面向 金融 场景的开源项目，使用 Ruby 开发。",
+      "language": "Ruby",
+      "stars": 16579,
+      "forks": 1453,
+      "stars_today": 0,
+      "stars_this_week": 3866,
+      "category": "hot",
+      "tags": [
+        "金融"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 484,
+        "repo_age_days": 484,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 1003,
+        "pr_count": 3637,
+        "star_fork_ratio": 11.41
+      },
+      "trending_days": 1,
+      "first_seen": "2026-11-19T00:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "hot": 15,
+    "gem": 0,
+    "by_tag": {
+      "AI": 8,
+      "Skills": 14,
+      "Agent": 13,
+      "金融": 1
+    }
+  }
+}
