@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T07:59:25.855Z",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T09:06:04.040Z",
   "projects": [
     {
       "id": "elementalsouls/Claude-BugHunter",
@@ -10,9 +10,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "ai_summary": "Claude-BugHunter 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 16503,
-      "forks": 1872,
-      "stars_today": 1803,
+      "stars": 18572,
+      "forks": 2030,
+      "stars_today": 1716,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,15 +21,15 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 2789,
-        "repo_age_days": 200,
+        "author_age_days": 2790,
+        "repo_age_days": 201,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 20,
-        "pr_count": 181,
-        "star_fork_ratio": 8.82
+        "issue_count": 23,
+        "pr_count": 188,
+        "star_fork_ratio": 9.15
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "ai_summary": "firecrawl 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 206443,
-      "forks": 10793,
-      "stars_today": 1006,
+      "stars": 207349,
+      "forks": 10839,
+      "stars_today": 915,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -51,15 +51,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 1271,
-        "repo_age_days": 950,
+        "author_age_days": 1272,
+        "repo_age_days": 951,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 911,
-        "pr_count": 4735,
+        "issue_count": 923,
+        "pr_count": 4745,
         "star_fork_ratio": 19.13
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -70,9 +70,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
       "language": "Shell",
-      "stars": 323911,
-      "forks": 28730,
-      "stars_today": 883,
+      "stars": 324493,
+      "forks": 28793,
+      "stars_today": 788,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -81,15 +81,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 6525,
-        "repo_age_days": 408,
+        "author_age_days": 6526,
+        "repo_age_days": 409,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 363,
+        "issue_count": 364,
         "pr_count": 1390,
         "star_fork_ratio": 11.27
       },
-      "trending_days": 5,
+      "trending_days": 6,
       "first_seen": "2026-11-18T00:00:00.000Z"
     },
     {
@@ -100,9 +100,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "ai_summary": "CLI-Anything 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 62271,
-      "forks": 5654,
-      "stars_today": 769,
+      "stars": 63091,
+      "forks": 5736,
+      "stars_today": 699,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -111,29 +111,29 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 1468,
-        "repo_age_days": 258,
+        "author_age_days": 1470,
+        "repo_age_days": 259,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 285,
-        "pr_count": 475,
-        "star_fork_ratio": 11.01
+        "issue_count": 286,
+        "pr_count": 476,
+        "star_fork_ratio": 11
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-19T00:00:00.000Z"
     },
     {
-      "id": "mjmirza/app-store-compliance",
-      "name": "app-store-compliance",
-      "owner": "mjmirza",
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "ai_summary": "app-store-compliance 是一个面向 AI / Skills / Agent 场景的开源项目，使用 S…",
-      "language": "Shell",
-      "stars": 3565,
-      "forks": 219,
-      "stars_today": 720,
-      "stars_this_week": 0,
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "owner": "mvanhorn",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
+      "language": "Python",
+      "stars": 73029,
+      "forks": 6454,
+      "stars_today": 668,
+      "stars_this_week": 4731,
       "category": "hot",
       "tags": [
         "AI",
@@ -142,16 +142,16 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 3282,
-        "repo_age_days": 168,
+        "author_age_days": 5871,
+        "repo_age_days": 303,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 32,
-        "pr_count": 965,
-        "star_fork_ratio": 16.28
+        "issue_count": 24,
+        "pr_count": 1226,
+        "star_fork_ratio": 11.32
       },
-      "trending_days": 3,
-      "first_seen": "2026-11-20T00:00:00.000Z"
+      "trending_days": 7,
+      "first_seen": "2026-11-17T00:00:00.000Z"
     },
     {
       "id": "zhouxiaoka/autoclip",
@@ -161,9 +161,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "ai_summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕…",
       "language": "Python",
-      "stars": 13037,
-      "forks": 2089,
-      "stars_today": 683,
+      "stars": 13917,
+      "forks": 2180,
+      "stars_today": 641,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -172,44 +172,46 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2125,
-        "repo_age_days": 502,
+        "author_age_days": 2126,
+        "repo_age_days": 503,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 28,
-        "pr_count": 463,
-        "star_fork_ratio": 6.24
+        "issue_count": 32,
+        "pr_count": 484,
+        "star_fork_ratio": 6.38
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "cathrynlavery/diagram-design",
-      "name": "diagram-design",
-      "owner": "cathrynlavery",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
-      "language": "HTML",
-      "stars": 69954,
-      "forks": 4693,
-      "stars_today": 583,
+      "id": "mjmirza/app-store-compliance",
+      "name": "app-store-compliance",
+      "owner": "mjmirza",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "ai_summary": "app-store-compliance 是一个面向 AI / Skills / Agent 场景的开源项目，使用 S…",
+      "language": "Shell",
+      "stars": 4329,
+      "forks": 276,
+      "stars_today": 621,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
-        "AI"
+        "AI",
+        "Skills",
+        "Agent"
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2753,
-        "repo_age_days": 219,
+        "author_age_days": 3283,
+        "repo_age_days": 169,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 44,
-        "pr_count": 376,
-        "star_fork_ratio": 14.91
+        "issue_count": 29,
+        "pr_count": 970,
+        "star_fork_ratio": 15.68
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -220,9 +222,9 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "ai_summary": "AFFiNE 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 76445,
-      "forks": 5603,
-      "stars_today": 574,
+      "stars": 77040,
+      "forks": 5646,
+      "stars_today": 542,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -230,47 +232,76 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2112,
-        "repo_age_days": 1574,
+        "author_age_days": 2113,
+        "repo_age_days": 1575,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 843,
-        "pr_count": 10775,
-        "star_fork_ratio": 13.64
+        "issue_count": 739,
+        "pr_count": 10808,
+        "star_fork_ratio": 13.65
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "mvanhorn/last30days-skill",
-      "name": "last30days-skill",
-      "owner": "mvanhorn",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
-      "language": "Python",
-      "stars": 72215,
-      "forks": 6393,
-      "stars_today": 560,
-      "stars_this_week": 4198,
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "owner": "cathrynlavery",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
+      "language": "HTML",
+      "stars": 70567,
+      "forks": 4736,
+      "stars_today": 518,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2754,
+        "repo_age_days": 220,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 43,
+        "pr_count": 378,
+        "star_fork_ratio": 14.9
+      },
+      "trending_days": 4,
+      "first_seen": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
+      "language": "TypeScript",
+      "stars": 12067,
+      "forks": 1498,
+      "stars_today": 494,
+      "stars_this_week": 2683,
       "category": "hot",
       "tags": [
         "AI",
         "Skills",
         "Agent"
       ],
-      "security_score": 100,
+      "security_score": 85,
       "security_details": {
-        "author_age_days": 5870,
-        "repo_age_days": 302,
+        "author_age_days": 1000,
+        "repo_age_days": 310,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 16,
-        "pr_count": 1217,
-        "star_fork_ratio": 11.3
+        "issue_count": 29,
+        "pr_count": 78,
+        "star_fork_ratio": 8.06
       },
-      "trending_days": 6,
-      "first_seen": "2026-11-17T00:00:00.000Z"
+      "trending_days": 8,
+      "first_seen": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "jingyaogong/minimind",
@@ -280,9 +311,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "ai_summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch …",
       "language": "Python",
-      "stars": 68289,
-      "forks": 8929,
-      "stars_today": 488,
+      "stars": 69101,
+      "forks": 9026,
+      "stars_today": 473,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -290,15 +321,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2440,
-        "repo_age_days": 848,
+        "author_age_days": 2441,
+        "repo_age_days": 849,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 64,
+        "issue_count": 61,
         "pr_count": 200,
-        "star_fork_ratio": 7.65
+        "star_fork_ratio": 7.66
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -309,9 +340,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "ai_summary": "opensre 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 14102,
-      "forks": 1947,
-      "stars_today": 450,
+      "stars": 14561,
+      "forks": 1979,
+      "stars_today": 399,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -320,47 +351,16 @@
       ],
       "security_score": 85,
       "security_details": {
-        "author_age_days": 666,
-        "repo_age_days": 313,
+        "author_age_days": 667,
+        "repo_age_days": 314,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 20,
-        "pr_count": 4414,
-        "star_fork_ratio": 7.24
+        "issue_count": 21,
+        "pr_count": 4416,
+        "star_fork_ratio": 7.36
       },
-      "trending_days": 2,
+      "trending_days": 3,
       "first_seen": "2026-11-21T00:00:00.000Z"
-    },
-    {
-      "id": "google-labs-code/stitch-skills",
-      "name": "stitch-skills",
-      "owner": "google-labs-code",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
-      "language": "TypeScript",
-      "stars": 11608,
-      "forks": 1454,
-      "stars_today": 326,
-      "stars_this_week": 2431,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 85,
-      "security_details": {
-        "author_age_days": 999,
-        "repo_age_days": 309,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 27,
-        "pr_count": 76,
-        "star_fork_ratio": 7.98
-      },
-      "trending_days": 7,
-      "first_seen": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "openvinotoolkit/openvino",
@@ -370,9 +370,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "ai_summary": "openvino 是一个面向 AI 场景的开源项目，使用 C++ 开发。",
       "language": "C++",
-      "stars": 11988,
-      "forks": 3654,
-      "stars_today": 200,
+      "stars": 12171,
+      "forks": 3670,
+      "stars_today": 158,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -380,15 +380,15 @@
       ],
       "security_score": 90,
       "security_details": {
-        "author_age_days": 2622,
-        "repo_age_days": 2959,
+        "author_age_days": 2623,
+        "repo_age_days": 2960,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 1199,
-        "pr_count": 35410,
-        "star_fork_ratio": 3.28
+        "issue_count": 1211,
+        "pr_count": 35429,
+        "star_fork_ratio": 3.32
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -399,10 +399,10 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "ai_summary": "univer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 31144,
-      "forks": 2838,
+      "stars": 31358,
+      "forks": 2845,
       "stars_today": 0,
-      "stars_this_week": 7240,
+      "stars_this_week": 6436,
       "category": "hot",
       "tags": [
         "AI",
@@ -411,46 +411,47 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2462,
-        "repo_age_days": 1514,
+        "author_age_days": 2463,
+        "repo_age_days": 1515,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 208,
-        "pr_count": 5644,
-        "star_fork_ratio": 10.97
+        "issue_count": 209,
+        "pr_count": 5649,
+        "star_fork_ratio": 11.02
       },
-      "trending_days": 8,
+      "trending_days": 9,
       "first_seen": "2026-11-15T00:00:00.000Z"
     },
     {
-      "id": "GoogleChrome/modern-web-guidance-src",
-      "name": "modern-web-guidance-src",
-      "owner": "GoogleChrome",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "ai_summary": "modern-web-guidance-src 是一个面向 Skills / Agent 场景的开源项目，使用 Typ…",
-      "language": "TypeScript",
-      "stars": 9984,
-      "forks": 798,
+      "id": "kajisho5/ffmpeg-skill",
+      "name": "ffmpeg-skill",
+      "owner": "kajisho5",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "ai_summary": "ffmpeg-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 9935,
+      "forks": 876,
       "stars_today": 0,
-      "stars_this_week": 4400,
+      "stars_this_week": 3748,
       "category": "hot",
       "tags": [
+        "AI",
         "Skills",
         "Agent"
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5293,
-        "repo_age_days": 298,
+        "author_age_days": 3772,
+        "repo_age_days": 80,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 384,
-        "pr_count": 1605,
-        "star_fork_ratio": 12.51
+        "issue_count": 49,
+        "pr_count": 502,
+        "star_fork_ratio": 11.34
       },
-      "trending_days": 10,
-      "first_seen": "2026-11-13T00:00:00.000Z"
+      "trending_days": 1,
+      "first_seen": "2026-11-23T00:00:00.000Z"
     }
   ],
   "stats": {
@@ -458,7 +459,7 @@
     "hot": 15,
     "gem": 0,
     "by_tag": {
-      "AI": 10,
+      "AI": 11,
       "Skills": 10,
       "Agent": 9,
       "内容创作": 1
