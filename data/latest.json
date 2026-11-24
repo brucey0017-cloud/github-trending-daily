@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T09:06:04.040Z",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T10:55:16.730Z",
   "projects": [
     {
       "id": "elementalsouls/Claude-BugHunter",
       "name": "Claude-BugHunter",
       "owner": "elementalsouls",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "ai_summary": "Claude-BugHunter 是一个面向 AI / Skills 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 18572,
-      "forks": 2030,
-      "stars_today": 1716,
+      "stars": 20524,
+      "forks": 2172,
+      "stars_today": 2029,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -21,15 +21,15 @@
       ],
       "security_score": 95,
       "security_details": {
-        "author_age_days": 2790,
-        "repo_age_days": 201,
+        "author_age_days": 2791,
+        "repo_age_days": 202,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 23,
-        "pr_count": 188,
-        "star_fork_ratio": 9.15
+        "issue_count": 13,
+        "pr_count": 197,
+        "star_fork_ratio": 9.45
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "ai_summary": "firecrawl 是一个面向 Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 207349,
-      "forks": 10839,
-      "stars_today": 915,
+      "stars": 208359,
+      "forks": 10886,
+      "stars_today": 924,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -51,15 +51,45 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 1272,
-        "repo_age_days": 951,
+        "author_age_days": 1273,
+        "repo_age_days": 952,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 923,
-        "pr_count": 4745,
-        "star_fork_ratio": 19.13
+        "issue_count": 924,
+        "pr_count": 4773,
+        "star_fork_ratio": 19.14
       },
-      "trending_days": 4,
+      "trending_days": 5,
+      "first_seen": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "id": "zhouxiaoka/autoclip",
+      "name": "autoclip",
+      "owner": "zhouxiaoka",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "ai_summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕…",
+      "language": "Python",
+      "stars": 14968,
+      "forks": 2244,
+      "stars_today": 907,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "内容创作"
+      ],
+      "security_score": 100,
+      "security_details": {
+        "author_age_days": 2127,
+        "repo_age_days": 504,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 41,
+        "pr_count": 498,
+        "star_fork_ratio": 6.67
+      },
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -70,9 +100,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "ai_summary": "superpowers 是一个面向 Skills / Agent 场景的开源项目，使用 Shell 开发。",
       "language": "Shell",
-      "stars": 324493,
-      "forks": 28793,
-      "stars_today": 788,
+      "stars": 325506,
+      "forks": 28865,
+      "stars_today": 840,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -81,46 +111,45 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 6526,
-        "repo_age_days": 409,
+        "author_age_days": 6527,
+        "repo_age_days": 410,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 364,
-        "pr_count": 1390,
-        "star_fork_ratio": 11.27
+        "issue_count": 359,
+        "pr_count": 1388,
+        "star_fork_ratio": 11.28
       },
-      "trending_days": 6,
+      "trending_days": 7,
       "first_seen": "2026-11-18T00:00:00.000Z"
     },
     {
-      "id": "HKUDS/CLI-Anything",
-      "name": "CLI-Anything",
-      "owner": "HKUDS",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "ai_summary": "CLI-Anything 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "id": "jingyaogong/minimind",
+      "name": "minimind",
+      "owner": "jingyaogong",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "ai_summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch …",
       "language": "Python",
-      "stars": 63091,
-      "forks": 5736,
-      "stars_today": 699,
+      "stars": 69868,
+      "forks": 9107,
+      "stars_today": 828,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
-        "Skills",
-        "Agent"
+        "AI"
       ],
-      "security_score": 95,
+      "security_score": 100,
       "security_details": {
-        "author_age_days": 1470,
-        "repo_age_days": 259,
+        "author_age_days": 2442,
+        "repo_age_days": 850,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 286,
-        "pr_count": 476,
-        "star_fork_ratio": 11
+        "issue_count": 63,
+        "pr_count": 201,
+        "star_fork_ratio": 7.67
       },
       "trending_days": 5,
-      "first_seen": "2026-11-19T00:00:00.000Z"
+      "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
       "id": "mvanhorn/last30days-skill",
@@ -130,10 +159,10 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "ai_summary": "last30days-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Pytho…",
       "language": "Python",
-      "stars": 73029,
-      "forks": 6454,
-      "stars_today": 668,
-      "stars_this_week": 4731,
+      "stars": 73765,
+      "forks": 6510,
+      "stars_today": 797,
+      "stars_this_week": 5448,
       "category": "hot",
       "tags": [
         "AI",
@@ -142,46 +171,46 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 5871,
-        "repo_age_days": 303,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 24,
-        "pr_count": 1226,
-        "star_fork_ratio": 11.32
-      },
-      "trending_days": 7,
-      "first_seen": "2026-11-17T00:00:00.000Z"
-    },
-    {
-      "id": "zhouxiaoka/autoclip",
-      "name": "autoclip",
-      "owner": "zhouxiaoka",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "ai_summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕…",
-      "language": "Python",
-      "stars": 13917,
-      "forks": 2180,
-      "stars_today": 641,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "内容创作"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 2126,
-        "repo_age_days": 503,
+        "author_age_days": 5872,
+        "repo_age_days": 304,
         "has_license": true,
         "has_readme": true,
         "issue_count": 32,
-        "pr_count": 484,
-        "star_fork_ratio": 6.38
+        "pr_count": 1254,
+        "star_fork_ratio": 11.33
       },
-      "trending_days": 4,
-      "first_seen": "2026-11-20T00:00:00.000Z"
+      "trending_days": 8,
+      "first_seen": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "owner": "HKUDS",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "ai_summary": "CLI-Anything 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
+      "language": "Python",
+      "stars": 64183,
+      "forks": 5838,
+      "stars_today": 790,
+      "stars_this_week": 0,
+      "category": "hot",
+      "tags": [
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 95,
+      "security_details": {
+        "author_age_days": 1471,
+        "repo_age_days": 260,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 293,
+        "pr_count": 478,
+        "star_fork_ratio": 10.99
+      },
+      "trending_days": 6,
+      "first_seen": "2026-11-19T00:00:00.000Z"
     },
     {
       "id": "mjmirza/app-store-compliance",
@@ -191,9 +220,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "ai_summary": "app-store-compliance 是一个面向 AI / Skills / Agent 场景的开源项目，使用 S…",
       "language": "Shell",
-      "stars": 4329,
-      "forks": 276,
-      "stars_today": 621,
+      "stars": 5339,
+      "forks": 340,
+      "stars_today": 761,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -203,44 +232,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 3283,
-        "repo_age_days": 169,
+        "author_age_days": 3284,
+        "repo_age_days": 170,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 29,
-        "pr_count": 970,
-        "star_fork_ratio": 15.68
+        "issue_count": 32,
+        "pr_count": 972,
+        "star_fork_ratio": 15.7
       },
-      "trending_days": 4,
-      "first_seen": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "id": "toeverything/AFFiNE",
-      "name": "AFFiNE",
-      "owner": "toeverything",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "ai_summary": "AFFiNE 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
-      "language": "TypeScript",
-      "stars": 77040,
-      "forks": 5646,
-      "stars_today": 542,
-      "stars_this_week": 0,
-      "category": "hot",
-      "tags": [
-        "AI"
-      ],
-      "security_score": 100,
-      "security_details": {
-        "author_age_days": 2113,
-        "repo_age_days": 1575,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 739,
-        "pr_count": 10808,
-        "star_fork_ratio": 13.65
-      },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -251,9 +251,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "ai_summary": "diagram-design 是一个面向 AI 场景的开源项目，使用 HTML 开发。",
       "language": "HTML",
-      "stars": 70567,
-      "forks": 4736,
-      "stars_today": 518,
+      "stars": 71389,
+      "forks": 4767,
+      "stars_today": 620,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -261,59 +261,28 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2754,
-        "repo_age_days": 220,
+        "author_age_days": 2755,
+        "repo_age_days": 221,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 43,
-        "pr_count": 378,
-        "star_fork_ratio": 14.9
+        "issue_count": 39,
+        "pr_count": 375,
+        "star_fork_ratio": 14.98
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
-      "id": "google-labs-code/stitch-skills",
-      "name": "stitch-skills",
-      "owner": "google-labs-code",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
+      "id": "toeverything/AFFiNE",
+      "name": "AFFiNE",
+      "owner": "toeverything",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "ai_summary": "AFFiNE 是一个面向 AI 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 12067,
-      "forks": 1498,
-      "stars_today": 494,
-      "stars_this_week": 2683,
-      "category": "hot",
-      "tags": [
-        "AI",
-        "Skills",
-        "Agent"
-      ],
-      "security_score": 85,
-      "security_details": {
-        "author_age_days": 1000,
-        "repo_age_days": 310,
-        "has_license": true,
-        "has_readme": true,
-        "issue_count": 29,
-        "pr_count": 78,
-        "star_fork_ratio": 8.06
-      },
-      "trending_days": 8,
-      "first_seen": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "id": "jingyaogong/minimind",
-      "name": "minimind",
-      "owner": "jingyaogong",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "ai_summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch …",
-      "language": "Python",
-      "stars": 69101,
-      "forks": 9026,
-      "stars_today": 473,
+      "stars": 77650,
+      "forks": 5678,
+      "stars_today": 595,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -321,15 +290,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2441,
-        "repo_age_days": 849,
+        "author_age_days": 2115,
+        "repo_age_days": 1576,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 61,
-        "pr_count": 200,
-        "star_fork_ratio": 7.66
+        "issue_count": 662,
+        "pr_count": 10813,
+        "star_fork_ratio": 13.68
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -340,9 +309,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "ai_summary": "opensre 是一个面向 Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 14561,
-      "forks": 1979,
-      "stars_today": 399,
+      "stars": 14988,
+      "forks": 2002,
+      "stars_today": 436,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -351,16 +320,47 @@
       ],
       "security_score": 85,
       "security_details": {
-        "author_age_days": 667,
-        "repo_age_days": 314,
+        "author_age_days": 668,
+        "repo_age_days": 315,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 21,
-        "pr_count": 4416,
-        "star_fork_ratio": 7.36
+        "issue_count": 25,
+        "pr_count": 4422,
+        "star_fork_ratio": 7.49
       },
-      "trending_days": 3,
+      "trending_days": 4,
       "first_seen": "2026-11-21T00:00:00.000Z"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "owner": "google-labs-code",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "ai_summary": "stitch-skills 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScri…",
+      "language": "TypeScript",
+      "stars": 12477,
+      "forks": 1519,
+      "stars_today": 422,
+      "stars_this_week": 2572,
+      "category": "hot",
+      "tags": [
+        "AI",
+        "Skills",
+        "Agent"
+      ],
+      "security_score": 85,
+      "security_details": {
+        "author_age_days": 1001,
+        "repo_age_days": 311,
+        "has_license": true,
+        "has_readme": true,
+        "issue_count": 24,
+        "pr_count": 76,
+        "star_fork_ratio": 8.21
+      },
+      "trending_days": 9,
+      "first_seen": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "openvinotoolkit/openvino",
@@ -370,9 +370,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "ai_summary": "openvino 是一个面向 AI 场景的开源项目，使用 C++ 开发。",
       "language": "C++",
-      "stars": 12171,
-      "forks": 3670,
-      "stars_today": 158,
+      "stars": 12366,
+      "forks": 3683,
+      "stars_today": 184,
       "stars_this_week": 0,
       "category": "hot",
       "tags": [
@@ -380,15 +380,15 @@
       ],
       "security_score": 90,
       "security_details": {
-        "author_age_days": 2623,
-        "repo_age_days": 2960,
+        "author_age_days": 2624,
+        "repo_age_days": 2962,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 1211,
-        "pr_count": 35429,
-        "star_fork_ratio": 3.32
+        "issue_count": 1194,
+        "pr_count": 35474,
+        "star_fork_ratio": 3.36
       },
-      "trending_days": 4,
+      "trending_days": 5,
       "first_seen": "2026-11-20T00:00:00.000Z"
     },
     {
@@ -399,10 +399,10 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "ai_summary": "univer 是一个面向 AI / Skills / Agent 场景的开源项目，使用 TypeScript 开发。",
       "language": "TypeScript",
-      "stars": 31358,
-      "forks": 2845,
+      "stars": 31607,
+      "forks": 2852,
       "stars_today": 0,
-      "stars_this_week": 6436,
+      "stars_this_week": 4324,
       "category": "hot",
       "tags": [
         "AI",
@@ -411,15 +411,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 2463,
-        "repo_age_days": 1515,
+        "author_age_days": 2464,
+        "repo_age_days": 1516,
         "has_license": true,
         "has_readme": true,
         "issue_count": 209,
-        "pr_count": 5649,
-        "star_fork_ratio": 11.02
+        "pr_count": 5666,
+        "star_fork_ratio": 11.08
       },
-      "trending_days": 9,
+      "trending_days": 10,
       "first_seen": "2026-11-15T00:00:00.000Z"
     },
     {
@@ -430,10 +430,10 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "ai_summary": "ffmpeg-skill 是一个面向 AI / Skills / Agent 场景的开源项目，使用 Python 开发。",
       "language": "Python",
-      "stars": 9935,
-      "forks": 876,
+      "stars": 10454,
+      "forks": 908,
       "stars_today": 0,
-      "stars_this_week": 3748,
+      "stars_this_week": 3891,
       "category": "hot",
       "tags": [
         "AI",
@@ -442,15 +442,15 @@
       ],
       "security_score": 100,
       "security_details": {
-        "author_age_days": 3772,
-        "repo_age_days": 80,
+        "author_age_days": 3773,
+        "repo_age_days": 81,
         "has_license": true,
         "has_readme": true,
-        "issue_count": 49,
-        "pr_count": 502,
-        "star_fork_ratio": 11.34
+        "issue_count": 43,
+        "pr_count": 507,
+        "star_fork_ratio": 11.51
       },
-      "trending_days": 1,
+      "trending_days": 2,
       "first_seen": "2026-11-23T00:00:00.000Z"
     }
   ],
